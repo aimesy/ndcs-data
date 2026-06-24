@@ -1,0 +1,14 @@
+{
+  "bridge_result_attempt": 2,
+  "bridge_retry_count": 1,
+  "bridge_will_retry": false,
+  "completed_at_utc": "2026-06-24T10:49:31+00:00",
+  "error": "Error: Timed out waiting for CDP Runtime.evaluate\n    at Timeout._onTimeout (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:295:16)\n    at listOnTimeout (node:internal/timers:585:17)\n    at process.processTimers (node:internal/timers:521:7)",
+  "job_id": "probe-0020-200-20190713-20190713-exact_error_retry-000388-200-20190713-20190713",
+  "lane_id": "1245",
+  "ok": false,
+  "phase": "rescue:exact_error_retry",
+  "probe_method": "exact_error_retry",
+  "remote_output_dir": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T104525Z",
+  "source_job_id": "000388-200-20190713-20190713"
+}

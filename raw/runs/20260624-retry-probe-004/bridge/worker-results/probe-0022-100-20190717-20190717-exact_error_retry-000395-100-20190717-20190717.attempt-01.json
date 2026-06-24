@@ -1,0 +1,14 @@
+{
+  "bridge_result_attempt": 1,
+  "bridge_retry_count": 0,
+  "bridge_will_retry": true,
+  "completed_at_utc": "2026-06-24T10:47:59+00:00",
+  "error": "Error: CAPTCHA not submitted: refresh\n    at runOneJob (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:441:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:372:24)",
+  "job_id": "probe-0022-100-20190717-20190717-exact_error_retry-000395-100-20190717-20190717",
+  "lane_id": "1242",
+  "ok": false,
+  "phase": "rescue:exact_error_retry",
+  "probe_method": "exact_error_retry",
+  "remote_output_dir": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104655Z",
+  "source_job_id": "000395-100-20190717-20190717"
+}

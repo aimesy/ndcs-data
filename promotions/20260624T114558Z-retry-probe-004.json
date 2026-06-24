@@ -1,0 +1,1296 @@
+{
+  "data_repo": "C:\\Users\\amita\\Amybot\\projects\\ndcs-data",
+  "files": [
+    {
+      "action": "sanitized-json",
+      "bytes": 243092,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\bridge-summary.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\bridge-summary.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 793,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0001-100-20190620-20190620-exact_error_retry-000341-100-20190620-20190620.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0001-100-20190620-20190620-exact_error_retry-000341-100-20190620-20190620.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2985,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0001-100-20190620-20190620-exact_error_retry-000341-100-20190620-20190620.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0001-100-20190620-20190620-exact_error_retry-000341-100-20190620-20190620.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 610,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0001-100-20190620-20190620-exact_error_retry-000341-100-20190620-20190620.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0001-100-20190620-20190620-exact_error_retry-000341-100-20190620-20190620.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2985,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0001-100-20190620-20190620-exact_error_retry-000341-100-20190620-20190620.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0001-100-20190620-20190620-exact_error_retry-000341-100-20190620-20190620.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1053,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0002-200-20190622-20190622-exact_error_retry-000346-200-20190622-20190622.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0002-200-20190622-20190622-exact_error_retry-000346-200-20190622-20190622.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1053,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0002-200-20190622-20190622-exact_error_retry-000346-200-20190622-20190622.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0002-200-20190622-20190622-exact_error_retry-000346-200-20190622-20190622.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1007,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0008-200-20190625-20190625-exact_error_retry-000352-200-20190625-20190625.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0008-200-20190625-20190625-exact_error_retry-000352-200-20190625-20190625.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1054,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0008-200-20190625-20190625-exact_error_retry-000352-200-20190625-20190625.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0008-200-20190625-20190625-exact_error_retry-000352-200-20190625-20190625.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1054,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0008-200-20190625-20190625-exact_error_retry-000352-200-20190625-20190625.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0008-200-20190625-20190625-exact_error_retry-000352-200-20190625-20190625.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 815,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0009-100-20190626-20190626-exact_error_retry-000353-100-20190626-20190626.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0009-100-20190626-20190626-exact_error_retry-000353-100-20190626-20190626.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2985,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0009-100-20190626-20190626-exact_error_retry-000353-100-20190626-20190626.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0009-100-20190626-20190626-exact_error_retry-000353-100-20190626-20190626.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2985,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0009-100-20190626-20190626-exact_error_retry-000353-100-20190626-20190626.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0009-100-20190626-20190626-exact_error_retry-000353-100-20190626-20190626.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 719,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0010-200-20190626-20190626-exact_error_retry-000354-200-20190626-20190626.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0010-200-20190626-20190626-exact_error_retry-000354-200-20190626-20190626.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 720,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0010-200-20190626-20190626-exact_error_retry-000354-200-20190626-20190626.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0010-200-20190626-20190626-exact_error_retry-000354-200-20190626-20190626.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 720,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0010-200-20190626-20190626-exact_error_retry-000354-200-20190626-20190626.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0010-200-20190626-20190626-exact_error_retry-000354-200-20190626-20190626.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2986,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0011-100-20190627-20190627-exact_error_retry-000355-100-20190627-20190627.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0011-100-20190627-20190627-exact_error_retry-000355-100-20190627-20190627.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2986,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0011-100-20190627-20190627-exact_error_retry-000355-100-20190627-20190627.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0011-100-20190627-20190627-exact_error_retry-000355-100-20190627-20190627.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 780,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0013-200-20190629-20190629-exact_error_retry-000360-200-20190629-20190629.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0013-200-20190629-20190629-exact_error_retry-000360-200-20190629-20190629.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0013-200-20190629-20190629-exact_error_retry-000360-200-20190629-20190629.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0013-200-20190629-20190629-exact_error_retry-000360-200-20190629-20190629.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 594,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0013-200-20190629-20190629-exact_error_retry-000360-200-20190629-20190629.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0013-200-20190629-20190629-exact_error_retry-000360-200-20190629-20190629.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0013-200-20190629-20190629-exact_error_retry-000360-200-20190629-20190629.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0013-200-20190629-20190629-exact_error_retry-000360-200-20190629-20190629.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0014-100-20190630-20190630-exact_error_retry-000361-100-20190630-20190630.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0014-100-20190630-20190630-exact_error_retry-000361-100-20190630-20190630.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 594,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0014-100-20190630-20190630-exact_error_retry-000361-100-20190630-20190630.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0014-100-20190630-20190630-exact_error_retry-000361-100-20190630-20190630.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0014-100-20190630-20190630-exact_error_retry-000361-100-20190630-20190630.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0014-100-20190630-20190630-exact_error_retry-000361-100-20190630-20190630.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2986,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0015-200-20190702-20190702-exact_error_retry-000366-200-20190702-20190702.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0015-200-20190702-20190702-exact_error_retry-000366-200-20190702-20190702.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 598,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0015-200-20190702-20190702-exact_error_retry-000366-200-20190702-20190702.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0015-200-20190702-20190702-exact_error_retry-000366-200-20190702-20190702.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2986,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0015-200-20190702-20190702-exact_error_retry-000366-200-20190702-20190702.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0015-200-20190702-20190702-exact_error_retry-000366-200-20190702-20190702.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 719,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0016-100-20190705-20190705-exact_error_retry-000371-100-20190705-20190705.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0016-100-20190705-20190705-exact_error_retry-000371-100-20190705-20190705.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2995,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0016-100-20190705-20190705-exact_error_retry-000371-100-20190705-20190705.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0016-100-20190705-20190705-exact_error_retry-000371-100-20190705-20190705.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2995,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0016-100-20190705-20190705-exact_error_retry-000371-100-20190705-20190705.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0016-100-20190705-20190705-exact_error_retry-000371-100-20190705-20190705.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2983,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0017-200-20190705-20190705-exact_error_retry-000372-200-20190705-20190705.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0017-200-20190705-20190705-exact_error_retry-000372-200-20190705-20190705.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 596,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0017-200-20190705-20190705-exact_error_retry-000372-200-20190705-20190705.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0017-200-20190705-20190705-exact_error_retry-000372-200-20190705-20190705.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2983,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0017-200-20190705-20190705-exact_error_retry-000372-200-20190705-20190705.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0017-200-20190705-20190705-exact_error_retry-000372-200-20190705-20190705.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0018-200-20190710-20190710-exact_error_retry-000382-200-20190710-20190710.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0018-200-20190710-20190710-exact_error_retry-000382-200-20190710-20190710.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 594,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0018-200-20190710-20190710-exact_error_retry-000382-200-20190710-20190710.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0018-200-20190710-20190710-exact_error_retry-000382-200-20190710-20190710.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0018-200-20190710-20190710-exact_error_retry-000382-200-20190710-20190710.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0018-200-20190710-20190710-exact_error_retry-000382-200-20190710-20190710.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0019-100-20190713-20190713-exact_error_retry-000387-100-20190713-20190713.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0019-100-20190713-20190713-exact_error_retry-000387-100-20190713-20190713.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 594,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0019-100-20190713-20190713-exact_error_retry-000387-100-20190713-20190713.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0019-100-20190713-20190713-exact_error_retry-000387-100-20190713-20190713.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0019-100-20190713-20190713-exact_error_retry-000387-100-20190713-20190713.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0019-100-20190713-20190713-exact_error_retry-000387-100-20190713-20190713.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 793,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0020-200-20190713-20190713-exact_error_retry-000388-200-20190713-20190713.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0020-200-20190713-20190713-exact_error_retry-000388-200-20190713-20190713.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 781,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0020-200-20190713-20190713-exact_error_retry-000388-200-20190713-20190713.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0020-200-20190713-20190713-exact_error_retry-000388-200-20190713-20190713.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 781,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0020-200-20190713-20190713-exact_error_retry-000388-200-20190713-20190713.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0020-200-20190713-20190713-exact_error_retry-000388-200-20190713-20190713.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0021-200-20190716-20190716-exact_error_retry-000394-200-20190716-20190716.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0021-200-20190716-20190716-exact_error_retry-000394-200-20190716-20190716.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 594,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0021-200-20190716-20190716-exact_error_retry-000394-200-20190716-20190716.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0021-200-20190716-20190716-exact_error_retry-000394-200-20190716-20190716.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0021-200-20190716-20190716-exact_error_retry-000394-200-20190716-20190716.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0021-200-20190716-20190716-exact_error_retry-000394-200-20190716-20190716.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 817,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0022-100-20190717-20190717-exact_error_retry-000395-100-20190717-20190717.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0022-100-20190717-20190717-exact_error_retry-000395-100-20190717-20190717.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2995,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0022-100-20190717-20190717-exact_error_retry-000395-100-20190717-20190717.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0022-100-20190717-20190717-exact_error_retry-000395-100-20190717-20190717.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2995,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0022-100-20190717-20190717-exact_error_retry-000395-100-20190717-20190717.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0022-100-20190717-20190717-exact_error_retry-000395-100-20190717-20190717.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0023-200-20190720-20190720-exact_error_retry-000402-200-20190720-20190720.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0023-200-20190720-20190720-exact_error_retry-000402-200-20190720-20190720.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 594,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0023-200-20190720-20190720-exact_error_retry-000402-200-20190720-20190720.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0023-200-20190720-20190720-exact_error_retry-000402-200-20190720-20190720.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0023-200-20190720-20190720-exact_error_retry-000402-200-20190720-20190720.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0023-200-20190720-20190720-exact_error_retry-000402-200-20190720-20190720.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2986,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0024-200-20190722-20190722-exact_error_retry-000406-200-20190722-20190722.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0024-200-20190722-20190722-exact_error_retry-000406-200-20190722-20190722.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2986,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0024-200-20190722-20190722-exact_error_retry-000406-200-20190722-20190722.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0024-200-20190722-20190722-exact_error_retry-000406-200-20190722-20190722.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2995,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0025-100-20190723-20190723-exact_error_retry-000407-100-20190723-20190723.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0025-100-20190723-20190723-exact_error_retry-000407-100-20190723-20190723.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2995,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0025-100-20190723-20190723-exact_error_retry-000407-100-20190723-20190723.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0025-100-20190723-20190723-exact_error_retry-000407-100-20190723-20190723.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2995,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0026-100-20190724-20190724-exact_error_retry-000409-100-20190724-20190724.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0026-100-20190724-20190724-exact_error_retry-000409-100-20190724-20190724.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2995,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0026-100-20190724-20190724-exact_error_retry-000409-100-20190724-20190724.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0026-100-20190724-20190724-exact_error_retry-000409-100-20190724-20190724.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0027-200-20190725-20190725-exact_error_retry-000412-200-20190725-20190725.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0027-200-20190725-20190725-exact_error_retry-000412-200-20190725-20190725.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 594,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0027-200-20190725-20190725-exact_error_retry-000412-200-20190725-20190725.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0027-200-20190725-20190725-exact_error_retry-000412-200-20190725-20190725.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0027-200-20190725-20190725-exact_error_retry-000412-200-20190725-20190725.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0027-200-20190725-20190725-exact_error_retry-000412-200-20190725-20190725.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0028-100-20190727-20190727-exact_error_retry-000415-100-20190727-20190727.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0028-100-20190727-20190727-exact_error_retry-000415-100-20190727-20190727.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 594,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0028-100-20190727-20190727-exact_error_retry-000415-100-20190727-20190727.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0028-100-20190727-20190727-exact_error_retry-000415-100-20190727-20190727.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0028-100-20190727-20190727-exact_error_retry-000415-100-20190727-20190727.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0028-100-20190727-20190727-exact_error_retry-000415-100-20190727-20190727.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0029-200-20190728-20190728-exact_error_retry-000418-200-20190728-20190728.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0029-200-20190728-20190728-exact_error_retry-000418-200-20190728-20190728.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 594,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0029-200-20190728-20190728-exact_error_retry-000418-200-20190728-20190728.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0029-200-20190728-20190728-exact_error_retry-000418-200-20190728-20190728.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2980,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0029-200-20190728-20190728-exact_error_retry-000418-200-20190728-20190728.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0029-200-20190728-20190728-exact_error_retry-000418-200-20190728-20190728.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2986,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0030-100-20190730-20190730-exact_error_retry-000421-100-20190730-20190730.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0030-100-20190730-20190730-exact_error_retry-000421-100-20190730-20190730.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 598,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0030-100-20190730-20190730-exact_error_retry-000421-100-20190730-20190730.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0030-100-20190730-20190730-exact_error_retry-000421-100-20190730-20190730.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2986,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0030-100-20190730-20190730-exact_error_retry-000421-100-20190730-20190730.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0030-100-20190730-20190730-exact_error_retry-000421-100-20190730-20190730.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 710,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0032-200-20190621-20190623-date_window_3d-000346-200-20190622-20190622.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0032-200-20190621-20190623-date_window_3d-000346-200-20190622-20190622.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2956,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0032-200-20190621-20190623-date_window_3d-000346-200-20190622-20190622.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0032-200-20190621-20190623-date_window_3d-000346-200-20190622-20190622.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 592,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0032-200-20190621-20190623-date_window_3d-000346-200-20190622-20190622.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0032-200-20190621-20190623-date_window_3d-000346-200-20190622-20190622.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2956,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0032-200-20190621-20190623-date_window_3d-000346-200-20190622-20190622.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0032-200-20190621-20190623-date_window_3d-000346-200-20190622-20190622.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0033-100-20190622-20190624-date_window_3d-000347-100-20190623-20190623.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0033-100-20190622-20190624-date_window_3d-000347-100-20190623-20190623.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 592,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0033-100-20190622-20190624-date_window_3d-000347-100-20190623-20190623.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0033-100-20190622-20190624-date_window_3d-000347-100-20190623-20190623.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0033-100-20190622-20190624-date_window_3d-000347-100-20190623-20190623.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0033-100-20190622-20190624-date_window_3d-000347-100-20190623-20190623.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2956,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2956,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 998,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0035-100-20190623-20190625-date_window_3d-000349-100-20190624-20190624.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0035-100-20190623-20190625-date_window_3d-000349-100-20190624-20190624.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2950,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0035-100-20190623-20190625-date_window_3d-000349-100-20190624-20190624.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0035-100-20190623-20190625-date_window_3d-000349-100-20190624-20190624.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 588,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0035-100-20190623-20190625-date_window_3d-000349-100-20190624-20190624.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0035-100-20190623-20190625-date_window_3d-000349-100-20190624-20190624.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2950,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0035-100-20190623-20190625-date_window_3d-000349-100-20190624-20190624.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0035-100-20190623-20190625-date_window_3d-000349-100-20190624-20190624.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0036-200-20190623-20190625-date_window_3d-000350-200-20190624-20190624.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0036-200-20190623-20190625-date_window_3d-000350-200-20190624-20190624.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 592,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0036-200-20190623-20190625-date_window_3d-000350-200-20190624-20190624.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0036-200-20190623-20190625-date_window_3d-000350-200-20190624-20190624.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0036-200-20190623-20190625-date_window_3d-000350-200-20190624-20190624.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0036-200-20190623-20190625-date_window_3d-000350-200-20190624-20190624.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 710,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0037-100-20190624-20190626-date_window_3d-000351-100-20190625-20190625.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0037-100-20190624-20190626-date_window_3d-000351-100-20190625-20190625.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 999,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0037-100-20190624-20190626-date_window_3d-000351-100-20190625-20190625.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0037-100-20190624-20190626-date_window_3d-000351-100-20190625-20190625.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 999,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0037-100-20190624-20190626-date_window_3d-000351-100-20190625-20190625.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0037-100-20190624-20190626-date_window_3d-000351-100-20190625-20190625.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0038-200-20190624-20190626-date_window_3d-000352-200-20190625-20190625.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0038-200-20190624-20190626-date_window_3d-000352-200-20190625-20190625.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0038-200-20190624-20190626-date_window_3d-000352-200-20190625-20190625.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0038-200-20190624-20190626-date_window_3d-000352-200-20190625-20190625.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0039-100-20190625-20190627-date_window_3d-000353-100-20190626-20190626.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0039-100-20190625-20190627-date_window_3d-000353-100-20190626-20190626.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0039-100-20190625-20190627-date_window_3d-000353-100-20190626-20190626.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0039-100-20190625-20190627-date_window_3d-000353-100-20190626-20190626.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0040-200-20190625-20190627-date_window_3d-000354-200-20190626-20190626.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0040-200-20190625-20190627-date_window_3d-000354-200-20190626-20190626.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 592,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0040-200-20190625-20190627-date_window_3d-000354-200-20190626-20190626.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0040-200-20190625-20190627-date_window_3d-000354-200-20190626-20190626.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0040-200-20190625-20190627-date_window_3d-000354-200-20190626-20190626.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0040-200-20190625-20190627-date_window_3d-000354-200-20190626-20190626.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 771,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0041-100-20190626-20190628-date_window_3d-000355-100-20190627-20190627.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0041-100-20190626-20190628-date_window_3d-000355-100-20190627-20190627.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2950,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0041-100-20190626-20190628-date_window_3d-000355-100-20190627-20190627.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0041-100-20190626-20190628-date_window_3d-000355-100-20190627-20190627.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 588,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0041-100-20190626-20190628-date_window_3d-000355-100-20190627-20190627.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0041-100-20190626-20190628-date_window_3d-000355-100-20190627-20190627.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2950,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0041-100-20190626-20190628-date_window_3d-000355-100-20190627-20190627.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0041-100-20190626-20190628-date_window_3d-000355-100-20190627-20190627.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0042-200-20190626-20190628-date_window_3d-000356-200-20190627-20190627.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0042-200-20190626-20190628-date_window_3d-000356-200-20190627-20190627.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0042-200-20190626-20190628-date_window_3d-000356-200-20190627-20190627.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0042-200-20190626-20190628-date_window_3d-000356-200-20190627-20190627.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 710,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0043-200-20190628-20190630-date_window_3d-000360-200-20190629-20190629.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0043-200-20190628-20190630-date_window_3d-000360-200-20190629-20190629.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1095,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0043-200-20190628-20190630-date_window_3d-000360-200-20190629-20190629.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0043-200-20190628-20190630-date_window_3d-000360-200-20190629-20190629.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1095,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0043-200-20190628-20190630-date_window_3d-000360-200-20190629-20190629.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0043-200-20190628-20190630-date_window_3d-000360-200-20190629-20190629.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0044-100-20190629-20190701-date_window_3d-000361-100-20190630-20190630.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0044-100-20190629-20190701-date_window_3d-000361-100-20190630-20190630.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 592,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0044-100-20190629-20190701-date_window_3d-000361-100-20190630-20190630.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0044-100-20190629-20190701-date_window_3d-000361-100-20190630-20190630.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0044-100-20190629-20190701-date_window_3d-000361-100-20190630-20190630.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0044-100-20190629-20190701-date_window_3d-000361-100-20190630-20190630.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0045-200-20190701-20190703-date_window_3d-000366-200-20190702-20190702.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0045-200-20190701-20190703-date_window_3d-000366-200-20190702-20190702.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 605,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0045-200-20190701-20190703-date_window_3d-000366-200-20190702-20190702.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0045-200-20190701-20190703-date_window_3d-000366-200-20190702-20190702.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0045-200-20190701-20190703-date_window_3d-000366-200-20190702-20190702.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0045-200-20190701-20190703-date_window_3d-000366-200-20190702-20190702.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 768,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0046-100-20190704-20190706-date_window_3d-000371-100-20190705-20190705.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0046-100-20190704-20190706-date_window_3d-000371-100-20190705-20190705.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 711,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0046-100-20190704-20190706-date_window_3d-000371-100-20190705-20190705.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0046-100-20190704-20190706-date_window_3d-000371-100-20190705-20190705.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 711,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0046-100-20190704-20190706-date_window_3d-000371-100-20190705-20190705.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0046-100-20190704-20190706-date_window_3d-000371-100-20190705-20190705.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 771,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0047-200-20190704-20190706-date_window_3d-000372-200-20190705-20190705.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0047-200-20190704-20190706-date_window_3d-000372-200-20190705-20190705.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2953,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0047-200-20190704-20190706-date_window_3d-000372-200-20190705-20190705.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0047-200-20190704-20190706-date_window_3d-000372-200-20190705-20190705.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 590,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0047-200-20190704-20190706-date_window_3d-000372-200-20190705-20190705.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0047-200-20190704-20190706-date_window_3d-000372-200-20190705-20190705.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2953,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0047-200-20190704-20190706-date_window_3d-000372-200-20190705-20190705.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0047-200-20190704-20190706-date_window_3d-000372-200-20190705-20190705.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0048-200-20190709-20190711-date_window_3d-000382-200-20190710-20190710.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0048-200-20190709-20190711-date_window_3d-000382-200-20190710-20190710.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2965,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0048-200-20190709-20190711-date_window_3d-000382-200-20190710-20190710.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0048-200-20190709-20190711-date_window_3d-000382-200-20190710-20190710.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2950,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0049-100-20190712-20190714-date_window_3d-000387-100-20190713-20190713.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0049-100-20190712-20190714-date_window_3d-000387-100-20190713-20190713.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 588,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0049-100-20190712-20190714-date_window_3d-000387-100-20190713-20190713.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0049-100-20190712-20190714-date_window_3d-000387-100-20190713-20190713.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2950,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0049-100-20190712-20190714-date_window_3d-000387-100-20190713-20190713.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0049-100-20190712-20190714-date_window_3d-000387-100-20190713-20190713.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2956,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0050-200-20190712-20190714-date_window_3d-000388-200-20190713-20190713.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0050-200-20190712-20190714-date_window_3d-000388-200-20190713-20190713.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 2956,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0050-200-20190712-20190714-date_window_3d-000388-200-20190713-20190713.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0050-200-20190712-20190714-date_window_3d-000388-200-20190713-20190713.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0051-100-20190701-20190701-alternate_sort_fileddaterev-000363-100-20190701-20190701.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0051-100-20190701-20190701-alternate_sort_fileddaterev-000363-100-20190701-20190701.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0051-100-20190701-20190701-alternate_sort_fileddaterev-000363-100-20190701-20190701.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0051-100-20190701-20190701-alternate_sort_fileddaterev-000363-100-20190701-20190701.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1031,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0052-100-20190701-20190701-alternate_sort_casenumber-000363-100-20190701-20190701.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0052-100-20190701-20190701-alternate_sort_casenumber-000363-100-20190701-20190701.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 744,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0052-100-20190701-20190701-alternate_sort_casenumber-000363-100-20190701-20190701.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0052-100-20190701-20190701-alternate_sort_casenumber-000363-100-20190701-20190701.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 744,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0052-100-20190701-20190701-alternate_sort_casenumber-000363-100-20190701-20190701.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0052-100-20190701-20190701-alternate_sort_casenumber-000363-100-20190701-20190701.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 807,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0053-100-20190703-20190703-alternate_sort_fileddaterev-000367-100-20190703-20190703.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0053-100-20190703-20190703-alternate_sort_fileddaterev-000367-100-20190703-20190703.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0053-100-20190703-20190703-alternate_sort_fileddaterev-000367-100-20190703-20190703.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0053-100-20190703-20190703-alternate_sort_fileddaterev-000367-100-20190703-20190703.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 618,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0053-100-20190703-20190703-alternate_sort_fileddaterev-000367-100-20190703-20190703.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0053-100-20190703-20190703-alternate_sort_fileddaterev-000367-100-20190703-20190703.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0053-100-20190703-20190703-alternate_sort_fileddaterev-000367-100-20190703-20190703.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0053-100-20190703-20190703-alternate_sort_fileddaterev-000367-100-20190703-20190703.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0054-100-20190703-20190703-alternate_sort_casenumber-000367-100-20190703-20190703.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0054-100-20190703-20190703-alternate_sort_casenumber-000367-100-20190703-20190703.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 614,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0054-100-20190703-20190703-alternate_sort_casenumber-000367-100-20190703-20190703.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0054-100-20190703-20190703-alternate_sort_casenumber-000367-100-20190703-20190703.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0054-100-20190703-20190703-alternate_sort_casenumber-000367-100-20190703-20190703.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0054-100-20190703-20190703-alternate_sort_casenumber-000367-100-20190703-20190703.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0055-100-20190708-20190708-alternate_sort_fileddaterev-000377-100-20190708-20190708.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0055-100-20190708-20190708-alternate_sort_fileddaterev-000377-100-20190708-20190708.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0055-100-20190708-20190708-alternate_sort_fileddaterev-000377-100-20190708-20190708.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0055-100-20190708-20190708-alternate_sort_fileddaterev-000377-100-20190708-20190708.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 804,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0056-100-20190708-20190708-alternate_sort_casenumber-000377-100-20190708-20190708.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0056-100-20190708-20190708-alternate_sort_casenumber-000377-100-20190708-20190708.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 818,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0056-100-20190708-20190708-alternate_sort_casenumber-000377-100-20190708-20190708.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0056-100-20190708-20190708-alternate_sort_casenumber-000377-100-20190708-20190708.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 818,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0056-100-20190708-20190708-alternate_sort_casenumber-000377-100-20190708-20190708.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0056-100-20190708-20190708-alternate_sort_casenumber-000377-100-20190708-20190708.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1037,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0057-100-20190710-20190710-alternate_sort_fileddaterev-000381-100-20190710-20190710.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0057-100-20190710-20190710-alternate_sort_fileddaterev-000381-100-20190710-20190710.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 750,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0057-100-20190710-20190710-alternate_sort_fileddaterev-000381-100-20190710-20190710.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0057-100-20190710-20190710-alternate_sort_fileddaterev-000381-100-20190710-20190710.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 750,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0057-100-20190710-20190710-alternate_sort_fileddaterev-000381-100-20190710-20190710.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0057-100-20190710-20190710-alternate_sort_fileddaterev-000381-100-20190710-20190710.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0058-100-20190710-20190710-alternate_sort_casenumber-000381-100-20190710-20190710.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0058-100-20190710-20190710-alternate_sort_casenumber-000381-100-20190710-20190710.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 614,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0058-100-20190710-20190710-alternate_sort_casenumber-000381-100-20190710-20190710.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0058-100-20190710-20190710-alternate_sort_casenumber-000381-100-20190710-20190710.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0058-100-20190710-20190710-alternate_sort_casenumber-000381-100-20190710-20190710.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0058-100-20190710-20190710-alternate_sort_casenumber-000381-100-20190710-20190710.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0059-100-20190711-20190711-alternate_sort_fileddaterev-000383-100-20190711-20190711.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0059-100-20190711-20190711-alternate_sort_fileddaterev-000383-100-20190711-20190711.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0059-100-20190711-20190711-alternate_sort_fileddaterev-000383-100-20190711-20190711.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0059-100-20190711-20190711-alternate_sort_fileddaterev-000383-100-20190711-20190711.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0060-100-20190711-20190711-alternate_sort_casenumber-000383-100-20190711-20190711.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0060-100-20190711-20190711-alternate_sort_casenumber-000383-100-20190711-20190711.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0060-100-20190711-20190711-alternate_sort_casenumber-000383-100-20190711-20190711.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0060-100-20190711-20190711-alternate_sort_casenumber-000383-100-20190711-20190711.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0061-100-20190712-20190712-alternate_sort_fileddaterev-000385-100-20190712-20190712.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0061-100-20190712-20190712-alternate_sort_fileddaterev-000385-100-20190712-20190712.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0061-100-20190712-20190712-alternate_sort_fileddaterev-000385-100-20190712-20190712.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0061-100-20190712-20190712-alternate_sort_fileddaterev-000385-100-20190712-20190712.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 743,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0062-100-20190712-20190712-alternate_sort_casenumber-000385-100-20190712-20190712.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0062-100-20190712-20190712-alternate_sort_casenumber-000385-100-20190712-20190712.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0062-100-20190712-20190712-alternate_sort_casenumber-000385-100-20190712-20190712.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0062-100-20190712-20190712-alternate_sort_casenumber-000385-100-20190712-20190712.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0062-100-20190712-20190712-alternate_sort_casenumber-000385-100-20190712-20190712.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0062-100-20190712-20190712-alternate_sort_casenumber-000385-100-20190712-20190712.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 749,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0063-100-20190729-20190729-alternate_sort_fileddaterev-000419-100-20190729-20190729.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0063-100-20190729-20190729-alternate_sort_fileddaterev-000419-100-20190729-20190729.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1134,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0063-100-20190729-20190729-alternate_sort_fileddaterev-000419-100-20190729-20190729.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0063-100-20190729-20190729-alternate_sort_fileddaterev-000419-100-20190729-20190729.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1134,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0063-100-20190729-20190729-alternate_sort_fileddaterev-000419-100-20190729-20190729.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0063-100-20190729-20190729-alternate_sort_fileddaterev-000419-100-20190729-20190729.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0064-100-20190729-20190729-alternate_sort_casenumber-000419-100-20190729-20190729.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0064-100-20190729-20190729-alternate_sort_casenumber-000419-100-20190729-20190729.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 614,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0064-100-20190729-20190729-alternate_sort_casenumber-000419-100-20190729-20190729.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0064-100-20190729-20190729-alternate_sort_casenumber-000419-100-20190729-20190729.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0064-100-20190729-20190729-alternate_sort_casenumber-000419-100-20190729-20190729.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0064-100-20190729-20190729-alternate_sort_casenumber-000419-100-20190729-20190729.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0065-100-20190805-20190805-alternate_sort_fileddaterev-000433-100-20190805-20190805.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0065-100-20190805-20190805-alternate_sort_fileddaterev-000433-100-20190805-20190805.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 618,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0065-100-20190805-20190805-alternate_sort_fileddaterev-000433-100-20190805-20190805.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0065-100-20190805-20190805-alternate_sort_fileddaterev-000433-100-20190805-20190805.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0065-100-20190805-20190805-alternate_sort_fileddaterev-000433-100-20190805-20190805.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0065-100-20190805-20190805-alternate_sort_fileddaterev-000433-100-20190805-20190805.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1127,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0066-100-20190805-20190805-alternate_sort_casenumber-000433-100-20190805-20190805.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0066-100-20190805-20190805-alternate_sort_casenumber-000433-100-20190805-20190805.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 805,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0066-100-20190805-20190805-alternate_sort_casenumber-000433-100-20190805-20190805.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0066-100-20190805-20190805-alternate_sort_casenumber-000433-100-20190805-20190805.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 805,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0066-100-20190805-20190805-alternate_sort_casenumber-000433-100-20190805-20190805.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0066-100-20190805-20190805-alternate_sort_casenumber-000433-100-20190805-20190805.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0067-100-20190809-20190809-alternate_sort_fileddaterev-000441-100-20190809-20190809.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0067-100-20190809-20190809-alternate_sort_fileddaterev-000441-100-20190809-20190809.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0067-100-20190809-20190809-alternate_sort_fileddaterev-000441-100-20190809-20190809.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0067-100-20190809-20190809-alternate_sort_fileddaterev-000441-100-20190809-20190809.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 1077,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0068-100-20190809-20190809-alternate_sort_casenumber-000441-100-20190809-20190809.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0068-100-20190809-20190809-alternate_sort_casenumber-000441-100-20190809-20190809.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 805,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0068-100-20190809-20190809-alternate_sort_casenumber-000441-100-20190809-20190809.attempt-02.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0068-100-20190809-20190809-alternate_sort_casenumber-000441-100-20190809-20190809.attempt-02.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 805,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0068-100-20190809-20190809-alternate_sort_casenumber-000441-100-20190809-20190809.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0068-100-20190809-20190809-alternate_sort_casenumber-000441-100-20190809-20190809.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0069-100-20190820-20190820-alternate_sort_fileddaterev-000463-100-20190820-20190820.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0069-100-20190820-20190820-alternate_sort_fileddaterev-000463-100-20190820-20190820.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 618,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0069-100-20190820-20190820-alternate_sort_fileddaterev-000463-100-20190820-20190820.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0069-100-20190820-20190820-alternate_sort_fileddaterev-000463-100-20190820-20190820.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3098,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0069-100-20190820-20190820-alternate_sort_fileddaterev-000463-100-20190820-20190820.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0069-100-20190820-20190820-alternate_sort_fileddaterev-000463-100-20190820-20190820.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0070-100-20190820-20190820-alternate_sort_casenumber-000463-100-20190820-20190820.attempt-01.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0070-100-20190820-20190820-alternate_sort_casenumber-000463-100-20190820-20190820.attempt-01.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 614,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0070-100-20190820-20190820-alternate_sort_casenumber-000463-100-20190820-20190820.details.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0070-100-20190820-20190820-alternate_sort_casenumber-000463-100-20190820-20190820.details.json"
+    },
+    {
+      "action": "sanitized-json",
+      "bytes": 3076,
+      "destination": "raw\\runs\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0070-100-20190820-20190820-alternate_sort_casenumber-000463-100-20190820-20190820.json",
+      "run_id": "20260624-retry-probe-004",
+      "source": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004\\bridge\\worker-results\\probe-0070-100-20190820-20190820-alternate_sort_casenumber-000463-100-20190820-20190820.json"
+    }
+  ],
+  "generated_at_utc": "2026-06-24T11:45:58+00:00",
+  "promoted_file_count": 182,
+  "runs": [
+    {
+      "promoted_bytes": 609779,
+      "promoted_file_count": 182,
+      "run_id": "20260624-retry-probe-004",
+      "source_root": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches\\20260624-retry-probe-004"
+    }
+  ],
+  "schema": "ndcs-data-promotion/v1",
+  "skipped": {
+    "operational-name": 2,
+    "operational-path": 140,
+    "unsupported-suffix": 5
+  },
+  "source_root": "C:\\Users\\amita\\Amybot\\projects\\ndcs\\tmp\\date-batches"
+}

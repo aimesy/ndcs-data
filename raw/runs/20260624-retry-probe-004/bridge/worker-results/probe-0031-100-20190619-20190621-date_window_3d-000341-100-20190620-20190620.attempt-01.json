@@ -1,0 +1,50 @@
+{
+  "background_detail": {
+    "log_path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620/details/detail-worker.log",
+    "manifest_path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620/details/detail-manifest.json",
+    "pid": 1638884,
+    "session_path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620/detail-session.json"
+  },
+  "bridge_result_attempt": 1,
+  "bridge_retry_count": 0,
+  "bridge_will_retry": false,
+  "bucket": {
+    "end": "06/21/2019",
+    "label": "20190619-20190621",
+    "start": "06/19/2019"
+  },
+  "capped": true,
+  "completed_at_utc": "2026-06-24T10:50:32+00:00",
+  "detail_status": "background_started",
+  "detail_summary": {
+    "detail_error_count": 0,
+    "detail_page_count": 200,
+    "detail_page_ok_count": 0,
+    "detail_pending_count": 200,
+    "document_link_count": 0,
+    "document_saved_count": 0
+  },
+  "details": [],
+  "job_id": "probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620",
+  "lane_id": "1242",
+  "location": "State of North Dakota",
+  "message": "possible_cap",
+  "mode": "date_filed",
+  "node_id": "1,110,1118,1132,120,1203,1205,1210,1225,1234,1235,1236,1238,1240,1248,1250,210,2109,2146,2149,220,2202,2211,2214,2216,2220,3122,2223,3124,3126,2237,2239,2241,2247,2252,310,3108,3115,3119,3128,3129,3130,3133,3142,3143,320,3201,3204,3206,3213,3217,3221,3244,3245,420,4107,4131,4151,410,4112,4127,4153,900,9008,9036,9045,9019,9018,9047,9108,9030,9051,9039,9009,9053,9002,9070,9118",
+  "ok": true,
+  "phase": "rescue:date_window_3d",
+  "probe_method": "date_window_3d",
+  "product_id": 100,
+  "query_values": {
+    "DateFiledOnAfter": "06/19/2019",
+    "DateFiledOnBefore": "06/21/2019",
+    "SortBy": "fileddate"
+  },
+  "remote_detail_manifest": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620/details/detail-manifest.json",
+  "remote_output_dir": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620",
+  "remote_saved_html": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620/product-100-date_filed-20260624T105032Z.html",
+  "remote_saved_index": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0031-100-20190619-20190621-date_window_3d-000341-100-20190620-20190620/product-100-date_filed-20260624T105032Z.index.json",
+  "row_count": 200,
+  "sequence": 31,
+  "source_job_id": "000341-100-20190620-20190620"
+}

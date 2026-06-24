@@ -1,0 +1,14 @@
+{
+  "completed_at_utc": "2026-06-24T11:25:53+00:00",
+  "detail_status": "complete_with_errors",
+  "detail_summary": {
+    "detail_error_count": 13,
+    "detail_page_count": 200,
+    "detail_page_ok_count": 187,
+    "document_link_count": 0,
+    "document_saved_count": 0
+  },
+  "job_id": "probe-0045-200-20190701-20190703-date_window_3d-000366-200-20190702-20190702",
+  "ok": true,
+  "remote_detail_manifest": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T105402Z/probe-0045-200-20190701-20190703-date_window_3d-000366-200-20190702-20190702/details/detail-manifest.json"
+}

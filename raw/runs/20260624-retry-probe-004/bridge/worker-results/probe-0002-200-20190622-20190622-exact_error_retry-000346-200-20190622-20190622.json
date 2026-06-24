@@ -1,0 +1,14 @@
+{
+  "bridge_result_attempt": 1,
+  "bridge_retry_count": 0,
+  "bridge_will_retry": true,
+  "completed_at_utc": "2026-06-24T10:42:26+00:00",
+  "error": "Error: Search form blocked by upstream access challenge during search form url=https://publicsearch.ndcourts.gov/Search.aspx?ID=200 title=\"Just a moment...\"\n    at throwIfAccessChallenge (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:597:11)\n    at async openSearchForm (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:543:5)\n    at async runOneJob (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:413:18)\n    at async run (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:372:24)",
+  "job_id": "probe-0002-200-20190622-20190622-exact_error_retry-000346-200-20190622-20190622",
+  "lane_id": "1241",
+  "ok": false,
+  "phase": "rescue:exact_error_retry",
+  "probe_method": "exact_error_retry",
+  "remote_output_dir": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1241/20260624T104105Z",
+  "source_job_id": "000346-200-20190622-20190622"
+}
