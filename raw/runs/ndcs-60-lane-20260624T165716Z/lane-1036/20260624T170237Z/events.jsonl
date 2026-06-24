@@ -63,3 +63,6 @@
 {"at_utc": "2026-06-24T17:16:41+00:00", "completed": 40, "event": "details_background_retry_progress", "job_id": "000338-200-20190618-20190618", "total": 70}
 {"at_utc": "2026-06-24T17:17:02+00:00", "completed": 50, "event": "details_background_retry_progress", "job_id": "000338-200-20190618-20190618", "total": 70}
 {"at_utc": "2026-06-24T17:17:28+00:00", "completed": 60, "event": "details_background_retry_progress", "job_id": "000338-200-20190618-20190618", "total": 70}
+{"at_utc": "2026-06-24T17:17:51+00:00", "completed": 70, "event": "details_background_retry_progress", "job_id": "000338-200-20190618-20190618", "total": 70}
+{"at_utc": "2026-06-24T17:17:52+00:00", "detail_error_count": 111, "detail_page_count": 156, "detail_page_ok_count": 45, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000338-200-20190618-20190618"}
+{"at_utc": "2026-06-24T17:17:54+00:00", "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at async timedFetch (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:147:12)\n    at async postDetailResult (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:604:20)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:630:7)", "event": "details_background_bridge_result_error", "job_id": "000338-200-20190618-20190618"}
