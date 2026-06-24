@@ -1,0 +1,2824 @@
+[
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "02-2019-CV-00064",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205709",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205709",
+    "index": 1,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/02-2019-CV-00064/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205709&CaseID=4205709",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 0,
+    "bytes": 24969,
+    "case_number": "05-2019-PR-00026",
+    "case_number_on_page": "05-2019-PR-00026",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206062",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206062",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 2,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "Application for Informal Probate of Will and Appt of PR",
+        "index_number": "1",
+        "title": "Application for Appointment of Personal Representative"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Letters Testamentary",
+        "index_number": "2",
+        "title": "Proposed Letters"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Last Will and Testament",
+        "index_number": "3",
+        "title": "Last Will and Testament"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Confidential Information Form",
+        "index_number": "4",
+        "title": "Confidential Information Form"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Death Certificate [Redacted]",
+        "index_number": "5",
+        "title": "Certificate"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Statement of Informal Probate of Will and Appt of PR",
+        "index_number": "6",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Mailing",
+        "index_number": "7",
+        "title": "Affidavit"
+      },
+      {
+        "date": "04/04/2019",
+        "description": "of Informal Probate of Will and Appointment of Personal Representative",
+        "index_number": "8",
+        "title": "Statement"
+      },
+      {
+        "date": "04/04/2019",
+        "description": "Affidavit of Mailing",
+        "index_number": "9",
+        "title": "Letters Testamentary"
+      },
+      {
+        "date": "04/16/2019",
+        "description": "Notice and Information to Heirs and Devisees",
+        "index_number": "11",
+        "title": "Notice"
+      },
+      {
+        "date": "04/16/2019",
+        "description": "Notice to Creditors",
+        "index_number": "12",
+        "title": "Notice"
+      },
+      {
+        "date": "04/16/2019",
+        "description": "Affidavit Forwarding Copy of App to Dept of HS",
+        "index_number": "13",
+        "title": "Affidavit"
+      },
+      {
+        "date": "04/16/2019",
+        "description": "Affidavit of Service by Mail - DHS",
+        "index_number": "14",
+        "title": "Affidavit"
+      },
+      {
+        "date": "04/16/2019",
+        "description": "Affidavit of Mailing 4-16-19",
+        "index_number": "15",
+        "title": "Affidavit"
+      },
+      {
+        "date": "05/10/2019",
+        "description": "Affidavit of Mailing 5-10-19 - Heirs",
+        "index_number": "16",
+        "title": "Affidavit"
+      },
+      {
+        "date": "05/10/2019",
+        "description": "Affidavit of Publication",
+        "index_number": "17",
+        "title": "Affidavit"
+      },
+      {
+        "date": "09/26/2019",
+        "description": "Inventory & Appraisement",
+        "index_number": "18",
+        "title": "Inventory & Appraisement"
+      },
+      {
+        "date": "09/26/2019",
+        "description": "Affidavit of Mailing 9-26-19 - Heirs",
+        "index_number": "19",
+        "title": "Service Document"
+      },
+      {
+        "date": "02/20/2020",
+        "description": "Petition to Allow Final Account Settlement and Confirmation of Distribution of Estate by Personal Representative",
+        "index_number": "20",
+        "title": "Petition"
+      },
+      {
+        "date": "02/20/2020",
+        "description": "Petition for Discharge of Personal Representative",
+        "index_number": "21",
+        "title": "Petition"
+      },
+      {
+        "date": "02/20/2020",
+        "description": "Personal Representative's Sworn Statement to Close The Estate",
+        "index_number": "22",
+        "title": "Personal Representative's Sworn Statement to Close Estate"
+      },
+      {
+        "date": "02/20/2020",
+        "description": "Final Account",
+        "index_number": "23",
+        "title": "Final Report and Accounting"
+      },
+      {
+        "date": "02/20/2020",
+        "description": "Notice of Hearing on Petition to Allow Final Account Settlement and Confirmation of Distribution of Estate by Personal Representative",
+        "index_number": "24",
+        "title": "Notice of Hearing"
+      },
+      {
+        "date": "02/20/2020",
+        "description": "[Proposed] Order to Allow Final Account Settlement and Confirmation of Distribution of Estate by Personal Representative",
+        "index_number": "25",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "02/20/2020",
+        "description": "[Proposed] Order Discharging Personal Representative",
+        "index_number": "26",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "02/20/2020",
+        "description": "Affidavit of Service 2-20-20 (To Heirs - Rory Trottier, Sherryleen Delorme, Lea Trottier, Brenden Trottier)",
+        "index_number": "27",
+        "title": "Service Document"
+      },
+      {
+        "date": "03/03/2020",
+        "description": "Affidavit to Service(Brenden Trottier)",
+        "index_number": "28",
+        "title": "Service Document"
+      },
+      {
+        "date": "03/25/2020",
+        "description": "Consent to Final Account, Settlement and Confirmation of Distribution of Estate (signed by Sherryleen Delorme)",
+        "index_number": "29",
+        "title": "Consent"
+      },
+      {
+        "date": "03/25/2020",
+        "description": "Consent to Final Account, Settlement and Confirmation of Distribution of Estate (signed by Rory Trottier)",
+        "index_number": "30",
+        "title": "Consent"
+      },
+      {
+        "date": "03/25/2020",
+        "description": "Consent to Final Account, Settlement and Confirmation of Distribution of Estate (signed by Lea Trottier)",
+        "index_number": "31",
+        "title": "Consent"
+      },
+      {
+        "date": "03/25/2020",
+        "description": "Consent to Final Account, Settlement and Confirmation of Distribution of Estate (signed by Brenden Trottier)",
+        "index_number": "32",
+        "title": "Consent"
+      },
+      {
+        "date": "03/26/2020",
+        "description": "To Allow Final Account Settlement and Confirmation of Distribution of Estate by Personal Representative",
+        "index_number": "33",
+        "title": "Order"
+      },
+      {
+        "date": "03/26/2020",
+        "description": "Discharing Personal Representative",
+        "index_number": "34",
+        "title": "Order"
+      },
+      {
+        "date": "03/27/2020",
+        "description": "Affidavit of Mailing 3-27-20 to heirs",
+        "index_number": "35",
+        "title": "Service Document"
+      }
+    ],
+    "indexed_entry_count": 34,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/05-2019-PR-00026/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/05-2019-PR-00026/detail-summary.json"
+  },
+  {
+    "attempts": 0,
+    "bytes": 17589,
+    "case_number": "08-2019-CV-00913",
+    "case_number_on_page": "08-2019-CV-00913",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205316",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205316",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 3,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "Complaint",
+        "index_number": "1",
+        "title": "Complaint"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Summons",
+        "index_number": "2",
+        "title": "Summons"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Sheriff s Return Served (Kristen L Erck)",
+        "index_number": "3",
+        "title": "Sheriff's Return Served"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit Of No Answer Identification Non-Military Status And Proof",
+        "index_number": "4",
+        "title": "Affidavit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit Of Costs And Disbursements And Amount Due Filed By Capital One Bank (USA), N.A.",
+        "index_number": "5",
+        "title": "Proposed Statement of Costs and Disbursements"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Order For Judgment Filed By Capital One Bank (USA), N.A.",
+        "index_number": "6",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Default Judgment Filed By Capital One Bank (USA), N.A.",
+        "index_number": "7",
+        "title": "Proposed Judgment"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit Of Non-Military Status",
+        "index_number": "8",
+        "title": "Affidavit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Exhibit A Statement",
+        "index_number": "9",
+        "title": "Exhibit"
+      },
+      {
+        "date": "04/02/2019",
+        "description": "Order for Judgment",
+        "index_number": "10",
+        "title": "Statement of Costs and Disbursements"
+      },
+      {
+        "date": "04/02/2019",
+        "description": "Affidavit and Claim of Exemptions of Kristen Erck",
+        "index_number": "12",
+        "title": "Judgment"
+      }
+    ],
+    "indexed_entry_count": 11,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-CV-00913/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-CV-00913/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "08-2019-CV-00914",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205337",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205337",
+    "index": 4,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-CV-00914/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205337&CaseID=4205337",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 0,
+    "bytes": 31039,
+    "case_number": "08-2019-CV-00915",
+    "case_number_on_page": "08-2019-CV-00915",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205444",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205444",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 5,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "Summons",
+        "index_number": "1",
+        "title": "Complaint/Claim Affidavit (Car Accident)"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Personal Service - Michael Ilse",
+        "index_number": "3",
+        "title": "Service Document"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Service - Brenton Cahill",
+        "index_number": "4",
+        "title": "Notice of Assignment and Case Number"
+      },
+      {
+        "date": "04/12/2019",
+        "description": "Notice of Filing the Complaint",
+        "index_number": "6",
+        "title": "Notice"
+      },
+      {
+        "date": "04/24/2019",
+        "description": "Answer",
+        "index_number": "7",
+        "title": "Answer"
+      },
+      {
+        "date": "04/24/2019",
+        "description": "Affidavit of Service - Thomas A. Dickson, Michael J. Morley",
+        "index_number": "8",
+        "title": "Service Document"
+      },
+      {
+        "date": "04/24/2019",
+        "description": "of Rule 16",
+        "index_number": "9",
+        "title": "Notice of Assignment and Case Number"
+      },
+      {
+        "date": "06/12/2019",
+        "description": "Affidavit of Service - Barton Cahill",
+        "index_number": "11",
+        "title": "Service Document"
+      },
+      {
+        "date": "06/14/2019",
+        "description": "Amended Affidavit of Service - Barton Cahill",
+        "index_number": "12",
+        "title": "Service Document"
+      },
+      {
+        "date": "06/14/2019",
+        "description": "Stipulation for Discovery Scheduling Plan",
+        "index_number": "13",
+        "title": "Stipulation / Agreement"
+      },
+      {
+        "date": "06/14/2019",
+        "description": "Proposed Order filed by Thomas A. Dickson",
+        "index_number": "14",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "06/24/2019",
+        "description": "- Trial",
+        "index_number": "15",
+        "title": "Order"
+      },
+      {
+        "date": "07/05/2019",
+        "description": "- Pretrial Conference",
+        "index_number": "17",
+        "title": "Notice of Hearing"
+      },
+      {
+        "date": "09/18/2019",
+        "description": "Affidavit of Service - Brenton Cahill",
+        "index_number": "18",
+        "title": "Service of Motion"
+      },
+      {
+        "date": "09/18/2019",
+        "description": "Notice of Motion",
+        "index_number": "19",
+        "title": "Notice"
+      },
+      {
+        "date": "09/18/2019",
+        "description": "Motion to Amend Complaint",
+        "index_number": "20",
+        "title": "Motion"
+      },
+      {
+        "date": "09/18/2019",
+        "description": "Exhibit 1 - 1st Amended Complaint",
+        "index_number": "21",
+        "title": "Exhibit"
+      },
+      {
+        "date": "09/18/2019",
+        "description": "Brief in Support of Motion to Amend Complaint",
+        "index_number": "22",
+        "title": "Brief"
+      },
+      {
+        "date": "09/18/2019",
+        "description": "Affidavit of Thomas A. Dickson",
+        "index_number": "23",
+        "title": "Affidavit"
+      },
+      {
+        "date": "09/18/2019",
+        "description": "Exhibit A - Affidavit of Luke Gardiner",
+        "index_number": "24",
+        "title": "Exhibit"
+      },
+      {
+        "date": "09/18/2019",
+        "description": "Exhibit B - Criminal Judgment - State of ND v. Michael Ilse",
+        "index_number": "25",
+        "title": "Exhibit"
+      },
+      {
+        "date": "09/18/2019",
+        "description": "Exhibit C - Correspondence dated March 4, 2016 to Attorney Michael Geiermann from Attorney Michael Morley",
+        "index_number": "26",
+        "title": "Exhibit"
+      },
+      {
+        "date": "09/18/2019",
+        "description": "Exhibit D - Correspondence dated March 16, 2016 to Jennifer Stover from Attorney Michael Morley",
+        "index_number": "27",
+        "title": "Exhibit"
+      },
+      {
+        "date": "10/18/2019",
+        "description": "Granting Motion to Amend Complaint",
+        "index_number": "28",
+        "title": "Order"
+      },
+      {
+        "date": "10/21/2019",
+        "description": "Affidavit of Service - Brenton Cahill",
+        "index_number": "29",
+        "title": "Service of Motion"
+      },
+      {
+        "date": "10/21/2019",
+        "description": "Notice of Motion",
+        "index_number": "30",
+        "title": "Notice"
+      },
+      {
+        "date": "10/21/2019",
+        "description": "Motion to Reconsider Decision",
+        "index_number": "31",
+        "title": "Motion"
+      },
+      {
+        "date": "10/21/2019",
+        "description": "Exhibit A - E-mail dated September 25, 2019 to Bart Cahill from Tom Dickson",
+        "index_number": "32",
+        "title": "Exhibit"
+      },
+      {
+        "date": "10/21/2019",
+        "description": "Exhibit B - E-mail dated October 21, 2019 to Michelle Bring from Bailee Vetter",
+        "index_number": "33",
+        "title": "Exhibit"
+      },
+      {
+        "date": "11/11/2019",
+        "description": "Letter to Clerk",
+        "index_number": "34",
+        "title": "Letter"
+      },
+      {
+        "date": "11/19/2019",
+        "description": "Affidavit of Service - Brenton Cahill",
+        "index_number": "35",
+        "title": "Service Document"
+      },
+      {
+        "date": "11/19/2019",
+        "description": "Stipulation for Dismissal with Prejudice",
+        "index_number": "36",
+        "title": "Stipulation / Agreement"
+      },
+      {
+        "date": "11/19/2019",
+        "description": "Proposed Order for Judgment filed by Plaintiff's Attorney, Thomas A. Dickson",
+        "index_number": "37",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "11/19/2019",
+        "description": "Proposed Judgment of Dismissal filed by Plaintiff's Attorney, Thomas A. Dickson",
+        "index_number": "38",
+        "title": "Proposed Judgment"
+      },
+      {
+        "date": "11/20/2019",
+        "description": "Proposed Judgment of Dismissal",
+        "index_number": "39",
+        "title": "Proposed Judgment"
+      },
+      {
+        "date": "11/20/2019",
+        "description": "For Judgment",
+        "index_number": "40",
+        "title": "Order"
+      },
+      {
+        "date": "11/20/2019",
+        "description": "of Dismissal",
+        "index_number": "41",
+        "title": "Judgment"
+      },
+      {
+        "date": "11/20/2019",
+        "description": "Of Dismissal",
+        "index_number": "42",
+        "title": "Judgment"
+      },
+      {
+        "date": "11/21/2019",
+        "description": "Notice of Entry of Judgment",
+        "index_number": "43",
+        "title": "Notice of Entry of Judgment"
+      },
+      {
+        "date": "11/21/2019",
+        "description": "Affidavit of Service - Micahel Morley Thomas Dickson",
+        "index_number": "44",
+        "title": "Service Document"
+      }
+    ],
+    "indexed_entry_count": 40,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-CV-00915/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-CV-00915/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "08-2019-CV-00916",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205465",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205465",
+    "index": 6,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-CV-00916/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205465&CaseID=4205465",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 0,
+    "bytes": 10554,
+    "case_number": "08-2019-CV-00917",
+    "case_number_on_page": "08-2019-CV-00917",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205608",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205608",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 7,
+    "indexed_entries": [],
+    "indexed_entry_count": 0,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-CV-00917/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-CV-00917/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "08-2019-CV-00918",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205736",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205736",
+    "index": 8,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-CV-00918/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205736&CaseID=4205736",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 0,
+    "bytes": 20906,
+    "case_number": "08-2019-CV-00919",
+    "case_number_on_page": "08-2019-CV-00919",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206040",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206040",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 9,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "Complaint",
+        "index_number": "1",
+        "title": "Complaint"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Exhibit A - Cash Statement",
+        "index_number": "2",
+        "title": "Exhibit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Summons",
+        "index_number": "3",
+        "title": "Summons"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Sheriff's Return- Gregory A Weimer dba New Image Tanning",
+        "index_number": "4",
+        "title": "Service Document"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Notice of Filing",
+        "index_number": "5",
+        "title": "Notice"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Notice of Motion",
+        "index_number": "6",
+        "title": "Notice"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Motion for Summary Judgment",
+        "index_number": "7",
+        "title": "Motion"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Brief in Support of Motion for Summary",
+        "index_number": "8",
+        "title": "Brief"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit in Support of Motion for Summary",
+        "index_number": "9",
+        "title": "Affidavit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Exhibit A-Invoices",
+        "index_number": "10",
+        "title": "Exhibit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Exhibit B-Plaintiff's Interrogatories, Request for Admissions, and Request for Production of Documents",
+        "index_number": "11",
+        "title": "Exhibit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Service by Mail-Gregory A Weimer dba New Image Tanning",
+        "index_number": "12",
+        "title": "Service of Motion"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Costs and Disbursements (Plaintiff)",
+        "index_number": "13",
+        "title": "Proposed Statement of Costs and Disbursements"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Order for Judgment (Plaintiff)",
+        "index_number": "14",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Judgment (Plaintiff)",
+        "index_number": "15",
+        "title": "Proposed Judgment"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Personal Information Addendum",
+        "index_number": "16",
+        "title": "Confidential Information Form"
+      },
+      {
+        "date": "04/02/2019",
+        "description": "Certificate of Service by Mail - Gregory A Weimer dba New Image Tanning",
+        "index_number": "18",
+        "title": "Notice of Assignment and Case Number"
+      },
+      {
+        "date": "04/25/2019",
+        "description": "Withdrawal of Motion for Summary Judgment",
+        "index_number": "20",
+        "title": "Request"
+      },
+      {
+        "date": "04/25/2019",
+        "description": "Order to Withdrawal of Motion for Summary Judgment - Gray Television, Inc. KFYYR/KNDX Television",
+        "index_number": "21",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "04/29/2019",
+        "description": "Order of Withdrawal of Motion for Summary Judgment",
+        "index_number": "22",
+        "title": "Order"
+      }
+    ],
+    "indexed_entry_count": 20,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-CV-00919/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-CV-00919/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "08-2019-SC-00116",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205387",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205387",
+    "index": 10,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-SC-00116/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205387&CaseID=4205387",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "08-2019-SC-00117",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205733",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205733",
+    "index": 11,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-SC-00117/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205733&CaseID=4205733",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 0,
+    "bytes": 14326,
+    "case_number": "08-2019-SC-00118",
+    "case_number_on_page": "08-2019-SC-00118",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205748",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205748",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 12,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "of Identification",
+        "index_number": "1",
+        "title": "Claim Affidavit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "#1 Breakdown of Expenses",
+        "index_number": "3",
+        "title": "Exhibit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "#2 Office of Attorney General Wage Claim",
+        "index_number": "4",
+        "title": "Exhibit"
+      },
+      {
+        "date": "05/16/2019",
+        "description": "of Dismissal",
+        "index_number": "5",
+        "title": "Small Claims No Service Notice Filed"
+      },
+      {
+        "date": "05/31/2019",
+        "description": "",
+        "index_number": "7",
+        "title": "Service Document"
+      }
+    ],
+    "indexed_entry_count": 5,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-SC-00118/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/08-2019-SC-00118/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-CV-01063",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205348",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205348",
+    "index": 13,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01063/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205348&CaseID=4205348",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-CV-01064",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205445",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205445",
+    "index": 14,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01064/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205445&CaseID=4205445",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-CV-01065",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205479",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205479",
+    "index": 15,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01065/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205479&CaseID=4205479",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-CV-01066",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205483",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205483",
+    "index": 16,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01066/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205483&CaseID=4205483",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 0,
+    "bytes": 19594,
+    "case_number": "09-2019-CV-01068",
+    "case_number_on_page": "09-2019-CV-01068",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205514",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205514",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 17,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "Complaint",
+        "index_number": "1",
+        "title": "Complaint"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Summons",
+        "index_number": "2",
+        "title": "Summons"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Sheriffs Return Roger N Bjerke",
+        "index_number": "3",
+        "title": "Service Document"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of No Answer, Identification, Non-Military Status and Proof of Claim",
+        "index_number": "4",
+        "title": "Affidavit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Costs and Disbursements",
+        "index_number": "5",
+        "title": "Proposed Statement of Costs and Disbursements"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Proposed Order for Judgment - filed by Attorney for Plaintiff",
+        "index_number": "6",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Proposed Default Judgment",
+        "index_number": "7",
+        "title": "Proposed Judgment"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Exhibit 1 (Account Summary)",
+        "index_number": "8",
+        "title": "Exhibit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "for judgment",
+        "index_number": "9",
+        "title": "Notice of Assignment and Case Number"
+      },
+      {
+        "date": "04/03/2019",
+        "description": "Notice of Entry of Judgment",
+        "index_number": "11",
+        "title": "Statement of Costs and Disbursements"
+      },
+      {
+        "date": "04/12/2019",
+        "description": "Certificate of Service (Roger N Bjerke)",
+        "index_number": "14",
+        "title": "Service Document"
+      },
+      {
+        "date": "04/16/2026",
+        "description": "Substitution Of Attorney",
+        "index_number": "15",
+        "title": "Substitution of Attorneys"
+      },
+      {
+        "date": "04/16/2026",
+        "description": "Service By Mail To (Roger N Bjerke )",
+        "index_number": "16",
+        "title": "Service Document"
+      }
+    ],
+    "indexed_entry_count": 13,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01068/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01068/detail-summary.json"
+  },
+  {
+    "attempts": 0,
+    "bytes": 16101,
+    "case_number": "09-2019-CV-01069",
+    "case_number_on_page": "09-2019-CV-01069",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205516",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205516",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 18,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "for Disorderly Conduct Restraining Order",
+        "index_number": "1",
+        "title": "Petition"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Temporary Disorderly Conduct Restraining Order",
+        "index_number": "2",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "with email verification",
+        "index_number": "3",
+        "title": "Temporary Disorderly Conduct Restraining Order"
+      },
+      {
+        "date": "04/02/2019",
+        "description": "Helen Gaye",
+        "index_number": "4",
+        "title": "Sheriff's Return Served"
+      },
+      {
+        "date": "04/11/2019",
+        "description": "Notice of Representation",
+        "index_number": "5",
+        "title": "Notice"
+      },
+      {
+        "date": "04/11/2019",
+        "description": "of Dismissal w/ email verification",
+        "index_number": "6",
+        "title": "Order"
+      }
+    ],
+    "indexed_entry_count": 6,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01069/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01069/detail-summary.json"
+  },
+  {
+    "attempts": 0,
+    "bytes": 27840,
+    "case_number": "09-2019-CV-01070",
+    "case_number_on_page": "09-2019-CV-01070",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205583",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205583",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 19,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "Complaint",
+        "index_number": "1",
+        "title": "Complaint"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Complaint Exhibit A (Note)",
+        "index_number": "2",
+        "title": "Exhibit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Complaint Exhibit B (Mortgage)",
+        "index_number": "3",
+        "title": "Exhibit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Complaint Exhibit C (Title)",
+        "index_number": "4",
+        "title": "Exhibit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Complaint Exhibit A1 (Loan Modification)",
+        "index_number": "5",
+        "title": "Exhibit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Summons",
+        "index_number": "6",
+        "title": "Summons"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Notice Before Foreclosure",
+        "index_number": "7",
+        "title": "Notice"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Publication (Notice Before Foreclosure)",
+        "index_number": "8",
+        "title": "Service Document"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Sheriff Non Service Notice Before Foreclosure (Daniel Blair)",
+        "index_number": "9",
+        "title": "Sheriff's Return Not Served"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Sheriff Service Summons and Complaint (Capital One Bank)",
+        "index_number": "10",
+        "title": "Sheriff's Return Served"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Service by Mail (Daniel Blair, Any Person, Capital One Bank, North Dakota State Tax Commissioner)",
+        "index_number": "11",
+        "title": "Notice of Assignment and Case Number"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Notice for Default Judgment",
+        "index_number": "13",
+        "title": "Notice"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Motion for Default Judgment",
+        "index_number": "14",
+        "title": "Motion"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Brief in Support of Default Judgment",
+        "index_number": "15",
+        "title": "Brief"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Affidavit of Default and Identity",
+        "index_number": "16",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Proposed Statement of Costs and Disbursements (Filed by David C Piper)",
+        "index_number": "17",
+        "title": "Proposed Statement of Costs and Disbursements"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Affidavit of Proof",
+        "index_number": "18",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Proposed Findings (Filed by David C. Piper)",
+        "index_number": "19",
+        "title": "Proposed Findings"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Proposed Judgment (Filed by David C. Piper)",
+        "index_number": "20",
+        "title": "Proposed Judgment"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Affidavit of Non-Military (Daniel Blair)",
+        "index_number": "21",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Admission of Service (North Dakota State Tax Commissioner)",
+        "index_number": "22",
+        "title": "Service of Motion"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Sheriff Non - Service (Any Person in Possession)",
+        "index_number": "23",
+        "title": "Sheriff's Return Not Served"
+      },
+      {
+        "date": "06/19/2019",
+        "description": "Sheriff Service of Summons and Complaint (Daniel Blair)",
+        "index_number": "24",
+        "title": "Sheriff's Return Served"
+      },
+      {
+        "date": "07/12/2019",
+        "description": "- Findings of Fact, Conclusions of Law and Order for Judgment",
+        "index_number": "25",
+        "title": "Order"
+      },
+      {
+        "date": "07/12/2019",
+        "description": "Affidavit of Service by Mail Notice of Entry Jugment (Daniel Blair, Capital One Bank, State Tax Commissioner, Any person)",
+        "index_number": "26",
+        "title": "Judgment"
+      },
+      {
+        "date": "07/29/2019",
+        "description": "Notice of Entry of Judgment",
+        "index_number": "29",
+        "title": "Notice of Entry of Judgment"
+      },
+      {
+        "date": "08/08/2019",
+        "description": "(SPECIAL)",
+        "index_number": "30",
+        "title": "Execution"
+      },
+      {
+        "date": "08/09/2019",
+        "description": "Affidavit of Service by Mail Special Execution and Notice of Sale (Daniel Blair, Capital One Bank, Any Person, North Dakota State Tax Commissioner)",
+        "index_number": "31",
+        "title": "Service Document"
+      },
+      {
+        "date": "08/09/2019",
+        "description": "Notice of Sale",
+        "index_number": "32",
+        "title": "Notice"
+      },
+      {
+        "date": "10/28/2019",
+        "description": "Report of Sale on Foreclosure",
+        "index_number": "33",
+        "title": "Report"
+      },
+      {
+        "date": "10/28/2019",
+        "description": "Proposed Order Confirming Sale",
+        "index_number": "34",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "11/04/2019",
+        "description": "Confirming Sale",
+        "index_number": "35",
+        "title": "Order"
+      },
+      {
+        "date": "11/06/2019",
+        "description": "Affidavit of Service - Order Confirming Sale on Foreclosure - All defendants",
+        "index_number": "36",
+        "title": "Service Document"
+      }
+    ],
+    "indexed_entry_count": 33,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01070/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01070/detail-summary.json"
+  },
+  {
+    "attempts": 0,
+    "bytes": 11753,
+    "case_number": "09-2019-CV-01071",
+    "case_number_on_page": "09-2019-CV-01071",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205621",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205621",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 20,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "for Civil Judgment and Judgment",
+        "index_number": "1",
+        "title": "Order"
+      }
+    ],
+    "indexed_entry_count": 1,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01071/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01071/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-CV-01072",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205631",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205631",
+    "index": 21,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01072/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205631&CaseID=4205631",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-CV-01073",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205645",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205645",
+    "index": 22,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01073/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205645&CaseID=4205645",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 0,
+    "bytes": 11756,
+    "case_number": "09-2019-CV-01074",
+    "case_number_on_page": "09-2019-CV-01074",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205668",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205668",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 23,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "for Civil Judgment and Judgment",
+        "index_number": "1",
+        "title": "Order"
+      }
+    ],
+    "indexed_entry_count": 1,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01074/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01074/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-CV-01075",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205695",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205695",
+    "index": 24,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01075/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205695&CaseID=4205695",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 0,
+    "bytes": 25819,
+    "case_number": "09-2019-CV-01076",
+    "case_number_on_page": "09-2019-CV-01076",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205697",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205697",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 25,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "Complaint",
+        "index_number": "1",
+        "title": "Complaint"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Summons",
+        "index_number": "2",
+        "title": "Summons"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Service of Summons and Complaint on Kelly Leroux",
+        "index_number": "3",
+        "title": "Service Document"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Service of Summons and Complaint on Andrew Leroux",
+        "index_number": "4",
+        "title": "Service Document"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Rule 3.2 Notice of Motion",
+        "index_number": "5",
+        "title": "Notice"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Motion for Entry of Default Judgment",
+        "index_number": "6",
+        "title": "Motion"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Plaintiff's Brief in Support of Motion for Entry of Default Judgment",
+        "index_number": "7",
+        "title": "Brief"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Proof",
+        "index_number": "8",
+        "title": "Affidavit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Proposed Statement of Costs and Disbursements submited by Plaintiff's counsel, Jon Brakke",
+        "index_number": "9",
+        "title": "Proposed Statement of Costs and Disbursements"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Identity, Default and Non-Military Service",
+        "index_number": "10",
+        "title": "Affidavit"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Proposed Order for Judgment submitted by Plaintiff's counsel, Jon Brakke",
+        "index_number": "11",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Proposed Judgment submitted on behalf of Plaintiff's counsel, Jon Brakke",
+        "index_number": "12",
+        "title": "Proposed Judgment"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Affidavit of Service by Mail on pro se defendants Andrew and Kelly Leroux of Rule 3.2 Notice of Motion, Motion for Entry of Default Judgment, Plaintiff's Brief in Support of Motion for Entry of Default Judgment, Affidavit of Proof, Proposed Statement of Costs and Disbursements, Affidavit of Identity, Default and Non-Military Service, Proposed Order for Judgment and Proposed Judgment",
+        "index_number": "13",
+        "title": "Service of Motion"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Notice of Entry of Judgment (and Judgment)",
+        "index_number": "14",
+        "title": "Notice of Assignment and Case Number"
+      },
+      {
+        "date": "05/01/2019",
+        "description": "Affidavit of Service by Mail on pro se defendants Andrew Leroux and Kelly Leroux of Notice of Entry of Judgment and Judgment",
+        "index_number": "19",
+        "title": "Service Document"
+      },
+      {
+        "date": "12/17/2019",
+        "description": "Partial Satisfaction of Judgment",
+        "index_number": "20",
+        "title": "Satisfaction of Judgment"
+      },
+      {
+        "date": "12/17/2019",
+        "description": "Affidavit of Service by Mail on Andrew Leroux and Kelly Leroux",
+        "index_number": "21",
+        "title": "Service Document"
+      },
+      {
+        "date": "02/01/2023",
+        "description": "Notice of Substitution of Counsel - Caren W. Stanley",
+        "index_number": "22",
+        "title": "Notice"
+      },
+      {
+        "date": "02/01/2023",
+        "description": "Declaration of Service on Andrew Leroux",
+        "index_number": "23",
+        "title": "Service Document"
+      }
+    ],
+    "indexed_entry_count": 19,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01076/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01076/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-CV-01077",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205720",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205720",
+    "index": 26,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01077/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205720&CaseID=4205720",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 0,
+    "bytes": 15857,
+    "case_number": "09-2019-CV-01079",
+    "case_number_on_page": "09-2019-CV-01079",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205774",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205774",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 27,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "Complaint for Asset Forfeiture Pursuant to N.D.C.C. 19-03.1-36.3",
+        "index_number": "1",
+        "title": "Complaint"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Summons for Asset Forfeiture Pursuant to N.D.C.C. 19-03.1-36.3",
+        "index_number": "2",
+        "title": "Summons"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Admission of Service - Tatum Lindbo",
+        "index_number": "3",
+        "title": "Service Document"
+      },
+      {
+        "date": "04/01/2019",
+        "description": "Reference List",
+        "index_number": "4",
+        "title": "Reference List"
+      },
+      {
+        "date": "04/02/2019",
+        "description": "Certificate of Electronic Service - Tatum Lindbo",
+        "index_number": "5",
+        "title": "Notice of Assignment and Case Number"
+      },
+      {
+        "date": "09/30/2019",
+        "description": "Scheduling Conference",
+        "index_number": "7",
+        "title": "Notice of Hearing"
+      },
+      {
+        "date": "10/24/2019",
+        "description": "Stipulation to Forfeit",
+        "index_number": "8",
+        "title": "Stipulation / Agreement"
+      },
+      {
+        "date": "10/25/2019",
+        "description": "Proposed Order for Judgment - State of North Dakota",
+        "index_number": "9",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "10/25/2019",
+        "description": "Proposed Judgment",
+        "index_number": "10",
+        "title": "Proposed Judgment"
+      },
+      {
+        "date": "10/25/2019",
+        "description": "for judgment",
+        "index_number": "11",
+        "title": "Order"
+      },
+      {
+        "date": "10/25/2019",
+        "description": "Notice of Entry of Judgment",
+        "index_number": "12",
+        "title": "Judgment"
+      },
+      {
+        "date": "10/29/2019",
+        "description": "Certificate of Electronic Service - Tatum Lindbo",
+        "index_number": "14",
+        "title": "Service Document"
+      }
+    ],
+    "indexed_entry_count": 12,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01079/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01079/detail-summary.json"
+  },
+  {
+    "attempts": 0,
+    "bytes": 11770,
+    "case_number": "09-2019-CV-01080",
+    "case_number_on_page": "09-2019-CV-01080",
+    "content_type": "text/html",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205779",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205779",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 28,
+    "indexed_entries": [
+      {
+        "date": "04/01/2019",
+        "description": "for judgment and judgment for fine and/or costs pursuant to NDCC 29-26-22",
+        "index_number": "1",
+        "title": "Order"
+      }
+    ],
+    "indexed_entry_count": 1,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01080/detail.html",
+    "retryable": false,
+    "reused_existing": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-CV-01080/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-DM-00359",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205405",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205405",
+    "index": 29,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-DM-00359/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205405&CaseID=4205405",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-DM-00360",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205589",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205589",
+    "index": 30,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-DM-00360/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205589&CaseID=4205589",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-DM-00362",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205626",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205626",
+    "index": 31,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-DM-00362/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205626&CaseID=4205626",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-DM-00363",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205759",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205759",
+    "index": 32,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-DM-00363/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205759&CaseID=4205759",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-DM-00364",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205775",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205775",
+    "index": 33,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-DM-00364/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205775&CaseID=4205775",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-DM-00365",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205996",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205996",
+    "index": 34,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-DM-00365/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205996&CaseID=4205996",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-PR-00101",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205367",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205367",
+    "index": 35,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-PR-00101/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205367&CaseID=4205367",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-PR-00102",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205781",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205781",
+    "index": 36,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-PR-00102/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205781&CaseID=4205781",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-SC-00273",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205682",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205682",
+    "index": 37,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-SC-00273/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205682&CaseID=4205682",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-SC-00274",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205712",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205712",
+    "index": 38,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/09-2019-SC-00274/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205712&CaseID=4205712",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "10-2019-PR-00014",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206035",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206035",
+    "index": 39,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/10-2019-PR-00014/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4206035&CaseID=4206035",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "12-2019-PR-00026",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205710",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205710",
+    "index": 40,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/12-2019-PR-00026/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205710&CaseID=4205710",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "12-2019-SC-00003",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205401",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205401",
+    "index": 41,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/12-2019-SC-00003/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205401&CaseID=4205401",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-CV-00765",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205508",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205508",
+    "index": 42,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-CV-00765/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205508&CaseID=4205508",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-CV-00766",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205568",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205568",
+    "index": 43,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-CV-00766/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205568&CaseID=4205568",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-CV-00767",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205729",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205729",
+    "index": 44,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-CV-00767/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205729&CaseID=4205729",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-CV-00768",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205773",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205773",
+    "index": 45,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-CV-00768/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205773&CaseID=4205773",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-CV-00769",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205777",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205777",
+    "index": 46,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-CV-00769/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205777&CaseID=4205777",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-CV-00770",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205995",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205995",
+    "index": 47,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-CV-00770/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205995&CaseID=4205995",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-DM-00167",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205493",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205493",
+    "index": 48,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-DM-00167/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205493&CaseID=4205493",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-DM-00168",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205618",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205618",
+    "index": 49,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-DM-00168/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205618&CaseID=4205618",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-DM-00169",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205690",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205690",
+    "index": 50,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-DM-00169/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205690&CaseID=4205690",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-DM-00170",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205693",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205693",
+    "index": 51,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-DM-00170/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205693&CaseID=4205693",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-PR-00058",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205482",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205482",
+    "index": 52,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-PR-00058/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205482&CaseID=4205482",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "18-2019-SC-00150",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205462",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205462",
+    "index": 53,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/18-2019-SC-00150/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205462&CaseID=4205462",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "19-2019-CV-00012",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205366",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205366",
+    "index": 54,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/19-2019-CV-00012/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205366&CaseID=4205366",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "21-2019-CV-00013",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205498",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205498",
+    "index": 55,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/21-2019-CV-00013/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205498&CaseID=4205498",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "22-2019-PR-00003",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205685",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205685",
+    "index": 56,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/22-2019-PR-00003/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205685&CaseID=4205685",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "26-2019-SC-00003",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205455",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205455",
+    "index": 57,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/26-2019-SC-00003/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205455&CaseID=4205455",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "27-2019-CV-00135",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205622",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205622",
+    "index": 58,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/27-2019-CV-00135/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205622&CaseID=4205622",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "27-2019-DM-00062",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205499",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205499",
+    "index": 59,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/27-2019-DM-00062/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205499&CaseID=4205499",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "27-2019-DM-00063",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205551",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205551",
+    "index": 60,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/27-2019-DM-00063/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205551&CaseID=4205551",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "27-2019-DM-00064",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205749",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205749",
+    "index": 61,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/27-2019-DM-00064/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205749&CaseID=4205749",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "28-2019-DM-00015",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205990",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205990",
+    "index": 62,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/28-2019-DM-00015/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205990&CaseID=4205990",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "29-2019-CV-00084",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205427",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205427",
+    "index": 63,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/29-2019-CV-00084/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205427&CaseID=4205427",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "30-2019-CV-00339",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205404",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205404",
+    "index": 64,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/30-2019-CV-00339/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205404&CaseID=4205404",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "30-2019-CV-00340",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205469",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205469",
+    "index": 65,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/30-2019-CV-00340/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205469&CaseID=4205469",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "30-2019-CV-00341",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205513",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205513",
+    "index": 66,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/30-2019-CV-00341/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205513&CaseID=4205513",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "30-2019-CV-00343",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205667",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205667",
+    "index": 67,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/30-2019-CV-00343/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205667&CaseID=4205667",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "30-2019-CV-00344",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205778",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205778",
+    "index": 68,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/30-2019-CV-00344/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205778&CaseID=4205778",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "31-2019-PR-00045",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206098",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206098",
+    "index": 69,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/31-2019-PR-00045/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4206098&CaseID=4206098",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "34-2019-PR-00009",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205438",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205438",
+    "index": 70,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/34-2019-PR-00009/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205438&CaseID=4205438",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "39-2019-DM-00034",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205735",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205735",
+    "index": 71,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/39-2019-DM-00034/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205735&CaseID=4205735",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "39-2019-DM-00035",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206336",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206336",
+    "index": 72,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/39-2019-DM-00035/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4206336&CaseID=4206336",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "40-2019-CV-00050",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205502",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205502",
+    "index": 73,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/40-2019-CV-00050/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205502&CaseID=4205502",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "45-2019-CV-00270",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205520",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205520",
+    "index": 74,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/45-2019-CV-00270/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205520&CaseID=4205520",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "47-2019-CV-00178",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205245",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205245",
+    "index": 75,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/47-2019-CV-00178/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205245&CaseID=4205245",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "47-2019-CV-00179",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205364",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205364",
+    "index": 76,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/47-2019-CV-00179/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205364&CaseID=4205364",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "47-2019-SC-00036",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205257",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205257",
+    "index": 77,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/47-2019-SC-00036/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205257&CaseID=4205257",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "47-2019-SC-00037",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205677",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205677",
+    "index": 78,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/47-2019-SC-00037/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205677&CaseID=4205677",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "50-2019-CV-00083",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205480",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205480",
+    "index": 79,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/50-2019-CV-00083/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205480&CaseID=4205480",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "50-2019-CV-00084",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205543",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205543",
+    "index": 80,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/50-2019-CV-00084/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205543&CaseID=4205543",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "50-2019-CV-00085",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205700",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205700",
+    "index": 81,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/50-2019-CV-00085/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205700&CaseID=4205700",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "50-2019-CV-00086",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206233",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206233",
+    "index": 82,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/50-2019-CV-00086/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4206233&CaseID=4206233",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-CV-00501",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205437",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205437",
+    "index": 83,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-CV-00501/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205437&CaseID=4205437",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-CV-00502",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205446",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205446",
+    "index": 84,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-CV-00502/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205446&CaseID=4205446",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-CV-00503",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205521",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205521",
+    "index": 85,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-CV-00503/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205521&CaseID=4205521",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-CV-00505",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205647",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205647",
+    "index": 86,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-CV-00505/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205647&CaseID=4205647",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-CV-00506",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205666",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205666",
+    "index": 87,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-CV-00506/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205666&CaseID=4205666",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-CV-00507",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205674",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205674",
+    "index": 88,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-CV-00507/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205674&CaseID=4205674",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-DM-00201",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205426",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205426",
+    "index": 89,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-DM-00201/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205426&CaseID=4205426",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-DM-00202",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205529",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205529",
+    "index": 90,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-DM-00202/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205529&CaseID=4205529",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-DM-00203",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205584",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205584",
+    "index": 91,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-DM-00203/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205584&CaseID=4205584",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-DM-00204",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205701",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205701",
+    "index": 92,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-DM-00204/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205701&CaseID=4205701",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-DM-00205",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205771",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205771",
+    "index": 93,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-DM-00205/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205771&CaseID=4205771",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-PR-00055",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205433",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205433",
+    "index": 94,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-PR-00055/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205433&CaseID=4205433",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "51-2019-SC-00099",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205580",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205580",
+    "index": 95,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/51-2019-SC-00099/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205580&CaseID=4205580",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 2,
+    "case_number": "53-2019-CV-00487",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205706",
+    "error": "AbortError: This operation was aborted\n    at node:internal/deps/undici/undici:15141:13\n    at async timedFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:195:22)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:154:30)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:290:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:230:20\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:458:7\n    at async Promise.all (index 1)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:461:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:229:3)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:524:45)",
+    "index": 96,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/53-2019-CV-00487/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 2,
+    "case_number": "53-2019-CV-00488",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205782",
+    "error": "AbortError: This operation was aborted\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async timedFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:195:22)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:154:30)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:290:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:230:20\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:458:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:461:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:229:3)",
+    "index": 97,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/53-2019-CV-00488/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 2,
+    "bytes": 207,
+    "case_number": "53-2019-CV-00489",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206038",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206038",
+    "index": 98,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/53-2019-CV-00489/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4206038&CaseID=4206038",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 2,
+    "bytes": 207,
+    "case_number": "53-2019-CV-00490",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206090",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206090",
+    "index": 99,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/53-2019-CV-00490/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4206090&CaseID=4206090",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "53-2019-CV-00493",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206319",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206319",
+    "index": 100,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/53-2019-CV-00493/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4206319&CaseID=4206319",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "53-2019-DM-00130",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206413",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206413",
+    "index": 101,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/53-2019-DM-00130/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4206413&CaseID=4206413",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "53-2019-PR-00101",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206279",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4206279",
+    "index": 102,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/53-2019-PR-00101/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4206279&CaseID=4206279",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "53-2019-SC-00047",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205490",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4205490",
+    "index": 103,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1018/20260624T151606Z/000182-200-20190401-20190401/details/53-2019-SC-00047/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4205490&CaseID=4205490",
+    "retryable": false,
+    "status_code": 302
+  }
+]

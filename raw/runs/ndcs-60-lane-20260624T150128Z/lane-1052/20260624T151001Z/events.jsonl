@@ -53,3 +53,15 @@
 {"at_utc": "2026-06-24T16:06:59+00:00", "completed": 190, "event": "details_background_progress", "job_id": "000101-100-20190220-20190220", "total": 190}
 {"at_utc": "2026-06-24T16:06:59+00:00", "event": "details_background_retry_start", "failed_count": 173, "job_id": "000101-100-20190220-20190220", "total": 190}
 {"at_utc": "2026-06-24T16:07:10+00:00", "completed": 10, "event": "details_background_retry_progress", "job_id": "000101-100-20190220-20190220", "total": 173}
+{"at_utc": "2026-06-24T16:07:20+00:00", "completed": 20, "event": "details_background_retry_progress", "job_id": "000101-100-20190220-20190220", "total": 173}
+{"at_utc": "2026-06-24T16:07:30+00:00", "completed": 30, "event": "details_background_retry_progress", "job_id": "000101-100-20190220-20190220", "total": 173}
+{"at_utc": "2026-06-24T16:07:34+00:00", "detail_concurrency": 2, "event": "details_background_start", "job_id": "000101-100-20190220-20190220", "total": 190}
+{"at_utc": "2026-06-24T16:07:35+00:00", "completed": 25, "event": "details_background_progress", "job_id": "000101-100-20190220-20190220", "total": 190}
+{"at_utc": "2026-06-24T16:07:36+00:00", "completed": 50, "event": "details_background_progress", "job_id": "000101-100-20190220-20190220", "total": 190}
+{"at_utc": "2026-06-24T16:07:37+00:00", "completed": 75, "event": "details_background_progress", "job_id": "000101-100-20190220-20190220", "total": 190}
+{"at_utc": "2026-06-24T16:07:38+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000101-100-20190220-20190220", "total": 190}
+{"at_utc": "2026-06-24T16:07:39+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000101-100-20190220-20190220", "total": 190}
+{"at_utc": "2026-06-24T16:07:40+00:00", "completed": 150, "event": "details_background_progress", "job_id": "000101-100-20190220-20190220", "total": 190}
+{"at_utc": "2026-06-24T16:07:41+00:00", "completed": 175, "event": "details_background_progress", "job_id": "000101-100-20190220-20190220", "total": 190}
+{"at_utc": "2026-06-24T16:07:42+00:00", "completed": 190, "event": "details_background_progress", "job_id": "000101-100-20190220-20190220", "total": 190}
+{"at_utc": "2026-06-24T16:07:42+00:00", "detail_error_count": 173, "detail_page_count": 190, "detail_page_ok_count": 17, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000101-100-20190220-20190220"}
