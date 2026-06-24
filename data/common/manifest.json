@@ -1,0 +1,326 @@
+{
+  "collection": "ndcs",
+  "generated_at": "2026-06-24T20:22:43.860335Z",
+  "inputs": {
+    "detail_summary_files": 34867,
+    "index_files": 510
+  },
+  "jurisdiction": "nd",
+  "limitations": [
+    "Party and attorney tables are empty until NDCS detail pages are parsed beyond indexed register entries.",
+    "Document rows are emitted only when detail summaries expose document links; promoted summaries currently expose no document links.",
+    "Court location strings are normalized from search result rows and may include judicial-officer text when the source display omits a delimiter."
+  ],
+  "schema": "court-common-parquet/v1",
+  "source_profile": "ndcs_ndcri",
+  "source_profiles": {
+    "ndcs_ndcri": {
+      "case_route": "/ndcs/case/:identifier",
+      "identifier_kind": "case_number",
+      "identifier_label": "Case No.",
+      "primary_facets": [
+        "court_id",
+        "case_type",
+        "status",
+        "capture_status"
+      ]
+    }
+  },
+  "source_system": "ndcri",
+  "summary": {
+    "capture_runs": 510,
+    "capture_status_counts": {
+      "detail_no_roa": 11574,
+      "detail_with_roa": 19125,
+      "index_only": 8072
+    },
+    "cases": 38771,
+    "courts": 69,
+    "docket_entries": 307672,
+    "documents": 0,
+    "raw_refs": 117304,
+    "search_frontier_rows": 510
+  },
+  "tables": {
+    "attorneys": {
+      "columns": [
+        "attorney_uid",
+        "case_uid",
+        "collection",
+        "source_system",
+        "name",
+        "firm",
+        "role",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/attorneys.ndjson",
+      "parquet_path": "data/common/attorneys.parquet",
+      "rows": 0
+    },
+    "barriers": {
+      "columns": [
+        "barrier_uid",
+        "collection",
+        "source_system",
+        "source_profile",
+        "barrier_type",
+        "url",
+        "method",
+        "title",
+        "captured_at",
+        "resolved_at",
+        "raw_ref_uid",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/barriers.ndjson",
+      "parquet_path": "data/common/barriers.parquet",
+      "rows": 0
+    },
+    "calendar": {
+      "columns": [
+        "calendar_uid",
+        "case_uid",
+        "collection",
+        "source_system",
+        "appearance_date",
+        "part",
+        "purpose",
+        "judicial_officer",
+        "raw_ref_uid",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/calendar.ndjson",
+      "parquet_path": "data/common/calendar.parquet",
+      "rows": 0
+    },
+    "capture_runs": {
+      "columns": [
+        "capture_run_uid",
+        "collection",
+        "source_system",
+        "source_profile",
+        "run_id",
+        "observed_at",
+        "job_id",
+        "status",
+        "query_type",
+        "query_value",
+        "rows_fetched",
+        "pages_fetched",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/capture_runs.ndjson",
+      "parquet_path": "data/common/capture_runs.parquet",
+      "rows": 510
+    },
+    "case_identifiers": {
+      "columns": [
+        "case_uid",
+        "collection",
+        "source_profile",
+        "identifier_kind",
+        "identifier_label",
+        "identifier_display",
+        "identifier_normalized",
+        "is_primary",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/case_identifiers.ndjson",
+      "parquet_path": "data/common/case_identifiers.parquet",
+      "rows": 38771
+    },
+    "cases": {
+      "columns": [
+        "case_uid",
+        "native_case_key",
+        "collection",
+        "jurisdiction",
+        "source_profile",
+        "source_system_primary",
+        "court_id",
+        "court_name",
+        "court_location",
+        "identifier_kind",
+        "identifier_label",
+        "identifier_display",
+        "identifier_normalized",
+        "caption",
+        "case_type",
+        "status",
+        "filed_date",
+        "judicial_officer",
+        "capture_status",
+        "document_count",
+        "docket_entry_count",
+        "raw_ref_count",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/cases.ndjson",
+      "parquet_path": "data/common/cases.parquet",
+      "rows": 38771
+    },
+    "courts": {
+      "columns": [
+        "court_id",
+        "collection",
+        "jurisdiction",
+        "source_profile",
+        "court_name",
+        "court_location",
+        "court_type",
+        "native_court_label",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/courts.ndjson",
+      "parquet_path": "data/common/courts.parquet",
+      "rows": 69
+    },
+    "docket_entries": {
+      "columns": [
+        "entry_uid",
+        "case_uid",
+        "collection",
+        "source_system",
+        "source_profile",
+        "sequence",
+        "source_index",
+        "entry_date",
+        "title",
+        "text",
+        "event_type",
+        "motion_sequence",
+        "document_uid",
+        "has_document",
+        "raw_ref_uid",
+        "source_specific_json"
+      ],
+      "ndjson_omitted_reason": "omitted because the current sidecar exceeds GitHub's normal per-file limit; use Parquet",
+      "parquet_path": "data/common/docket_entries.parquet",
+      "rows": 307672
+    },
+    "documents": {
+      "columns": [
+        "document_uid",
+        "case_uid",
+        "collection",
+        "source_system",
+        "document_number",
+        "motion_sequence",
+        "title",
+        "document_type",
+        "filed_date",
+        "availability",
+        "source_url",
+        "sha256",
+        "bytes_len",
+        "content_type",
+        "storage_backend",
+        "release_tag",
+        "asset_name",
+        "download_url",
+        "raw_ref_uid",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/documents.ndjson",
+      "parquet_path": "data/common/documents.parquet",
+      "rows": 0
+    },
+    "motions": {
+      "columns": [
+        "motion_uid",
+        "case_uid",
+        "collection",
+        "source_system",
+        "motion_sequence",
+        "filed_date",
+        "filed_by",
+        "relief",
+        "status",
+        "decision_text",
+        "document_uid",
+        "raw_ref_uid",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/motions.ndjson",
+      "parquet_path": "data/common/motions.parquet",
+      "rows": 0
+    },
+    "parties": {
+      "columns": [
+        "party_uid",
+        "case_uid",
+        "collection",
+        "source_system",
+        "name",
+        "role",
+        "display_role",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/parties.ndjson",
+      "parquet_path": "data/common/parties.parquet",
+      "rows": 0
+    },
+    "raw_refs": {
+      "columns": [
+        "raw_ref_uid",
+        "case_uid",
+        "collection",
+        "source_system",
+        "source_profile",
+        "kind",
+        "nested_kind",
+        "capture_id",
+        "raw_path",
+        "html_sha256",
+        "sha256",
+        "source_url",
+        "page_number",
+        "table_row_number",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/raw_refs.ndjson",
+      "parquet_path": "data/common/raw_refs.parquet",
+      "rows": 117304
+    },
+    "representation": {
+      "columns": [
+        "representation_uid",
+        "case_uid",
+        "collection",
+        "party_uid",
+        "attorney_uid",
+        "firm",
+        "role",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/representation.ndjson",
+      "parquet_path": "data/common/representation.parquet",
+      "rows": 0
+    },
+    "search_frontier": {
+      "columns": [
+        "frontier_uid",
+        "collection",
+        "source_system",
+        "source_profile",
+        "frontier_key",
+        "observation_id",
+        "observed_at",
+        "run_id",
+        "job_id",
+        "query_type",
+        "query_value",
+        "status",
+        "case_count",
+        "lower_bound_count",
+        "pages_fetched",
+        "rows_fetched",
+        "next_action",
+        "source_specific_json"
+      ],
+      "ndjson_path": "data/common/search_frontier.ndjson",
+      "parquet_path": "data/common/search_frontier.parquet",
+      "rows": 510
+    }
+  }
+}
