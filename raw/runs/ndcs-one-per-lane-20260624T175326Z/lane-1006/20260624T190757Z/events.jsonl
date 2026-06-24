@@ -12,3 +12,10 @@
 {"at_utc": "2026-06-24T19:08:16+00:00", "attempted": 1, "completed": 1, "event": "finished"}
 {"at_utc": "2026-06-24T19:08:16+00:00", "code": 0, "event": "chrome_exit", "signal": null, "stderr_tail": "\nDevTools listening on ws://127.0.0.1:40006/devtools/browser/bd2ccd69-49fc-4372-b345-6bd2615e0190\n[2235234:2235234:0624/190759.730716:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files\n[2235234:2235315:0624/190804.096079:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT\nCreated TensorFlow Lite XNNPACK delegate for CPU.\n"}
 {"at_utc": "2026-06-24T19:08:16+00:00", "detail_concurrency": 1, "event": "details_background_start", "job_id": "000425-100-20190801-20190801", "total": 144}
+{"at_utc": "2026-06-24T19:10:10+00:00", "completed": 25, "event": "details_background_progress", "job_id": "000425-100-20190801-20190801", "total": 144}
+{"at_utc": "2026-06-24T19:11:07+00:00", "completed": 50, "event": "details_background_progress", "job_id": "000425-100-20190801-20190801", "total": 144}
+{"at_utc": "2026-06-24T19:12:51+00:00", "completed": 75, "event": "details_background_progress", "job_id": "000425-100-20190801-20190801", "total": 144}
+{"at_utc": "2026-06-24T19:13:16+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000425-100-20190801-20190801", "total": 144}
+{"at_utc": "2026-06-24T19:13:42+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000425-100-20190801-20190801", "total": 144}
+{"at_utc": "2026-06-24T19:14:44+00:00", "completed": 144, "event": "details_background_progress", "job_id": "000425-100-20190801-20190801", "total": 144}
+{"at_utc": "2026-06-24T19:14:44+00:00", "detail_error_count": 19, "detail_page_count": 144, "detail_page_ok_count": 125, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000425-100-20190801-20190801"}
