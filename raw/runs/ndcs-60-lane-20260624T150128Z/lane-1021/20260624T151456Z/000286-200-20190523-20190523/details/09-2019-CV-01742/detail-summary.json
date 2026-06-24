@@ -1,9 +1,916 @@
 {
-  "case_number": null,
+  "case_number": "09-2019-CV-01742",
   "document_link_count": 0,
   "document_links": [],
   "has_document_links": false,
-  "has_register_of_actions": false,
-  "indexed_entries": [],
-  "indexed_entry_count": 0
+  "has_register_of_actions": true,
+  "indexed_entries": [
+    {
+      "date": "05/23/2019",
+      "description": "Complaint - Sarah M. Karaz vs. Asbestos Corporation, Ltd.",
+      "index_number": "1",
+      "title": "Complaint"
+    },
+    {
+      "date": "05/23/2019",
+      "description": "Summons- Sarah M. Karaz vs. Asbestos Corporation, Ltd.",
+      "index_number": "2",
+      "title": "Summons"
+    },
+    {
+      "date": "05/24/2019",
+      "description": "**********************CIVIL CONSPIRACY/DECEIT/FRAUD********************************************",
+      "index_number": "3",
+      "title": "Notice of Assignment and Case Number"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "*********************MARKETSHARE/ENTERPRISE/ALTERNATIVE LIABILITY*************************************",
+      "index_number": "101",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "*************************************NON-EXPOSURE**********************************************",
+      "index_number": "102",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "***********************************STATUTE OF LIMITATIONS*************************************",
+      "index_number": "103",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "********************************PERSONAL JURISDICTION*****************************************",
+      "index_number": "104",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "********************************SUCCESSOR LIABILITY********************************************",
+      "index_number": "105",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "******************************NON-MANUFACTURING SELLER****************************************",
+      "index_number": "106",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "*******************************NEGLIGENCE/BREACH OF WARRANTY/STRICT LIABILITY*******************",
+      "index_number": "107",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "******************************OTHER - DISPOSITIVE**********************************************",
+      "index_number": "108",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "***********************************MOTION IN LIMINE*********************************************",
+      "index_number": "109",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "Rule 4 Affidavit of Service - Bayer Cropscience Holding, Inc.",
+      "index_number": "110",
+      "title": "Service Document"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "Rule 4 Affidavit of Service - Bayer Cropscience Holding, LP",
+      "index_number": "111",
+      "title": "Service Document"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "Rule 4 Affidavit of Service - Union Carbide Company",
+      "index_number": "112",
+      "title": "Service Document"
+    },
+    {
+      "date": "05/28/2019",
+      "description": "Rule 4 Affidavit of Service - Victor H. Leeby Company",
+      "index_number": "113",
+      "title": "Service Document"
+    },
+    {
+      "date": "06/03/2019",
+      "description": "Answer and Affirmative Defenses of Defendant Union Carbide Corporation to Plaintiff's Complaint",
+      "index_number": "114",
+      "title": "Answer"
+    },
+    {
+      "date": "06/03/2019",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "115",
+      "title": "Service Document"
+    },
+    {
+      "date": "06/14/2019",
+      "description": "Answer and Affirmative Defenses of Defendant Bayer CropScience, Inc. and Bayer CropScience LP to Plaintiff's Complaint",
+      "index_number": "116",
+      "title": "Answer"
+    },
+    {
+      "date": "06/14/2019",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "117",
+      "title": "Service Document"
+    },
+    {
+      "date": "06/24/2019",
+      "description": "Scheduling Conference",
+      "index_number": "118",
+      "title": "Notice of Hearing"
+    },
+    {
+      "date": "08/08/2019",
+      "description": "(Proposed) Scheduling Order Filed by Jane L. Dynes, Defense Liaison Counsel",
+      "index_number": "119",
+      "title": "Proposed Order"
+    },
+    {
+      "date": "08/20/2019",
+      "description": "- Scheduling Order",
+      "index_number": "120",
+      "title": "Order"
+    },
+    {
+      "date": "08/21/2019",
+      "description": "of Trial w/Pretrial Conference",
+      "index_number": "121",
+      "title": "Notice"
+    },
+    {
+      "date": "03/09/2020",
+      "description": "(Proposed) March 2020 Stipulated Scheduling Order filed by Jane Dynes",
+      "index_number": "122",
+      "title": "Stipulation / Agreement"
+    },
+    {
+      "date": "03/09/2020",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification) by Jane Dynes",
+      "index_number": "123",
+      "title": "Service Document"
+    },
+    {
+      "date": "03/10/2020",
+      "description": "March 2020",
+      "index_number": "124",
+      "title": "Scheduling Order"
+    },
+    {
+      "date": "03/12/2020",
+      "description": "Separate Answer of Crane Johnson Lumber Company",
+      "index_number": "125",
+      "title": "Answer"
+    },
+    {
+      "date": "03/12/2020",
+      "description": "Exhibit 1 - Affidavit of Wayne Briggs",
+      "index_number": "126",
+      "title": "Exhibit"
+    },
+    {
+      "date": "03/12/2020",
+      "description": "Affidavit of Service By Electronically - Jeanette Boechler & David C. Thompson",
+      "index_number": "127",
+      "title": "Service Document"
+    },
+    {
+      "date": "03/27/2020",
+      "description": "Separate Answer of Crown Cork and Seal Co. Inc.",
+      "index_number": "128",
+      "title": "Answer"
+    },
+    {
+      "date": "03/27/2020",
+      "description": "Affidavit of Service by Electronic Filing to Jeanette Boechler and David Thompson",
+      "index_number": "129",
+      "title": "Service Document"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Notice of Motion to Compel Discovery",
+      "index_number": "130",
+      "title": "Notice"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Motion to Compel Discovery",
+      "index_number": "131",
+      "title": "Motion"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Memorandum of Law in Support of Motion to Compel Discovery",
+      "index_number": "132",
+      "title": "Brief"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Affidavit of Jane L. Dynes in Support of Motion to Compel Discovery",
+      "index_number": "133",
+      "title": "Affidavit"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Exhibit 1: Discovery Requests",
+      "index_number": "134",
+      "title": "Exhibit"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Exhibit 2: Correspondence to Plaintiff s counsel dated September 25, 2019",
+      "index_number": "135",
+      "title": "Exhibit"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Exhibit 3: Correspondence to Plaintiff s counsel dated February 26, 2020",
+      "index_number": "136",
+      "title": "Exhibit"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Exhibit 4: Emails to Plaintiff s counsel dated March 6, 2020",
+      "index_number": "137",
+      "title": "Exhibit"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Exhibit 5: March 10, 2020 Executed Scheduling Order",
+      "index_number": "138",
+      "title": "Exhibit"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Exhibit 6: Correspondence to Plaintiff s counsel dated May 4, 2020",
+      "index_number": "139",
+      "title": "Exhibit"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Exhibit 7: Email correspondence to Plaintiff s counsel dated June 4, 2020",
+      "index_number": "140",
+      "title": "Exhibit"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "(Proposed) Order Granting Motion to Compel Discovery Filed by Jane L. Dynes",
+      "index_number": "141",
+      "title": "Proposed Order"
+    },
+    {
+      "date": "06/11/2020",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "142",
+      "title": "Service of Motion"
+    },
+    {
+      "date": "06/25/2020",
+      "description": "Memorandum of Plaintiff in Opposition to Motion by Defendants Union Carbide Corporation, Bayer Cropscience, Inc. and Bayer Cropscience LP to Compel Discovery",
+      "index_number": "143",
+      "title": "Brief"
+    },
+    {
+      "date": "06/25/2020",
+      "description": "Exhibit 1 - Order of Honorable Steven L. Marquart in Dorothy Hoffman vs. 999 Quebec et al., 03-22-2013, Cass County File No. 09-2010 CV-02724",
+      "index_number": "144",
+      "title": "Exhibit"
+    },
+    {
+      "date": "06/25/2020",
+      "description": "Declaration of Service - Sarah M. Karaz, rep. of Sameh S. Karaz vs Asbestos Corp Ltd. et al.",
+      "index_number": "145",
+      "title": "Service Document"
+    },
+    {
+      "date": "07/01/2020",
+      "description": "Reply Brief in Support of Motion to Compel Discovery",
+      "index_number": "146",
+      "title": "Brief"
+    },
+    {
+      "date": "07/01/2020",
+      "description": "Exhibit A: Wallock Order Granting Defendants' Joint Motion to Enforce Plaintiff's Compliance with ND Bankruptcy Trust Transparency Act (Wallock Doc ID# 478)",
+      "index_number": "147",
+      "title": "Exhibit"
+    },
+    {
+      "date": "07/01/2020",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "148",
+      "title": "Service Document"
+    },
+    {
+      "date": "07/01/2020",
+      "description": "Defendant Bayer CropScience, Inc. s Disclosure of Expert Witnesses Pursuant to N.D.R.Civ.P. 26(b)(4)(A)(i)",
+      "index_number": "149",
+      "title": "Report"
+    },
+    {
+      "date": "07/01/2020",
+      "description": "Defendant Union Carbide Corporation s Disclosure of Expert Witnesses Pursuant to N.D.R.Civ.P. 26(b)(4)(A)(i)",
+      "index_number": "150",
+      "title": "Report"
+    },
+    {
+      "date": "07/01/2020",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "151",
+      "title": "Service Document"
+    },
+    {
+      "date": "07/08/2020",
+      "description": "Supplemental Affidavit of Jane L. Dynes in Support of Reply Brief in Support of Motion to Compel Discovery",
+      "index_number": "152",
+      "title": "Affidavit"
+    },
+    {
+      "date": "07/08/2020",
+      "description": "Exhibit A - United States District Court Order pertaining to Asbestos Bankruptcy Trust Transparency Act",
+      "index_number": "153",
+      "title": "Exhibit"
+    },
+    {
+      "date": "07/08/2020",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "154",
+      "title": "Service Document"
+    },
+    {
+      "date": "07/13/2020",
+      "description": "(Proposed) Order on Motion to Compel Discovery - Filed by Jane L. Dynes, Attorney for Bayer CropScience and Union Carbide",
+      "index_number": "155",
+      "title": "Proposed Order"
+    },
+    {
+      "date": "07/14/2020",
+      "description": "- Order on Motion to Compel Discovery",
+      "index_number": "156",
+      "title": "Order"
+    },
+    {
+      "date": "07/15/2020",
+      "description": "(Proposed) July 2020 Stipulated Amended Scheduling Order Filed by Jane L. Dynes, Attorney for Bayer CropScience and Union Carbide Corporation",
+      "index_number": "157",
+      "title": "Proposed Order"
+    },
+    {
+      "date": "07/16/2020",
+      "description": "- July 2020 Stipulated Amended Scheduling Order",
+      "index_number": "158",
+      "title": "Order"
+    },
+    {
+      "date": "07/20/2020",
+      "description": "of Rescheduled Trial w/Pretrial Order (Rescheduled)",
+      "index_number": "159",
+      "title": "Notice"
+    },
+    {
+      "date": "08/03/2020",
+      "description": "Notice of Entry of Order",
+      "index_number": "160",
+      "title": "Notice"
+    },
+    {
+      "date": "08/03/2020",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "161",
+      "title": "Service Document"
+    },
+    {
+      "date": "10/19/2020",
+      "description": "Stipulation for Dismissal filed by Jane Dynes",
+      "index_number": "162",
+      "title": "Stipulation / Agreement"
+    },
+    {
+      "date": "10/19/2020",
+      "description": "of Dismissal by Jane Dynes",
+      "index_number": "163",
+      "title": "Proposed Order"
+    },
+    {
+      "date": "10/19/2020",
+      "description": "of Dismissal by Jane Dynes",
+      "index_number": "164",
+      "title": "Proposed Judgment"
+    },
+    {
+      "date": "10/20/2020",
+      "description": "of Dismissal",
+      "index_number": "165",
+      "title": "Order"
+    },
+    {
+      "date": "10/20/2020",
+      "description": "of Dismissal",
+      "index_number": "166",
+      "title": "Judgment"
+    },
+    {
+      "date": "10/20/2020",
+      "description": "Notice of Entry of Order and Judgment of Dismissal re: Bayer CropScience,Inc. & Bayer CropScience LP",
+      "index_number": "167",
+      "title": "Notice of Entry of Judgment"
+    },
+    {
+      "date": "10/20/2020",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification) by Jane Dynes",
+      "index_number": "168",
+      "title": "Service Document"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #100 Union Carbide Corporation s Notice of Motion for Partial Summary Judgment on Conspiracy, Deceit and Fraud Claims",
+      "index_number": "169",
+      "title": "Notice"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #100 Union Carbide Corporation s Motion for Partial Summary Judgment on Conspiracy, Deceit and Fraud Claims",
+      "index_number": "170",
+      "title": "Motion"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #100 Union Carbide Corporation s Memorandum in Support of Motion for Partial Summary Judgment on Conspiracy, Deceit and Fraud Claims",
+      "index_number": "171",
+      "title": "Brief"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #100 Exhibit A: Deposition Transcript of Samy Karaz",
+      "index_number": "172",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #100 Exhibit B: Sameh Karaz Work History",
+      "index_number": "173",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #100 Exhibit C: Plaintiff's Answers to Interrogatories",
+      "index_number": "174",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #100 Exhibit D: Sarah M. Karaz as representative of Sameh S. Karaz, deceased v. 999 Quebec, Civil No. 09-2012-CV-01608, Order Granting Motions for Partial Summary Judgment on Fraud, Conspiracy, and Deceit",
+      "index_number": "175",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #100 Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "176",
+      "title": "Service of Motion"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #101 Union Carbide Corporation s Notice of Motion for Partial Summary Judgment on Market Share, Alternative Liability, Enterprise and Concerted Action Liability Theories",
+      "index_number": "177",
+      "title": "Notice"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #101 Union Carbide Corporation s Motion for Partial Summary Judgment on Market Share, Alternative Liability, Enterprise and Concerted Action Liability Theories",
+      "index_number": "178",
+      "title": "Motion"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #101 Union Carbide Corporation s Memorandum in Support of Motion for Partial Summary Judgment on Market Share, Alternative Liability, Enterprise and Concerted Action Liability Theories",
+      "index_number": "179",
+      "title": "Brief"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #101 Exhibit A: Deposition Transcript of Samy Karaz",
+      "index_number": "180",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #101 Exhibit B: Sameh Karaz Work History",
+      "index_number": "181",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #101 Exhibit C: Plaintiff's Answers to Interrogatories",
+      "index_number": "182",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #101 Exhibit D: Sarah M. Karaz as representative of Sameh S. Karaz, deceased v. 999 Quebec, Civil No. 09-2012-CV-01608, Order Granting Motions for Partial Summary Judgment on Market Share, Alternative Liability, Enterprise Liability, and Concerted Action Liability Theories",
+      "index_number": "183",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #101 Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "184",
+      "title": "Service of Motion"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Defendant Union Carbide Corporation s Notice of Motion for Summary Judgment on Statute of Limitations Grounds",
+      "index_number": "185",
+      "title": "Notice"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Defendant Union Carbide Corporation s Motion for Summary Judgment on Statute of Limitations Grounds",
+      "index_number": "186",
+      "title": "Motion"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Defendant Union Carbide Corporation s Memorandum in Support of Motion for Summary Judgment on Statute of Limitations Grounds",
+      "index_number": "187",
+      "title": "Brief"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Declaration of Jane L. Dynes in Support of Defendant Union Carbide Corporation s Motion for Summary Judgment on Statute of Limitations Grounds",
+      "index_number": "188",
+      "title": "Affidavit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Exhibit A: Deposition Transcript of Dr. Samey Karaz (12-21-2017)",
+      "index_number": "189",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Exhibit B: Sameh Karaz s Work History",
+      "index_number": "190",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Exhibit C: Plaintiff s Answers to Interrogatories in Cass County Civil No. 09-2012-CV-01608",
+      "index_number": "191",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Exhibit D: letter/report from Dr. Hilary Gomolin dated 10-29-2004",
+      "index_number": "192",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Exhibit E: Death Certificate of Sameh Karaz",
+      "index_number": "193",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Exhibit F: Affidavit of Attorney Marshall McCullough filed in Cass County District Court on October 31, 2005, along with its attached Exhibits (Exhibit A: Dr. Sameh Karaz s 2005 Last Will and Testament, Exhibit B: Change of Address Notice, and Exhibit C: Sarah Karaz s Petition for Administration of Probate in Florida)",
+      "index_number": "194",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Exhibit G: Deposition Transcript of Sarah Karaz (12-14-2017)",
+      "index_number": "195",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Exhibit H: Portion of 04-23-2018 Dispositive Motion Hearing Transcript in Cass County Civil No. 09-2012-CV-01608",
+      "index_number": "196",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Exhibit I: Stipulation of Dismissal Re: Bayer CropScience, Inc. & Union Carbide Corporation in Cass County Civil No. 09-2012-CV-01608",
+      "index_number": "197",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Exhibit J: Order Granting Motion for Summary Judgment on Statute of limitations grounds in Knoll v. 999 Quebec, dated 12-30-2011",
+      "index_number": "198",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Exhibit K: Deposition Transcript of Camille Nelson (05-23-2018)",
+      "index_number": "199",
+      "title": "Exhibit"
+    },
+    {
+      "date": "02/26/2021",
+      "description": "Docket #103 Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "200",
+      "title": "Service of Motion"
+    },
+    {
+      "date": "03/01/2021",
+      "description": "Docket #103 Defendant Union Carbide Corporation s Amended Memorandum in Support of Motion for Summary Judgment on Statute of Limitations Grounds (re Index # 187) (Paragraphs 5, 25 & 28 were revised to reference Exhibit K instead of Exhibit J)",
+      "index_number": "201",
+      "title": "Brief"
+    },
+    {
+      "date": "03/01/2021",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "202",
+      "title": "Service Document"
+    },
+    {
+      "date": "03/02/2021",
+      "description": "Docket #103 Exhibit F (refiled with additional redactions to pg 12): Affidavit of Attorney Marshall McCullough filed in Cass County District Court on October 31, 2005, along with its attached Exhibits (Exhibit A: Dr. Sameh Karaz s 2005 Last Will and Testament, Exhibit B: Change of Address Notice, and Exhibit C: Sarah Karaz s Petition for Administration of Probate in Florida)",
+      "index_number": "203",
+      "title": "Exhibit"
+    },
+    {
+      "date": "04/11/2021",
+      "description": "MEMORANDUM OF PLAINTIFF SARAH M. KARAZ IN OPPOSITION TO MOTION BY DEFENDANT UNION CARBIDE CORPORATION FOR SUMMARY JUDGMENT UPON ALLEGED STATUTE OF LIMITATIONS GROUNDS [FILING CATEGORY# 103]",
+      "index_number": "204",
+      "title": "Brief"
+    },
+    {
+      "date": "04/11/2021",
+      "description": "\"APPENDIX A\" -- CLOSING DOCUMENTS FILED IN KARAZ I -- Cass County Civil No. 09-2012-CV-01608",
+      "index_number": "205",
+      "title": "Exhibit"
+    },
+    {
+      "date": "04/11/2021",
+      "description": "\"APPENDIX B\" -- MEMORANDUM WITH EXHIBITS FILED BY PLAINTIFF IN KARAZ I OPPOSING DEFENDANT UNION CARBIDE MSJ ON STATUTE-OF-LIMITATIONS GROUNDS",
+      "index_number": "206",
+      "title": "Exhibit"
+    },
+    {
+      "date": "04/11/2021",
+      "description": "\"APPENDIX C\" -- MEMORANDUM DECISION OF THE HONORABLE FRANK L. RACEK FILED DECEMBER 18, 2008 IN MAX ADLER ET. AL. v.. A.O. SMITH et. al. -- CASS COUNTY FILE NO. 09-07-C-1838",
+      "index_number": "207",
+      "title": "Exhibit"
+    },
+    {
+      "date": "04/11/2021",
+      "description": "RULE 5 N.D.R. Civ.P. DECLARATION OF SERVICE MEMORANDUM OF PLAINTIFF SARAH M. KARAZ IN OPPOSITION TO MOTION BY DEFENDANT UNION CARBIDE CORPORATION FOR SUMMARY JUDGMENT UPON ALLEGED STATUTE OF LIMITATIONS GROUNDS WITH APPENDICES A THROUGH C",
+      "index_number": "208",
+      "title": "Service Document"
+    },
+    {
+      "date": "04/12/2021",
+      "description": "CORRECTED \"APPENDIX B\" TO MEMORANDUM OF PLAINTIFF SARAH M. KARAZ IN OPPOSITION TO MOTION BY DEFENDANT UNION CARBIDE CORPORATION FOR SUMMARY JUDGMENT UPON ALLEGED STATUTE OF LIMITATIONS GROUNDS [FILING CATEGORY# 103]",
+      "index_number": "209",
+      "title": "Exhibit"
+    },
+    {
+      "date": "04/12/2021",
+      "description": "DECLARATION OF ELECTRONIC SERVICE BY ODYESSEY SYSTEM UPON ALL COUNSEL FOR RECORD",
+      "index_number": "210",
+      "title": "Service Document"
+    },
+    {
+      "date": "04/13/2021",
+      "description": "Stipulated Cover Letter to Jurors",
+      "index_number": "211",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "04/13/2021",
+      "description": "Stipulated Jury Questionnaire (Enclosure to Cover Letter to Jurors)",
+      "index_number": "212",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "04/13/2021",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "213",
+      "title": "Service Document"
+    },
+    {
+      "date": "04/16/2021",
+      "description": "Docket #103 Defendant Union Carbide Corporation s Reply Brief in Support of Motion for Summary Judgment on Statute of Limitations Grounds (Index # 186-201)",
+      "index_number": "214",
+      "title": "Brief"
+    },
+    {
+      "date": "04/16/2021",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "215",
+      "title": "Service Document"
+    },
+    {
+      "date": "04/28/2021",
+      "description": "Union Carbide Corporation s Pretrial Statement",
+      "index_number": "216",
+      "title": "Statement"
+    },
+    {
+      "date": "04/28/2021",
+      "description": "Certificate of Service upon David Thompson (and Defense Counsel of record registered for electronic notification)",
+      "index_number": "217",
+      "title": "Service Document"
+    },
+    {
+      "date": "04/30/2021",
+      "description": "Defendant, Crown Cork & Seal Company, Inc.'s Disclosure of Expert Witnesses",
+      "index_number": "218",
+      "title": "Report"
+    },
+    {
+      "date": "04/30/2021",
+      "description": "Defendant, Crown Cork & Seal Company, Inc.'s Witness List",
+      "index_number": "219",
+      "title": "Report"
+    },
+    {
+      "date": "04/30/2021",
+      "description": "Defendant, Crown Cork & Seal Company, Inc.'s Exhibit List",
+      "index_number": "220",
+      "title": "Report"
+    },
+    {
+      "date": "04/30/2021",
+      "description": "Defendant, Crown Cork & Seal Company, Inc.'s Pretrial Statement",
+      "index_number": "221",
+      "title": "Statement"
+    },
+    {
+      "date": "04/30/2021",
+      "description": "Affidavit of Service - Jeanette Boechler & David Thompson",
+      "index_number": "222",
+      "title": "Service Document"
+    },
+    {
+      "date": "04/30/2021",
+      "description": "Defendant, Crane Johnson Lumber Company's Disclosure of Expert Witnesses",
+      "index_number": "223",
+      "title": "Report"
+    },
+    {
+      "date": "04/30/2021",
+      "description": "Defendant, Crane Johnson Lumber Company's Witness and Exhibit List",
+      "index_number": "224",
+      "title": "Report"
+    },
+    {
+      "date": "04/30/2021",
+      "description": "Affidavit of Service - Jeanette Boechler & David Thompson",
+      "index_number": "225",
+      "title": "Service Document"
+    },
+    {
+      "date": "04/30/2021",
+      "description": "POST-ARGUMENT SUPPLEMENTAL MEMORANDUM OF PLAINTIFF SARAH M. KARAZ IN OPPOSITION TO MOTION BY DEFENDANT UNION CARBIDE CORPORATION FOR SUMMARY JUDGMENT UPON STATUTE-OF-LIMITATIONS GROUNDS",
+      "index_number": "226",
+      "title": "Brief"
+    },
+    {
+      "date": "05/02/2021",
+      "description": "\"EXHIBIT 1\" -- Order Regarding Motions for Summary Judgment on Statute of Limitations Grounds , entered on July 18, 2000, in Arlene (Noey) Hebert, et. al. Burleigh County Asbestos Litigation - Set 13, Burleigh County Civil Nos. 96-C-1922, et. seq.",
+      "index_number": "227",
+      "title": "Exhibit"
+    },
+    {
+      "date": "05/02/2021",
+      "description": "Exhibit 2 -- Order on Motions entered June 7, 2005, slip opinion filed in Charles Allen, et. al. Morton County Civil Nos. 02-C-1680 and 02-C-1681",
+      "index_number": "228",
+      "title": "Exhibit"
+    },
+    {
+      "date": "05/02/2021",
+      "description": "Rule 5 DECLARATION OF ELECTRONIC SERVICE UPON ALL COUNSEL OF RECORD VIA THE ODYSSEY SYSTEM",
+      "index_number": "229",
+      "title": "Service Document"
+    },
+    {
+      "date": "05/03/2021",
+      "description": "Docket #100 - (Proposed) Order Granting Motions for Partial Summary Judgment on Fraud, Conspiracy, and Deceit (Dynes)",
+      "index_number": "230",
+      "title": "Proposed Order"
+    },
+    {
+      "date": "05/03/2021",
+      "description": "Docket #101 - (Proposed) Order Granting Motions for Partial Summary Judgment on Market Share, Alternative Liability, Enterprise Liability, and Concerted Action Liability Theories (Dynes)",
+      "index_number": "231",
+      "title": "Proposed Order"
+    },
+    {
+      "date": "05/03/2021",
+      "description": "Certificate of Service (D. Thompson, all defense counsel)",
+      "index_number": "232",
+      "title": "Service Document"
+    },
+    {
+      "date": "05/04/2021",
+      "description": "Order Granting Motions for Partial Summary Judgment on Fraud, Conspiracy, and Deceit (Docket #100)",
+      "index_number": "233",
+      "title": "Order"
+    },
+    {
+      "date": "05/04/2021",
+      "description": "Order Granting Motions for Partial Summary Judgment on Market Share, Alternative Liability, Enterprise Liability, and Concerted Action Liability Theories (Docket #101)",
+      "index_number": "234",
+      "title": "Order"
+    },
+    {
+      "date": "05/14/2021",
+      "description": "Defendant Union Carbide Corporation s Exhibit List",
+      "index_number": "235",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "05/14/2021",
+      "description": "Defendant Union Carbide Corporation s Fact and Expert Witness List",
+      "index_number": "236",
+      "title": "Civil Filing"
+    },
+    {
+      "date": "05/14/2021",
+      "description": "Certificate of Service (D. Thompson, all defense counsel)",
+      "index_number": "237",
+      "title": "Service Document"
+    },
+    {
+      "date": "05/25/2021",
+      "description": "STIPULATION FOR A CONTINUANCE OF TRIAL",
+      "index_number": "238",
+      "title": "Stipulation / Agreement"
+    },
+    {
+      "date": "05/25/2021",
+      "description": "PROPOSED ORDER TO CONTINUE TRIAL",
+      "index_number": "239",
+      "title": "Proposed Order"
+    },
+    {
+      "date": "05/25/2021",
+      "description": "- Order to Continue Trial",
+      "index_number": "240",
+      "title": "Order"
+    },
+    {
+      "date": "05/26/2021",
+      "description": "Of Rescheduled Trial - May 2021",
+      "index_number": "241",
+      "title": "Notice"
+    },
+    {
+      "date": "06/10/2021",
+      "description": "Order Granting Motion for Summary Judgment",
+      "index_number": "242",
+      "title": "Order"
+    },
+    {
+      "date": "06/10/2021",
+      "description": "of Entry of Order with Order Granting Summary Judgment by Jane Dynes",
+      "index_number": "243",
+      "title": "Notice"
+    },
+    {
+      "date": "06/10/2021",
+      "description": "of Dismissal by Jane Dynes",
+      "index_number": "244",
+      "title": "Proposed Judgment"
+    },
+    {
+      "date": "06/10/2021",
+      "description": "Certificate of Service upon David Thompson and Counsel of Record Registered for EService (Filed by Jane Dynes)",
+      "index_number": "245",
+      "title": "Service Document"
+    },
+    {
+      "date": "06/11/2021",
+      "description": "- Judgment of Dismissal",
+      "index_number": "246",
+      "title": "Judgment"
+    },
+    {
+      "date": "06/15/2021",
+      "description": "Notice of Entry of Judgment of Dismissal Regarding Union Carbide Corporation and All Remaining Defendants",
+      "index_number": "247",
+      "title": "Notice of Entry of Judgment"
+    },
+    {
+      "date": "06/15/2021",
+      "description": "Certificate of Service (D. Thompson, all defense counsel)",
+      "index_number": "248",
+      "title": "Service Document"
+    }
+  ],
+  "indexed_entry_count": 151
 }

@@ -46,3 +46,7 @@
 {"at_utc": "2026-06-24T15:22:12+00:00", "detail_error_count": 0, "detail_page_count": 9, "detail_page_ok_count": 9, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000234-200-20190427-20190427"}
 {"at_utc": "2026-06-24T15:22:56+00:00", "completed": 25, "event": "details_background_progress", "job_id": "000120-200-20190301-20190301", "total": 122}
 {"at_utc": "2026-06-24T15:27:27+00:00", "completed": 50, "event": "details_background_progress", "job_id": "000186-200-20190403-20190403", "total": 130}
+{"at_utc": "2026-06-24T15:31:06+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000086-200-20190212-20190212", "total": 126}
+{"at_utc": "2026-06-24T15:31:52+00:00", "completed": 126, "event": "details_background_progress", "job_id": "000086-200-20190212-20190212", "total": 126}
+{"at_utc": "2026-06-24T15:31:52+00:00", "event": "details_background_retry_start", "failed_count": 51, "job_id": "000086-200-20190212-20190212", "total": 126}
+{"at_utc": "2026-06-24T15:34:02+00:00", "completed": 50, "event": "details_background_progress", "job_id": "000120-200-20190301-20190301", "total": 122}
