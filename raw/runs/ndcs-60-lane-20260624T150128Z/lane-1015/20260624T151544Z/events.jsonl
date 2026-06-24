@@ -13,3 +13,6 @@
 {"at_utc": "2026-06-24T15:17:20+00:00", "attempt": 1, "error": "Error: Timed out waiting for CDP Page.navigate", "event": "prepare_retry", "job_id": "000239-100-20190430-20190430"}
 {"at_utc": "2026-06-24T15:17:30+00:00", "attempt": 2, "error": "Error: Timed out waiting for CDP Page.navigate", "event": "prepare_retry", "job_id": "000239-100-20190430-20190430"}
 {"at_utc": "2026-06-24T15:17:55+00:00", "bridge_challenge_id": "ad3cfd9ce68a498992fd93a8588414b8", "event": "challenge_posted", "job_id": "000239-100-20190430-20190430"}
+{"at_utc": "2026-06-24T15:20:53+00:00", "bridge_challenge_id": "ad3cfd9ce68a498992fd93a8588414b8", "event": "submitting", "job_id": "000239-100-20190430-20190430"}
+{"at_utc": "2026-06-24T15:20:54+00:00", "error": "Error: Browser submit blocked status=403 url=https://publicsearch.ndcourts.gov/Search.aspx?ID=100\n    at runOneJob (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:457:11)\n    at async run (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:377:24)", "event": "job_error", "job_id": "000239-100-20190430-20190430"}
+{"at_utc": "2026-06-24T15:20:54+00:00", "event": "worker_stop_for_access_block", "job_id": "000239-100-20190430-20190430"}

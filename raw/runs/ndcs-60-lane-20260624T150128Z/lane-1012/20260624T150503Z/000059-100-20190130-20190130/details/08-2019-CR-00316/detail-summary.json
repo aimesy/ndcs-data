@@ -1,9 +1,46 @@
 {
-  "case_number": null,
+  "case_number": "08-2019-CR-00316",
   "document_link_count": 0,
   "document_links": [],
   "has_document_links": false,
-  "has_register_of_actions": false,
-  "indexed_entries": [],
-  "indexed_entry_count": 0
+  "has_register_of_actions": true,
+  "indexed_entries": [
+    {
+      "date": "03/21/2019",
+      "description": "CANCELED",
+      "index_number": "1",
+      "title": "Information"
+    },
+    {
+      "date": "03/20/2019",
+      "description": "Criminal Summons - Served",
+      "index_number": "4",
+      "title": "Criminal Summons Served"
+    },
+    {
+      "date": "03/20/2019",
+      "description": "Criminal Summons - Served",
+      "index_number": "5",
+      "title": "Sheriff's Return Served"
+    },
+    {
+      "date": "03/21/2019",
+      "description": "Regarding Overdue Fines/Fees",
+      "index_number": "6",
+      "title": "Notice to Defendant and Consent to Reliable Electronic Means"
+    },
+    {
+      "date": "03/23/2020",
+      "description": "for Civil Judgment",
+      "index_number": "10",
+      "title": "Order"
+    },
+    {
+      "date": "03/27/2020",
+      "description": "",
+      "index_number": "11",
+      "title": "Returned Mail"
+    }
+  ],
+  "indexed_entry_count": 6
 }

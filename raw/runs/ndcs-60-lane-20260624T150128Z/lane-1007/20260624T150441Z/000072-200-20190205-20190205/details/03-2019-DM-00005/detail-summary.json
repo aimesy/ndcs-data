@@ -1,9 +1,34 @@
 {
-  "case_number": null,
+  "case_number": "03-2019-DM-00005",
   "document_link_count": 0,
   "document_links": [],
   "has_document_links": false,
-  "has_register_of_actions": false,
-  "indexed_entries": [],
-  "indexed_entry_count": 0
+  "has_register_of_actions": true,
+  "indexed_entries": [
+    {
+      "date": "02/05/2019",
+      "description": "Notice of Entry of Judgment",
+      "index_number": "1",
+      "title": "Judgment"
+    },
+    {
+      "date": "02/06/2019",
+      "description": "Affidavit of Service by Mail upon Melody Lawrence",
+      "index_number": "3",
+      "title": "Service Document"
+    },
+    {
+      "date": "02/06/2019",
+      "description": "Affidavit of Service by Mail upon Brittany Dubois",
+      "index_number": "4",
+      "title": "Service Document"
+    },
+    {
+      "date": "02/06/2019",
+      "description": "Affidavit of Service by Mail upon Carlos Quarry",
+      "index_number": "5",
+      "title": "Service Document"
+    }
+  ],
+  "indexed_entry_count": 4
 }
