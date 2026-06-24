@@ -1,0 +1,145 @@
+[
+  {
+    "attempts": 3,
+    "bytes": 14448,
+    "case_number": "09-2019-DM-00001",
+    "case_number_on_page": null,
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4150992",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/default.aspx",
+    "has_document_links": false,
+    "has_register_of_actions": false,
+    "index": 1,
+    "indexed_entries": [],
+    "indexed_entry_count": 0,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T150148Z/000002-200-20190101-20190101/details/09-2019-DM-00001/detail.html",
+    "retryable": true,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T150148Z/000002-200-20190101-20190101/details/09-2019-DM-00001/detail-summary.json"
+  },
+  {
+    "attempts": 2,
+    "bytes": 8932,
+    "case_number": "22-2019-CV-00001",
+    "case_number_on_page": "22-2019-CV-00001",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4150514",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4150514",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 2,
+    "indexed_entries": [
+      {
+        "date": "01/09/2019",
+        "description": "Jury Selection Plan",
+        "index_number": "1",
+        "title": "Memorandum"
+      },
+      {
+        "date": "01/23/2019",
+        "description": "of Certified Court Advocates",
+        "index_number": "2",
+        "title": "Reference List"
+      },
+      {
+        "date": "06/13/2019",
+        "description": "Demand for Notice - Jerry Wescom",
+        "index_number": "3",
+        "title": "Civil Filing"
+      },
+      {
+        "date": "12/19/2019",
+        "description": "Demand for Notice - John L. Johnson",
+        "index_number": "4",
+        "title": "Civil Filing"
+      }
+    ],
+    "indexed_entry_count": 4,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T150148Z/000002-200-20190101-20190101/details/22-2019-CV-00001/detail.html",
+    "retryable": false,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T150148Z/000002-200-20190101-20190101/details/22-2019-CV-00001/detail-summary.json"
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00005",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4150965",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async timedFetch (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:147:12)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:154:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:251:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:224:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:345:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:348:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:223:5)",
+    "index": 3,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T150148Z/000002-200-20190101-20190101/details/30-2019-CV-00005/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "32-2019-CV-00001",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4150516",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async timedFetch (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:147:12)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:154:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:251:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:224:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:345:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:348:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:223:5)",
+    "index": 4,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T150148Z/000002-200-20190101-20190101/details/32-2019-CV-00001/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 1,
+    "bytes": 9111,
+    "case_number": "32-2019-CV-00003",
+    "case_number_on_page": "32-2019-CV-00003",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4150518",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4150518",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 5,
+    "indexed_entries": [
+      {
+        "date": "01/10/2019",
+        "description": "Jury Selection Plan (effective 1/9/19)",
+        "index_number": "1",
+        "title": "Notice"
+      },
+      {
+        "date": "01/10/2019",
+        "description": "Delegation of Duties to Clerk of Court; Jury Selection Procedure",
+        "index_number": "2",
+        "title": "Order"
+      },
+      {
+        "date": "01/23/2019",
+        "description": "Reference List of Certified Court Advocates (January 2019)",
+        "index_number": "3",
+        "title": "Report"
+      },
+      {
+        "date": "10/25/2019",
+        "description": "Demand for Notice - Pearl Maessel",
+        "index_number": "4",
+        "title": "Civil Filing"
+      }
+    ],
+    "indexed_entry_count": 4,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T150148Z/000002-200-20190101-20190101/details/32-2019-CV-00003/detail.html",
+    "retryable": false,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T150148Z/000002-200-20190101-20190101/details/32-2019-CV-00003/detail-summary.json"
+  },
+  {
+    "attempts": 3,
+    "case_number": "Dangerous Dog 2019",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4150177",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async timedFetch (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:147:12)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:154:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:251:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:224:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:345:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:348:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:223:5)",
+    "index": 6,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T150148Z/000002-200-20190101-20190101/details/Dangerous-Dog-2019/detail.html",
+    "retryable": false
+  }
+]

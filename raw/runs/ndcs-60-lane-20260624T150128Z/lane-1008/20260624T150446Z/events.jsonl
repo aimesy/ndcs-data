@@ -1,0 +1,13 @@
+{"agent": "http://10.253.8.1:8795", "at_utc": "2026-06-24T15:04:46+00:00", "event": "started", "lane_id": "1008", "worker": "browser"}
+{"at_utc": "2026-06-24T15:04:46+00:00", "chrome": "/usr/bin/google-chrome", "event": "chrome_starting", "port": 40008, "profile_dir": "/var/tmp/ndcs-browser-profiles/lane-1008"}
+{"at_utc": "2026-06-24T15:04:47+00:00", "browser": "Chrome/149.0.7827.196", "event": "chrome_version_ready", "protocol_version": "1.3"}
+{"at_utc": "2026-06-24T15:04:47+00:00", "event": "chrome_tab_ready", "target_id": "A9CADB7AD7B77383E3734AC90CAFDAEB", "url": "about:blank"}
+{"at_utc": "2026-06-24T15:04:47+00:00", "event": "chrome_ws_open", "target_id": "A9CADB7AD7B77383E3734AC90CAFDAEB"}
+{"at_utc": "2026-06-24T15:04:47+00:00", "event": "chrome_ready", "target_id": "A9CADB7AD7B77383E3734AC90CAFDAEB"}
+{"at_utc": "2026-06-24T15:04:47+00:00", "event": "prepare", "job_id": "000025-100-20190113-20190113", "product_id": 100, "values": {"DateFiledOnAfter": "01/13/2019", "DateFiledOnBefore": "01/13/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T15:04:58+00:00", "bridge_challenge_id": "0d91ddcc0deb49bebb3da6450b9c465b", "event": "challenge_posted", "job_id": "000025-100-20190113-20190113"}
+{"at_utc": "2026-06-24T15:05:08+00:00", "error": "Error: CAPTCHA not submitted: refresh\n    at runOneJob (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:446:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:377:24)", "event": "job_error", "job_id": "000025-100-20190113-20190113"}
+{"at_utc": "2026-06-24T15:05:09+00:00", "event": "prepare", "job_id": "000030-200-20190115-20190115", "product_id": 200, "values": {"DateFiledOnAfter": "01/15/2019", "DateFiledOnBefore": "01/15/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T15:05:27+00:00", "attempt": 1, "error": "Error: Timed out waiting for (() => {\n        const img = document.querySelector('img[src*=\"LanapCaptcha.aspx\"]');\n        return Boolean(img && img.complete && img.naturalWidth > 0 && img.naturalHeight > 0);\n      })()", "event": "prepare_retry", "job_id": "000030-200-20190115-20190115"}
+{"at_utc": "2026-06-24T15:05:55+00:00", "attempt": 2, "error": "Error: Search form blocked by upstream access challenge during search form url=https://publicsearch.ndcourts.gov/Search.aspx?ID=200 title=\"Just a moment...\"", "event": "prepare_retry", "job_id": "000030-200-20190115-20190115"}
+{"at_utc": "2026-06-24T15:06:06+00:00", "bridge_challenge_id": "0fd9b172f1e64f60bc1615dc90e5ecfd", "event": "challenge_posted", "job_id": "000030-200-20190115-20190115"}
