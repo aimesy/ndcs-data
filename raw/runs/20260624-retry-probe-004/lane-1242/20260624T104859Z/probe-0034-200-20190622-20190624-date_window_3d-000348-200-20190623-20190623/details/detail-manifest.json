@@ -1,0 +1,1584 @@
+[
+  {
+    "attempts": 3,
+    "case_number": "40-2019-PR-00013",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4261973",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 1,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/40-2019-PR-00013/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 2,
+    "bytes": 13864,
+    "case_number": "45-2019-CV-00480",
+    "case_number_on_page": "45-2019-CV-00480",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262022",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262022",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 2,
+    "indexed_entries": [
+      {
+        "date": "06/23/2019",
+        "description": "Application for post-conviction relief",
+        "index_number": "1",
+        "title": "Post Conviction Relief Application"
+      },
+      {
+        "date": "06/23/2019",
+        "description": "Certificate of service - served upon Jim Hope",
+        "index_number": "3",
+        "title": "Service Document"
+      },
+      {
+        "date": "06/24/2019",
+        "description": "Respondent's Answer to Petitioner's Application for Post-Conviction Relief",
+        "index_number": "4",
+        "title": "Notice of Assignment and Case Number"
+      },
+      {
+        "date": "07/23/2019",
+        "description": "Certificate of Service - Herbel",
+        "index_number": "6",
+        "title": "Service Document"
+      },
+      {
+        "date": "08/02/2019",
+        "description": "CANCELED",
+        "index_number": "7",
+        "title": "Notice of Hearing"
+      },
+      {
+        "date": "09/03/2019",
+        "description": "Stipulation to vacate conviction",
+        "index_number": "8",
+        "title": "Stipulation / Agreement"
+      },
+      {
+        "date": "09/03/2019",
+        "description": "Proposed Order vacating conviction - submitted by counsel for Petitioner Kuntz",
+        "index_number": "9",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "09/03/2019",
+        "description": "Certificate of service - served upon Jim Hope",
+        "index_number": "10",
+        "title": "Service Document"
+      },
+      {
+        "date": "09/04/2019",
+        "description": "Vacating Conviction",
+        "index_number": "11",
+        "title": "Order"
+      }
+    ],
+    "indexed_entry_count": 9,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/45-2019-CV-00480/detail.html",
+    "retryable": false,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/45-2019-CV-00480/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 15912,
+    "case_number": "53-2019-PR-00201",
+    "case_number_on_page": "53-2019-PR-00201",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262366",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262366",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 3,
+    "indexed_entries": [
+      {
+        "date": "06/23/2019",
+        "description": "Application for Informal Probate of Will and Appointment of Personal Representative",
+        "index_number": "1",
+        "title": "Application for Appointment of Personal Representative"
+      },
+      {
+        "date": "06/23/2019",
+        "description": "Waiver of Right to Appointment (James Berg)",
+        "index_number": "2",
+        "title": "Waiver"
+      },
+      {
+        "date": "06/23/2019",
+        "description": "Statement of Informal Probate of Will and Appointment of Personal Representative",
+        "index_number": "3",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "06/23/2019",
+        "description": "Letters Testamentary Marilyn S. Berg Estate",
+        "index_number": "4",
+        "title": "Proposed Letters"
+      },
+      {
+        "date": "07/05/2019",
+        "description": "Marilyn S. Berg Will",
+        "index_number": "5",
+        "title": "Last Will and Testament"
+      },
+      {
+        "date": "07/17/2019",
+        "description": "Telephonic Status Conference",
+        "index_number": "6",
+        "title": "Notice of Hearing"
+      },
+      {
+        "date": "08/09/2019",
+        "description": "Decree of Probate- Suffolk County, New York",
+        "index_number": "7",
+        "title": "Probate Filing"
+      },
+      {
+        "date": "08/13/2019",
+        "description": "",
+        "index_number": "8",
+        "title": "Statement of Appointment of a Personal Representative"
+      },
+      {
+        "date": "08/13/2019",
+        "description": "",
+        "index_number": "9",
+        "title": "Letters Testamentary"
+      }
+    ],
+    "indexed_entry_count": 9,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-PR-00201/detail.html",
+    "retryable": false,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-PR-00201/detail-summary.json"
+  },
+  {
+    "attempts": 3,
+    "case_number": "06-2019-CV-00039",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262440",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 4,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/06-2019-CV-00039/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "07-2019-CV-00024",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262224",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 5,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/07-2019-CV-00024/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02047",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262002",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 6,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02047/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02048",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262020",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 7,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02048/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02049",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262035",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 8,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02049/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02050",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262040",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 9,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02050/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02051",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262137",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 10,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02051/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02054",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262163",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 11,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02054/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02056",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262218",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 12,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02056/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02057",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262256",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 13,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02057/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02058",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262261",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 14,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02058/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02060",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262307",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 15,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02060/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02061",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262341",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 16,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02061/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02063",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262349",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 17,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02063/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02064",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262405",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 18,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02064/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02065",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262407",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 19,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02065/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02066",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262415",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 20,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-CV-02066/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-DM-00346",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262259",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 21,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-DM-00346/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-SC-00208",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262164",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 22,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/08-2019-SC-00208/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02172",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262093",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 23,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02172/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02173",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262104",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 24,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02173/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02174",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262264",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 25,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02174/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02175",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262276",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 26,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02175/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02176",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262280",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 27,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02176/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02177",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262302",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 28,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02177/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02178",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262324",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 29,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02178/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02179",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262352",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 30,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02179/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02180",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262358",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 31,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02180/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02181",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262419",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 32,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02181/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02182",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262456",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 33,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02182/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02183",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262689",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 34,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02183/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02185",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262765",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 35,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02185/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-02188",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262916",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 36,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-CV-02188/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-DM-00664",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262128",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 37,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-DM-00664/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-DM-00665",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262298",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 38,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-DM-00665/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-DM-00666",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262447",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 39,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-DM-00666/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-PR-00193",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4261925",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 40,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-PR-00193/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-PR-00194",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262099",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 41,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-PR-00194/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-SC-00521",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262037",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 42,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-SC-00521/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-SC-00522",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262045",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 43,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-SC-00522/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-SC-00523",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262204",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 44,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/09-2019-SC-00523/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "10-2019-CV-00054",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262400",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 45,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/10-2019-CV-00054/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "10-2019-DM-00009",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262399",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 46,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/10-2019-DM-00009/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "12-2019-CV-00028",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262793",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 47,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/12-2019-CV-00028/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01398",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262068",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 48,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01398/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01399",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262107",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 49,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01399/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01400",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262134",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 50,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01400/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01401",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262159",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 51,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01401/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01402",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262160",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 52,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01402/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01403",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262231",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 53,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01403/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01404",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262236",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 54,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01404/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01405",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262238",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 55,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01405/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01406",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262245",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 56,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01406/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01407",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262248",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 57,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01407/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01408",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262251",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 58,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01408/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01409",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262314",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 59,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01409/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01410",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262344",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 60,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01410/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01411",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262354",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 61,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01411/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01412",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262406",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 62,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01412/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01413",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262409",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 63,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01413/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01414",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262425",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 64,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01414/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01415",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262428",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 65,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01415/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01416",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262431",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 66,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01416/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-01418",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262743",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 67,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-CV-01418/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-SC-00337",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262242",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 68,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/18-2019-SC-00337/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "20-2019-CV-00038",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262812",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 69,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/20-2019-CV-00038/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "22-2019-CV-00030",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262850",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 70,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/22-2019-CV-00030/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "24-2019-SC-00005",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262170",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 71,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/24-2019-SC-00005/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "25-2019-CV-00060",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262437",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 72,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/25-2019-CV-00060/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "27-2019-CV-00279",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262151",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 73,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/27-2019-CV-00279/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "27-2019-CV-00281",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262308",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 74,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/27-2019-CV-00281/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "27-2019-CV-00282",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262414",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 75,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/27-2019-CV-00282/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "27-2019-DM-00109",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262666",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 76,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/27-2019-DM-00109/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "27-2019-PR-00123",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262051",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 77,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/27-2019-PR-00123/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "28-2019-CV-00111",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262225",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 78,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/28-2019-CV-00111/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "28-2019-CV-00112",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262226",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 79,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/28-2019-CV-00112/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "28-2019-CV-00113",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262418",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 80,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/28-2019-CV-00113/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "29-2019-DM-00028",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262410",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 81,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/29-2019-DM-00028/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "29-2019-PR-00022",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262412",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 82,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/29-2019-PR-00022/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00765",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4261930",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 83,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-CV-00765/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00766",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4261966",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 84,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-CV-00766/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00767",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262053",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 85,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-CV-00767/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00768",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262339",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 86,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-CV-00768/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00769",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262416",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 87,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-CV-00769/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00770",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262417",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 88,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-CV-00770/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00771",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262422",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 89,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-CV-00771/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00772",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262426",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 90,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-CV-00772/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00773",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262438",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 91,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-CV-00773/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00774",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262448",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 92,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-CV-00774/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-00775",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262711",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 93,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-CV-00775/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-DM-00156",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262144",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 94,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-DM-00156/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-DM-00157",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262277",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 95,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-DM-00157/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-SC-00077",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262196",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 96,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/30-2019-SC-00077/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "31-2019-CV-00108",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262390",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 97,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/31-2019-CV-00108/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "31-2019-CV-00109",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262408",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 98,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/31-2019-CV-00109/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "32-2019-CV-00066",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262356",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 99,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/32-2019-CV-00066/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "34-2019-CV-00095",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262392",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 100,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/34-2019-CV-00095/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "34-2019-CV-00096",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262423",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 101,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/34-2019-CV-00096/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "34-2019-PR-00020",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262064",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 102,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/34-2019-PR-00020/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "36-2019-CV-00203",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262265",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 103,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/36-2019-CV-00203/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "36-2019-CV-00204",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262267",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 104,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/36-2019-CV-00204/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "36-2019-CV-00205",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262692",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 105,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/36-2019-CV-00205/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "40-2019-CV-00112",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262439",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 106,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/40-2019-CV-00112/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "40-2019-CV-00113",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262443",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 107,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/40-2019-CV-00113/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "41-2019-CV-00044",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262092",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 108,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/41-2019-CV-00044/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-CV-00481",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262054",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 109,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/45-2019-CV-00481/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-CV-00482",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262191",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 110,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/45-2019-CV-00482/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-CV-00483",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262192",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 111,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/45-2019-CV-00483/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-CV-00484",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262361",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 112,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/45-2019-CV-00484/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-CV-00485",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262364",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 113,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/45-2019-CV-00485/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-CV-00486",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262367",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 114,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/45-2019-CV-00486/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-DM-00141",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262369",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 115,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/45-2019-DM-00141/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-SC-00042",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262315",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 116,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/45-2019-SC-00042/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "46-2019-CV-00007",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262334",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 117,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/46-2019-CV-00007/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "47-2019-CV-00380",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262411",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 118,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/47-2019-CV-00380/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "47-2019-CV-00381",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262444",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 119,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/47-2019-CV-00381/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "47-2019-DM-00080",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262703",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 120,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/47-2019-DM-00080/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "47-2019-PR-00050",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262393",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 121,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/47-2019-PR-00050/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "48-2019-CV-00027",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262853",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 122,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/48-2019-CV-00027/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "50-2019-CV-00162",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262271",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 123,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/50-2019-CV-00162/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "50-2019-CV-00163",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262371",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 124,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/50-2019-CV-00163/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01038",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262090",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 125,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/51-2019-CV-01038/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01039",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262189",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 126,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/51-2019-CV-01039/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01041",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262222",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 127,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/51-2019-CV-01041/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01042",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262228",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 128,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/51-2019-CV-01042/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01043",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262275",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 129,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/51-2019-CV-01043/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01044",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262403",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 130,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/51-2019-CV-01044/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01045",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262441",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 131,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/51-2019-CV-01045/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-DM-00386",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262420",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 132,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/51-2019-DM-00386/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-DM-00387",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262429",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 133,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/51-2019-DM-00387/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-00933",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262140",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 134,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-CV-00933/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-00939",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262714",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 135,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-CV-00939/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-00940",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262776",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 136,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-CV-00940/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-00941",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262778",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 137,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-CV-00941/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-00942",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262794",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 138,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-CV-00942/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-00943",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262795",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 139,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-CV-00943/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-00945",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262909",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 140,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-CV-00945/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-DM-00265",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262363",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 141,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-DM-00265/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-DM-00266",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262378",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 142,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-DM-00266/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-DM-00267",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262716",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 143,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-DM-00267/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-PR-00202",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262773",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 144,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-PR-00202/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-SC-00097",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4261990",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 145,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/probe-0034-200-20190622-20190624-date_window_3d-000348-200-20190623-20190623/details/53-2019-SC-00097/detail.html",
+    "retryable": false
+  }
+]
