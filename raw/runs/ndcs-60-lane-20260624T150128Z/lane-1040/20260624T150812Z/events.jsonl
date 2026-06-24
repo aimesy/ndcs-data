@@ -1,0 +1,15 @@
+{"agent": "http://10.253.40.1:8795", "at_utc": "2026-06-24T15:08:12+00:00", "event": "started", "lane_id": "1040", "worker": "browser"}
+{"at_utc": "2026-06-24T15:08:12+00:00", "chrome": "/usr/bin/google-chrome", "event": "chrome_starting", "port": 40040, "profile_dir": "/var/tmp/ndcs-browser-profiles/lane-1040"}
+{"at_utc": "2026-06-24T15:08:14+00:00", "browser": "Chrome/149.0.7827.196", "event": "chrome_version_ready", "protocol_version": "1.3"}
+{"at_utc": "2026-06-24T15:08:14+00:00", "event": "chrome_tab_ready", "target_id": "64737EC1B61FDDD68AB3603D46D7338E", "url": "about:blank"}
+{"at_utc": "2026-06-24T15:08:14+00:00", "event": "chrome_ws_open", "target_id": "64737EC1B61FDDD68AB3603D46D7338E"}
+{"at_utc": "2026-06-24T15:08:14+00:00", "event": "chrome_ready", "target_id": "64737EC1B61FDDD68AB3603D46D7338E"}
+{"at_utc": "2026-06-24T15:08:14+00:00", "event": "prepare", "job_id": "000087-100-20190213-20190213", "product_id": 100, "values": {"DateFiledOnAfter": "02/13/2019", "DateFiledOnBefore": "02/13/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T15:08:24+00:00", "bridge_challenge_id": "bcb15903970d43a1b46d46b82fb73b69", "event": "challenge_posted", "job_id": "000087-100-20190213-20190213"}
+{"at_utc": "2026-06-24T15:10:29+00:00", "bridge_challenge_id": "bcb15903970d43a1b46d46b82fb73b69", "event": "submitting", "job_id": "000087-100-20190213-20190213"}
+{"at_utc": "2026-06-24T15:10:33+00:00", "event": "details_background_spawned", "job_id": "000087-100-20190213-20190213", "log_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1040/20260624T150812Z/000087-100-20190213-20190213/details/detail-worker.log", "manifest_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1040/20260624T150812Z/000087-100-20190213-20190213/details/detail-manifest.json", "pid": 4010944, "session_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z/lane-1040/20260624T150812Z/000087-100-20190213-20190213/detail-session.json"}
+{"at_utc": "2026-06-24T15:10:33+00:00", "capped": false, "detail_error_count": 0, "detail_page_ok_count": 0, "detail_status": "background_started", "event": "job_complete", "job_id": "000087-100-20190213-20190213", "row_count": 156}
+{"at_utc": "2026-06-24T15:10:34+00:00", "detail_concurrency": 2, "event": "details_background_start", "job_id": "000087-100-20190213-20190213", "total": 156}
+{"at_utc": "2026-06-24T15:10:34+00:00", "event": "prepare", "job_id": "000118-200-20190228-20190228", "product_id": 200, "values": {"DateFiledOnAfter": "02/28/2019", "DateFiledOnBefore": "02/28/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T15:10:57+00:00", "bridge_challenge_id": "0ca5a327e1a647fa88dc7d07362dea77", "event": "challenge_posted", "job_id": "000118-200-20190228-20190228"}
+{"at_utc": "2026-06-24T15:11:31+00:00", "completed": 25, "event": "details_background_progress", "job_id": "000087-100-20190213-20190213", "total": 156}
