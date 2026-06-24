@@ -1,0 +1,419 @@
+[
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-CV-01940",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252035",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252035",
+    "index": 1,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/lane-1017/20260624T165950Z/000318-200-20190608-20190608/details/09-2019-CV-01940/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4252035&CaseID=4252035",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 21020,
+    "case_number": "09-2019-CV-01942",
+    "case_number_on_page": "09-2019-CV-01942",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252280",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252280",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 2,
+    "indexed_entries": [
+      {
+        "date": "06/08/2019",
+        "description": "Complaint",
+        "index_number": "1",
+        "title": "Complaint"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Summons",
+        "index_number": "2",
+        "title": "Summons"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Service - Marci A Eckrogh",
+        "index_number": "3",
+        "title": "Service Document"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Identification",
+        "index_number": "4",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Default",
+        "index_number": "5",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Proof",
+        "index_number": "6",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Proof",
+        "index_number": "7",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Proof",
+        "index_number": "8",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Exhibit 1 - Assignment / Stellar Healthcare",
+        "index_number": "9",
+        "title": "Exhibit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Exhibit 2 - Assignment / Independent Radiology Services",
+        "index_number": "10",
+        "title": "Exhibit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Exhibit 3 - Assignment / About Smiles Dental",
+        "index_number": "11",
+        "title": "Exhibit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Costs and Disbursements",
+        "index_number": "12",
+        "title": "Proposed Statement of Costs and Disbursements"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Order for Judgment - McNair",
+        "index_number": "13",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Judgment",
+        "index_number": "14",
+        "title": "Proposed Judgment"
+      },
+      {
+        "date": "06/10/2019",
+        "description": "for Judgment",
+        "index_number": "15",
+        "title": "Notice of Assignment and Case Number"
+      },
+      {
+        "date": "06/11/2019",
+        "description": "Issued",
+        "index_number": "17",
+        "title": "Statement of Costs and Disbursements"
+      },
+      {
+        "date": "01/16/2020",
+        "description": "Satisfaction of Judgment - Marci A Eckroth",
+        "index_number": "20",
+        "title": "Satisfaction of Judgment"
+      }
+    ],
+    "indexed_entry_count": 17,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/lane-1017/20260624T165950Z/000318-200-20190608-20190608/details/09-2019-CV-01942/detail.html",
+    "retryable": false,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/lane-1017/20260624T165950Z/000318-200-20190608-20190608/details/09-2019-CV-01942/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 19996,
+    "case_number": "09-2019-CV-01943",
+    "case_number_on_page": "09-2019-CV-01943",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252284",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252284",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 3,
+    "indexed_entries": [
+      {
+        "date": "06/08/2019",
+        "description": "Complaint",
+        "index_number": "1",
+        "title": "Complaint"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Summons",
+        "index_number": "2",
+        "title": "Summons"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Service - Travis Chaney",
+        "index_number": "3",
+        "title": "Service Document"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Notice of Motion",
+        "index_number": "4",
+        "title": "Notice"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Motion for Default Judgment",
+        "index_number": "5",
+        "title": "Motion"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Proof",
+        "index_number": "6",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Brief in Support of Motion for Default Judgment",
+        "index_number": "7",
+        "title": "Brief"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Service by Mail - Travis Chaney",
+        "index_number": "8",
+        "title": "Service of Motion"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Identification",
+        "index_number": "9",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Default",
+        "index_number": "10",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Proof",
+        "index_number": "11",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Exhibit 1 - Assignment / RKAK Realty & Property Management",
+        "index_number": "12",
+        "title": "Exhibit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Costs and Disbursements",
+        "index_number": "13",
+        "title": "Proposed Statement of Costs and Disbursements"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Order for Judgment - McNair",
+        "index_number": "14",
+        "title": "Proposed Order"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Judgment",
+        "index_number": "15",
+        "title": "Proposed Judgment"
+      },
+      {
+        "date": "06/10/2019",
+        "description": "Order for Judgment",
+        "index_number": "16",
+        "title": "Notice of Assignment and Case Number"
+      },
+      {
+        "date": "06/13/2019",
+        "description": "Satisfaction of Judgment",
+        "index_number": "18",
+        "title": "Statement of Costs and Disbursements"
+      }
+    ],
+    "indexed_entry_count": 17,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/lane-1017/20260624T165950Z/000318-200-20190608-20190608/details/09-2019-CV-01943/detail.html",
+    "retryable": false,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/lane-1017/20260624T165950Z/000318-200-20190608-20190608/details/09-2019-CV-01943/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "09-2019-DM-00600",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252154",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252154",
+    "index": 4,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/lane-1017/20260624T165950Z/000318-200-20190608-20190608/details/09-2019-DM-00600/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4252154&CaseID=4252154",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 19296,
+    "case_number": "18-2019-DM-00310",
+    "case_number_on_page": "18-2019-DM-00310",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252241",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252241",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 5,
+    "indexed_entries": [
+      {
+        "date": "06/08/2019",
+        "description": "Summons",
+        "index_number": "1",
+        "title": "Summons"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Complaint",
+        "index_number": "2",
+        "title": "Complaint"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Acknowledgment of Service upon Defendant, Adam Bergman",
+        "index_number": "3",
+        "title": "Service Document"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Affidavit of Identification",
+        "index_number": "4",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Confidential Information Form",
+        "index_number": "5",
+        "title": "Confidential Information Form"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Personal Affidavit of Plaintiff",
+        "index_number": "6",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Personal Affidavit of Defendant",
+        "index_number": "7",
+        "title": "Affidavit"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "NDRoC Rule 8.3 Property and Debt Listing",
+        "index_number": "8",
+        "title": "Statement"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Stipulation",
+        "index_number": "9",
+        "title": "Stipulation / Agreement"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Defendant's Waiver of Counsel",
+        "index_number": "10",
+        "title": "Waiver"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Proposed Findings of Fact, Conclusions of Law, and Order for Judgment filed by attorney for Plaintiff, Brittany T. Wollin",
+        "index_number": "11",
+        "title": "Proposed Findings"
+      },
+      {
+        "date": "06/08/2019",
+        "description": "Proposed Judgment & Decree filed by attorney for Plaintiff, Brittany T. Wollin",
+        "index_number": "12",
+        "title": "Proposed Judgment"
+      },
+      {
+        "date": "06/10/2019",
+        "description": "of Fact, Conclusions of Law and Order for Judgment",
+        "index_number": "13",
+        "title": "Notice of Assignment and Case Number"
+      },
+      {
+        "date": "06/25/2019",
+        "description": "and Decree",
+        "index_number": "15",
+        "title": "Judgment"
+      },
+      {
+        "date": "06/25/2019",
+        "description": "Notice of Entry of Judgment with attached Judgment",
+        "index_number": "16",
+        "title": "Notice of Entry of Judgment"
+      },
+      {
+        "date": "06/25/2019",
+        "description": "Certificate of Service upon Plaintiff, Rachael Bergman and Defendant, Adam Bergman",
+        "index_number": "17",
+        "title": "Service Document"
+      },
+      {
+        "date": "08/14/2019",
+        "description": "Partial Satisfaction or Judgment",
+        "index_number": "18",
+        "title": "Satisfaction of Judgment"
+      }
+    ],
+    "indexed_entry_count": 17,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/lane-1017/20260624T165950Z/000318-200-20190608-20190608/details/18-2019-DM-00310/detail.html",
+    "retryable": false,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/lane-1017/20260624T165950Z/000318-200-20190608-20190608/details/18-2019-DM-00310/detail-summary.json"
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "39-2019-CV-00116",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252251",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4252251",
+    "index": 6,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/lane-1017/20260624T165950Z/000318-200-20190608-20190608/details/39-2019-CV-00116/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4252251&CaseID=4252251",
+    "retryable": false,
+    "status_code": 302
+  }
+]

@@ -1,0 +1,20 @@
+{"agent": "http://10.253.14.1:8795", "at_utc": "2026-06-24T16:59:49+00:00", "event": "started", "lane_id": "1014", "worker": "browser"}
+{"at_utc": "2026-06-24T16:59:50+00:00", "chrome": "/usr/bin/google-chrome", "event": "chrome_starting", "port": 40014, "profile_dir": "/var/tmp/ndcs-browser-profiles/lane-1014"}
+{"at_utc": "2026-06-24T16:59:56+00:00", "browser": "Chrome/149.0.7827.196", "event": "chrome_version_ready", "protocol_version": "1.3"}
+{"at_utc": "2026-06-24T16:59:56+00:00", "event": "chrome_tab_ready", "target_id": "0B7FEAB54670F249590D4723CF5315DE", "url": "about:blank"}
+{"at_utc": "2026-06-24T16:59:57+00:00", "event": "chrome_ws_open", "target_id": "0B7FEAB54670F249590D4723CF5315DE"}
+{"at_utc": "2026-06-24T16:59:57+00:00", "event": "chrome_ready", "target_id": "0B7FEAB54670F249590D4723CF5315DE"}
+{"at_utc": "2026-06-24T16:59:57+00:00", "event": "prepare", "job_id": "000314-200-20190606-20190606", "product_id": 200, "values": {"DateFiledOnAfter": "06/06/2019", "DateFiledOnBefore": "06/06/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T17:00:07+00:00", "attempt": 1, "error": "Error: Timed out waiting for CDP Page.navigate", "event": "prepare_retry", "job_id": "000314-200-20190606-20190606"}
+{"at_utc": "2026-06-24T17:00:38+00:00", "attempt": 2, "error": "Error: Timed out waiting for CDP Runtime.evaluate", "event": "prepare_retry", "job_id": "000314-200-20190606-20190606"}
+{"at_utc": "2026-06-24T17:00:48+00:00", "attempt": 3, "error": "Error: Timed out waiting for CDP Page.navigate", "event": "prepare_retry", "job_id": "000314-200-20190606-20190606"}
+{"at_utc": "2026-06-24T17:00:49+00:00", "error": "Error: Timed out waiting for CDP Page.navigate\n    at Timeout._onTimeout (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:310:16)\n    at listOnTimeout (node:internal/timers:585:17)\n    at process.processTimers (node:internal/timers:521:7)", "event": "job_error", "job_id": "000314-200-20190606-20190606"}
+{"at_utc": "2026-06-24T17:00:49+00:00", "event": "prepare", "job_id": "000326-200-20190612-20190612", "product_id": 200, "values": {"DateFiledOnAfter": "06/12/2019", "DateFiledOnBefore": "06/12/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T17:00:59+00:00", "attempt": 1, "error": "Error: Timed out waiting for CDP Page.navigate", "event": "prepare_retry", "job_id": "000326-200-20190612-20190612"}
+{"at_utc": "2026-06-24T17:01:15+00:00", "bridge_challenge_id": "abf09423a0ce4b279e1db47a565128e3", "event": "challenge_posted", "job_id": "000326-200-20190612-20190612"}
+{"at_utc": "2026-06-24T17:03:51+00:00", "bridge_challenge_id": "abf09423a0ce4b279e1db47a565128e3", "event": "submitting", "job_id": "000326-200-20190612-20190612"}
+{"at_utc": "2026-06-24T17:04:01+00:00", "error": "Error: Timed out waiting for CDP Runtime.evaluate\n    at Timeout._onTimeout (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:310:16)\n    at listOnTimeout (node:internal/timers:585:17)\n    at process.processTimers (node:internal/timers:521:7)", "event": "job_error", "job_id": "000326-200-20190612-20190612"}
+{"at_utc": "2026-06-24T17:04:02+00:00", "event": "prepare", "job_id": "000342-200-20190620-20190620", "product_id": 200, "values": {"DateFiledOnAfter": "06/20/2019", "DateFiledOnBefore": "06/20/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T17:04:12+00:00", "attempt": 1, "error": "Error: Timed out waiting for CDP Page.navigate", "event": "prepare_retry", "job_id": "000342-200-20190620-20190620"}
+{"at_utc": "2026-06-24T17:04:45+00:00", "attempt": 2, "error": "Error: Search form blocked by upstream access challenge during search form url=https://publicsearch.ndcourts.gov/Search.aspx?ID=200 title=\"Just a moment...\"", "event": "prepare_retry", "job_id": "000342-200-20190620-20190620"}
+{"at_utc": "2026-06-24T17:04:54+00:00", "bridge_challenge_id": "9d83dc91625845119798356e9e94989d", "event": "challenge_posted", "job_id": "000342-200-20190620-20190620"}

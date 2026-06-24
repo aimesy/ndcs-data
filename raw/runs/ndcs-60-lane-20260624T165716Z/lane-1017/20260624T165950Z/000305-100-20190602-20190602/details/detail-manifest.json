@@ -1,0 +1,17 @@
+[
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "16-2019-CR-00048",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4246352",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4246352",
+    "index": 1,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/lane-1017/20260624T165950Z/000305-100-20190602-20190602/details/16-2019-CR-00048/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4246352&CaseID=4246352",
+    "retryable": false,
+    "status_code": 302
+  }
+]
