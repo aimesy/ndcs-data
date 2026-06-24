@@ -1,0 +1,10 @@
+{"agent": "http://10.253.28.1:8795", "at_utc": "2026-06-24T17:07:53+00:00", "event": "started", "lane_id": "1028", "worker": "browser"}
+{"at_utc": "2026-06-24T17:07:53+00:00", "chrome": "/usr/bin/google-chrome", "event": "chrome_starting", "port": 40028, "profile_dir": "/var/tmp/ndcs-browser-profiles/lane-1028"}
+{"at_utc": "2026-06-24T17:07:54+00:00", "browser": "Chrome/149.0.7827.196", "event": "chrome_version_ready", "protocol_version": "1.3"}
+{"at_utc": "2026-06-24T17:07:54+00:00", "event": "chrome_tab_ready", "target_id": "CE9AE0111206CB397AC83D11348B0F6C", "url": "about:blank"}
+{"at_utc": "2026-06-24T17:07:54+00:00", "event": "chrome_ws_open", "target_id": "CE9AE0111206CB397AC83D11348B0F6C"}
+{"at_utc": "2026-06-24T17:07:54+00:00", "event": "chrome_ready", "target_id": "CE9AE0111206CB397AC83D11348B0F6C"}
+{"at_utc": "2026-06-24T17:07:54+00:00", "event": "prepare", "job_id": "000380-200-20190709-20190709", "product_id": 200, "values": {"DateFiledOnAfter": "07/09/2019", "DateFiledOnBefore": "07/09/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T17:08:22+00:00", "attempt": 1, "error": "Error: Timed out waiting for document.forms.SearchParameters && document.documentElement.outerHTML.includes('LanapCaptcha.aspx')", "event": "prepare_retry", "job_id": "000380-200-20190709-20190709"}
+{"at_utc": "2026-06-24T17:08:41+00:00", "attempt": 2, "error": "Error: Timed out waiting for (() => {\n        const img = document.querySelector('img[src*=\"LanapCaptcha.aspx\"]');\n        return Boolean(img && img.complete && img.naturalWidth > 0 && img.naturalHeight > 0);\n      })()", "event": "prepare_retry", "job_id": "000380-200-20190709-20190709"}
+{"at_utc": "2026-06-24T17:08:57+00:00", "bridge_challenge_id": "92a237b0edfd4d71a72060b98e44a275", "event": "challenge_posted", "job_id": "000380-200-20190709-20190709"}

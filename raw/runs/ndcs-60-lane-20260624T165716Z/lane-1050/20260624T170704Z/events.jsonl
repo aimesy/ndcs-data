@@ -1,0 +1,14 @@
+{"agent": "http://10.253.50.1:8795", "at_utc": "2026-06-24T17:07:04+00:00", "event": "started", "lane_id": "1050", "worker": "browser"}
+{"at_utc": "2026-06-24T17:07:05+00:00", "chrome": "/usr/bin/google-chrome", "event": "chrome_starting", "port": 40050, "profile_dir": "/var/tmp/ndcs-browser-profiles/lane-1050"}
+{"at_utc": "2026-06-24T17:07:06+00:00", "browser": "Chrome/149.0.7827.196", "event": "chrome_version_ready", "protocol_version": "1.3"}
+{"at_utc": "2026-06-24T17:07:06+00:00", "event": "chrome_tab_ready", "target_id": "62BCAB2239239B01548F84AB7B53B77C", "url": "about:blank"}
+{"at_utc": "2026-06-24T17:07:06+00:00", "event": "chrome_ws_open", "target_id": "62BCAB2239239B01548F84AB7B53B77C"}
+{"at_utc": "2026-06-24T17:07:06+00:00", "event": "chrome_ready", "target_id": "62BCAB2239239B01548F84AB7B53B77C"}
+{"at_utc": "2026-06-24T17:07:06+00:00", "event": "prepare", "job_id": "000364-200-20190701-20190701", "product_id": 200, "values": {"DateFiledOnAfter": "07/01/2019", "DateFiledOnBefore": "07/01/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T17:07:16+00:00", "attempt": 1, "error": "Error: Timed out waiting for CDP Page.navigate", "event": "prepare_retry", "job_id": "000364-200-20190701-20190701"}
+{"at_utc": "2026-06-24T17:07:49+00:00", "attempt": 2, "error": "Error: Timed out waiting for CDP Runtime.evaluate", "event": "prepare_retry", "job_id": "000364-200-20190701-20190701"}
+{"at_utc": "2026-06-24T17:07:59+00:00", "attempt": 3, "error": "Error: Timed out waiting for CDP Page.navigate", "event": "prepare_retry", "job_id": "000364-200-20190701-20190701"}
+{"at_utc": "2026-06-24T17:08:00+00:00", "error": "Error: Timed out waiting for CDP Page.navigate\n    at Timeout._onTimeout (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:310:16)\n    at listOnTimeout (node:internal/timers:585:17)\n    at process.processTimers (node:internal/timers:521:7)", "event": "job_error", "job_id": "000364-200-20190701-20190701"}
+{"active_jobs": 24, "at_utc": "2026-06-24T17:08:01+00:00", "event": "lease_throttled", "idle_polls": 1, "max_active_jobs": 24, "throttle_reason": "max_active_jobs"}
+{"at_utc": "2026-06-24T17:08:01+00:00", "attempted": 1, "completed": 0, "event": "finished"}
+{"at_utc": "2026-06-24T17:08:01+00:00", "code": 0, "event": "chrome_exit", "signal": null, "stderr_tail": "\nDevTools listening on ws://127.0.0.1:40050/devtools/browser/4332fc3f-25b0-41ab-ae0c-1f502a751775\n[1042962:1042962:0624/170706.539467:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files\n[1042962:1043083:0624/170725.205301:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT\nCreated TensorFlow Lite XNNPACK delegate for CPU.\n"}
