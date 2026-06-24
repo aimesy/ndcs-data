@@ -39,3 +39,26 @@
 {"at_utc": "2026-06-24T17:09:39+00:00", "completed": 25, "event": "details_background_progress", "job_id": "000365-100-20190702-20190702", "total": 200}
 {"at_utc": "2026-06-24T17:09:40+00:00", "completed": 75, "event": "details_background_progress", "job_id": "000313-100-20190606-20190606", "total": 150}
 {"at_utc": "2026-06-24T17:10:36+00:00", "completed": 50, "event": "details_background_progress", "job_id": "000365-100-20190702-20190702", "total": 200}
+{"at_utc": "2026-06-24T17:11:32+00:00", "completed": 75, "event": "details_background_progress", "job_id": "000344-200-20190621-20190621", "total": 134}
+{"at_utc": "2026-06-24T17:11:51+00:00", "completed": 75, "event": "details_background_progress", "job_id": "000365-100-20190702-20190702", "total": 200}
+{"at_utc": "2026-06-24T17:12:50+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000365-100-20190702-20190702", "total": 200}
+{"at_utc": "2026-06-24T17:12:54+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000313-100-20190606-20190606", "total": 150}
+{"at_utc": "2026-06-24T17:14:04+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000365-100-20190702-20190702", "total": 200}
+{"at_utc": "2026-06-24T17:14:08+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000344-200-20190621-20190621", "total": 134}
+{"at_utc": "2026-06-24T17:14:30+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000313-100-20190606-20190606", "total": 150}
+{"at_utc": "2026-06-24T17:14:57+00:00", "completed": 150, "event": "details_background_progress", "job_id": "000365-100-20190702-20190702", "total": 200}
+{"at_utc": "2026-06-24T17:15:14+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000344-200-20190621-20190621", "total": 134}
+{"at_utc": "2026-06-24T17:15:29+00:00", "completed": 134, "event": "details_background_progress", "job_id": "000344-200-20190621-20190621", "total": 134}
+{"at_utc": "2026-06-24T17:15:29+00:00", "event": "details_background_retry_start", "failed_count": 25, "job_id": "000344-200-20190621-20190621", "total": 134}
+{"at_utc": "2026-06-24T17:15:49+00:00", "completed": 175, "event": "details_background_progress", "job_id": "000365-100-20190702-20190702", "total": 200}
+{"at_utc": "2026-06-24T17:16:19+00:00", "completed": 150, "event": "details_background_progress", "job_id": "000313-100-20190606-20190606", "total": 150}
+{"at_utc": "2026-06-24T17:16:19+00:00", "event": "details_background_retry_start", "failed_count": 41, "job_id": "000313-100-20190606-20190606", "total": 150}
+{"at_utc": "2026-06-24T17:16:35+00:00", "completed": 10, "event": "details_background_retry_progress", "job_id": "000344-200-20190621-20190621", "total": 25}
+{"at_utc": "2026-06-24T17:16:52+00:00", "completed": 200, "event": "details_background_progress", "job_id": "000365-100-20190702-20190702", "total": 200}
+{"at_utc": "2026-06-24T17:16:52+00:00", "detail_error_count": 2, "detail_page_count": 200, "detail_page_ok_count": 198, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000365-100-20190702-20190702"}
+{"at_utc": "2026-06-24T17:16:54+00:00", "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at async timedFetch (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:147:12)\n    at async postDetailResult (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:604:20)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:630:7)", "event": "details_background_bridge_result_error", "job_id": "000365-100-20190702-20190702"}
+{"at_utc": "2026-06-24T17:16:58+00:00", "completed": 20, "event": "details_background_retry_progress", "job_id": "000344-200-20190621-20190621", "total": 25}
+{"at_utc": "2026-06-24T17:17:04+00:00", "completed": 25, "event": "details_background_retry_progress", "job_id": "000344-200-20190621-20190621", "total": 25}
+{"at_utc": "2026-06-24T17:17:04+00:00", "detail_error_count": 105, "detail_page_count": 134, "detail_page_ok_count": 29, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000344-200-20190621-20190621"}
+{"at_utc": "2026-06-24T17:17:06+00:00", "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at async timedFetch (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:147:12)\n    at async postDetailResult (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:604:20)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:630:7)", "event": "details_background_bridge_result_error", "job_id": "000344-200-20190621-20190621"}
+{"at_utc": "2026-06-24T17:17:13+00:00", "completed": 10, "event": "details_background_retry_progress", "job_id": "000313-100-20190606-20190606", "total": 41}

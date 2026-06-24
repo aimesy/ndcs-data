@@ -204,3 +204,51 @@
 {"active_count": 12, "at_utc": "2026-06-24T17:11:14+00:00", "done": 51, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 12}
 {"active_count": 11, "at_utc": "2026-06-24T17:11:23+00:00", "event": "detail_queue_task_finished", "exit_code": 0, "job_id": "000366-200-20190702-20190702", "signal": null, "target_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/detail-queue/done/1782320882154-1039-000366-200-20190702-20190702.json", "task_id": "1782320882154-1039-000366-200-20190702-20190702"}
 {"active_count": 11, "at_utc": "2026-06-24T17:11:24+00:00", "done": 52, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 11}
+{"active_count": 12, "at_utc": "2026-06-24T17:11:32+00:00", "event": "detail_queue_task_started", "job_id": "000393-100-20190716-20190716", "netns": "ndcsmv27", "pid": 1122308, "task_id": "1782321092269-1027-000393-100-20190716-20190716"}
+{"active_count": 11, "at_utc": "2026-06-24T17:11:32+00:00", "event": "detail_queue_task_finished", "exit_code": 0, "job_id": "000393-100-20190716-20190716", "signal": null, "target_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/detail-queue/done/1782321092269-1027-000393-100-20190716-20190716.json", "task_id": "1782321092269-1027-000393-100-20190716-20190716"}
+{"active_count": 11, "at_utc": "2026-06-24T17:11:34+00:00", "done": 53, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 11}
+{"active_count": 10, "at_utc": "2026-06-24T17:11:39+00:00", "event": "detail_queue_task_finished", "exit_code": 0, "job_id": "000340-200-20190619-20190619", "signal": null, "target_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/detail-queue/done/1782320797549-1055-000340-200-20190619-20190619.json", "task_id": "1782320797549-1055-000340-200-20190619-20190619"}
+{"active_count": 10, "at_utc": "2026-06-24T17:11:44+00:00", "done": 54, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 10}
+{"active_count": 10, "at_utc": "2026-06-24T17:11:54+00:00", "done": 54, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 10}
+{"active_count": 10, "at_utc": "2026-06-24T17:12:05+00:00", "done": 54, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 10}
+{"active_count": 9, "at_utc": "2026-06-24T17:12:11+00:00", "event": "detail_queue_task_finished", "exit_code": 0, "job_id": "000384-200-20190711-20190711", "signal": null, "target_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/detail-queue/done/1782320926177-1052-000384-200-20190711-20190711.json", "task_id": "1782320926177-1052-000384-200-20190711-20190711"}
+{"active_count": 9, "at_utc": "2026-06-24T17:12:15+00:00", "done": 55, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 9}
+{"active_count": 9, "at_utc": "2026-06-24T17:12:25+00:00", "done": 55, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 9}
+{"active_count": 8, "at_utc": "2026-06-24T17:12:27+00:00", "event": "detail_queue_task_finished", "exit_code": 0, "job_id": "000377-100-20190708-20190708", "signal": null, "target_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/detail-queue/done/1782321006751-1053-000377-100-20190708-20190708.json", "task_id": "1782321006751-1053-000377-100-20190708-20190708"}
+{"active_count": 8, "at_utc": "2026-06-24T17:12:35+00:00", "done": 56, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 8}
+{"active_count": 9, "at_utc": "2026-06-24T17:12:39+00:00", "event": "detail_queue_task_started", "job_id": "000373-100-20190706-20190706", "netns": "ndcsmv57", "pid": 1141582, "task_id": "1782321158588-1057-000373-100-20190706-20190706"}
+{"active_count": 8, "at_utc": "2026-06-24T17:12:39+00:00", "event": "detail_queue_task_finished", "exit_code": 0, "job_id": "000373-100-20190706-20190706", "signal": null, "target_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/detail-queue/done/1782321158588-1057-000373-100-20190706-20190706.json", "task_id": "1782321158588-1057-000373-100-20190706-20190706"}
+{"active_count": 8, "at_utc": "2026-06-24T17:12:45+00:00", "done": 57, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 8}
+{"active_count": 7, "at_utc": "2026-06-24T17:12:48+00:00", "event": "detail_queue_task_finished", "exit_code": 0, "job_id": "000363-100-20190701-20190701", "signal": null, "target_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/detail-queue/done/1782320868855-1029-000363-100-20190701-20190701.json", "task_id": "1782320868855-1029-000363-100-20190701-20190701"}
+{"active_count": 7, "at_utc": "2026-06-24T17:12:55+00:00", "done": 58, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 7}
+{"active_count": 7, "at_utc": "2026-06-24T17:13:05+00:00", "done": 58, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 7}
+{"active_count": 7, "at_utc": "2026-06-24T17:13:15+00:00", "done": 58, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 7}
+{"active_count": 6, "at_utc": "2026-06-24T17:13:15+00:00", "event": "detail_queue_task_finished", "exit_code": 0, "job_id": "000367-100-20190703-20190703", "signal": null, "target_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/detail-queue/done/1782320885971-1060-000367-100-20190703-20190703.json", "task_id": "1782320885971-1060-000367-100-20190703-20190703"}
+{"active_count": 6, "at_utc": "2026-06-24T17:13:25+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:13:35+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:13:45+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:13:55+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:14:05+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:14:15+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:14:25+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:14:35+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:14:45+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:14:55+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:15:05+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:15:15+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:15:25+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:15:35+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:15:45+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 6, "at_utc": "2026-06-24T17:15:55+00:00", "done": 59, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 6}
+{"active_count": 5, "at_utc": "2026-06-24T17:16:02+00:00", "event": "detail_queue_task_finished", "exit_code": 0, "job_id": "000355-100-20190627-20190627", "signal": null, "target_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/detail-queue/done/1782320848213-1036-000355-100-20190627-20190627.json", "task_id": "1782320848213-1036-000355-100-20190627-20190627"}
+{"active_count": 5, "at_utc": "2026-06-24T17:16:05+00:00", "done": 60, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 5}
+{"active_count": 5, "at_utc": "2026-06-24T17:16:15+00:00", "done": 60, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 5}
+{"active_count": 5, "at_utc": "2026-06-24T17:16:25+00:00", "done": 60, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 5}
+{"active_count": 5, "at_utc": "2026-06-24T17:16:35+00:00", "done": 60, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 5}
+{"active_count": 5, "at_utc": "2026-06-24T17:16:45+00:00", "done": 60, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 5}
+{"active_count": 4, "at_utc": "2026-06-24T17:16:54+00:00", "event": "detail_queue_task_finished", "exit_code": 0, "job_id": "000365-100-20190702-20190702", "signal": null, "target_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/detail-queue/done/1782320924705-1054-000365-100-20190702-20190702.json", "task_id": "1782320924705-1054-000365-100-20190702-20190702"}
+{"active_count": 4, "at_utc": "2026-06-24T17:16:55+00:00", "done": 61, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 4}
+{"active_count": 4, "at_utc": "2026-06-24T17:17:05+00:00", "done": 61, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 4}
+{"active_count": 3, "at_utc": "2026-06-24T17:17:06+00:00", "event": "detail_queue_task_finished", "exit_code": 0, "job_id": "000344-200-20190621-20190621", "signal": null, "target_path": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z/detail-queue/done/1782320819955-1054-000344-200-20190621-20190621.json", "task_id": "1782320819955-1054-000344-200-20190621-20190621"}
+{"active_count": 3, "at_utc": "2026-06-24T17:17:15+00:00", "done": 62, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 3}
+{"active_count": 3, "at_utc": "2026-06-24T17:17:25+00:00", "done": 62, "error": 1, "event": "detail_queue_status", "pending": 0, "running": 3}
