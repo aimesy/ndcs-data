@@ -21,13 +21,14 @@ promotions/                promotion manifests
 `scripts/export_common_ndcs_data.py` derives `data/common/*` from promoted
 `raw/runs/**` search indexes and detail summaries.
 
-As of 2026-06-24, the common export contains 38,771 cases, 69 courts, 307,672
-docket entries, 117,304 raw refs, 510 capture runs, and 510 search-frontier
+As of 2026-06-24, the common export contains 38,771 cases, 69 courts, 308,741
+docket entries, 118,673 raw refs, 517 capture runs, and 517 search-frontier
 rows. Promoted detail summaries currently expose no document links, so
 `data/common/documents.*` is schema-valid but empty.
 
-`docket_entries` is Parquet-only because its NDJSON sidecar exceeds GitHub's
-normal per-file limit. Smaller tables keep NDJSON sidecars for inspection.
+Case-scoped high-volume NDJSON sidecars are sharded by case-number county,
+year, and type under `data/common/shards/<table>/`, with per-table shard
+manifests. Smaller tables keep top-level NDJSON sidecars for inspection.
 
 ## Promotion Rules
 

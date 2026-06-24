@@ -1,9 +1,9 @@
 {
   "collection": "ndcs",
-  "generated_at": "2026-06-24T20:22:43.860335Z",
+  "generated_at": "2026-06-24T20:54:09.028885Z",
   "inputs": {
-    "detail_summary_files": 34867,
-    "index_files": 510
+    "detail_summary_files": 35196,
+    "index_files": 517
   },
   "jurisdiction": "nd",
   "limitations": [
@@ -28,18 +28,18 @@
   },
   "source_system": "ndcri",
   "summary": {
-    "capture_runs": 510,
+    "capture_runs": 517,
     "capture_status_counts": {
-      "detail_no_roa": 11574,
-      "detail_with_roa": 19125,
-      "index_only": 8072
+      "detail_no_roa": 11545,
+      "detail_with_roa": 19211,
+      "index_only": 8015
     },
     "cases": 38771,
     "courts": 69,
-    "docket_entries": 307672,
+    "docket_entries": 308741,
     "documents": 0,
-    "raw_refs": 117304,
-    "search_frontier_rows": 510
+    "raw_refs": 118673,
+    "search_frontier_rows": 517
   },
   "tables": {
     "attorneys": {
@@ -111,7 +111,7 @@
       ],
       "ndjson_path": "data/common/capture_runs.ndjson",
       "parquet_path": "data/common/capture_runs.parquet",
-      "rows": 510
+      "rows": 517
     },
     "case_identifiers": {
       "columns": [
@@ -125,7 +125,8 @@
         "is_primary",
         "source_specific_json"
       ],
-      "ndjson_path": "data/common/case_identifiers.ndjson",
+      "ndjson_shard_index_path": "data/common/shards/case_identifiers/manifest.json",
+      "ndjson_shard_strategy": "case_uid:county-year-type",
       "parquet_path": "data/common/case_identifiers.parquet",
       "rows": 38771
     },
@@ -155,7 +156,8 @@
         "raw_ref_count",
         "source_specific_json"
       ],
-      "ndjson_path": "data/common/cases.ndjson",
+      "ndjson_shard_index_path": "data/common/shards/cases/manifest.json",
+      "ndjson_shard_strategy": "case_uid:county-year-type",
       "parquet_path": "data/common/cases.parquet",
       "rows": 38771
     },
@@ -194,9 +196,10 @@
         "raw_ref_uid",
         "source_specific_json"
       ],
-      "ndjson_omitted_reason": "omitted because the current sidecar exceeds GitHub's normal per-file limit; use Parquet",
+      "ndjson_shard_index_path": "data/common/shards/docket_entries/manifest.json",
+      "ndjson_shard_strategy": "case_uid:county-year-type",
       "parquet_path": "data/common/docket_entries.parquet",
-      "rows": 307672
+      "rows": 308741
     },
     "documents": {
       "columns": [
@@ -278,9 +281,10 @@
         "table_row_number",
         "source_specific_json"
       ],
-      "ndjson_path": "data/common/raw_refs.ndjson",
+      "ndjson_shard_index_path": "data/common/shards/raw_refs/manifest.json",
+      "ndjson_shard_strategy": "case_uid:county-year-type",
       "parquet_path": "data/common/raw_refs.parquet",
-      "rows": 117304
+      "rows": 118673
     },
     "representation": {
       "columns": [
@@ -320,7 +324,7 @@
       ],
       "ndjson_path": "data/common/search_frontier.ndjson",
       "parquet_path": "data/common/search_frontier.parquet",
-      "rows": 510
+      "rows": 517
     }
   }
 }

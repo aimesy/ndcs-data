@@ -1,0 +1,2677 @@
+{
+  "rows": 308741,
+  "schema": "court-common-ndjson-shards/v1",
+  "shard_count": 667,
+  "shards": [
+    {
+      "path": "data/common/shards/docket_entries/beulah_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 12
+    },
+    {
+      "path": "data/common/shards/docket_entries/beulah_municipal/2019/infractions_closed_as_infraction.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/beulah_municipal/2019/misdemeanor.ndjson",
+      "rows": 43
+    },
+    {
+      "path": "data/common/shards/docket_entries/billings_county/2019/probate_of_will_informal.ndjson",
+      "rows": 13
+    },
+    {
+      "path": "data/common/shards/docket_entries/bismarck_municipal/2019/administrative_traffic.ndjson",
+      "rows": 8
+    },
+    {
+      "path": "data/common/shards/docket_entries/bismarck_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 87
+    },
+    {
+      "path": "data/common/shards/docket_entries/bismarck_municipal/2019/city_transfer.ndjson",
+      "rows": 340
+    },
+    {
+      "path": "data/common/shards/docket_entries/bismarck_municipal/2019/infractions.ndjson",
+      "rows": 131
+    },
+    {
+      "path": "data/common/shards/docket_entries/bismarck_municipal/2019/misdemeanor.ndjson",
+      "rows": 2975
+    },
+    {
+      "path": "data/common/shards/docket_entries/bismarck_municipal/2020/administrative_traffic_e_citation.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/bismarck_municipal/2020/city_transfer.ndjson",
+      "rows": 134
+    },
+    {
+      "path": "data/common/shards/docket_entries/bismarck_municipal/2020/infractions.ndjson",
+      "rows": 40
+    },
+    {
+      "path": "data/common/shards/docket_entries/bismarck_municipal/2020/misdemeanor.ndjson",
+      "rows": 416
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_01/1990/p.ndjson",
+      "rows": 13
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_01/2019/cr.ndjson",
+      "rows": 333
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_01/2019/cv.ndjson",
+      "rows": 224
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_01/2019/dm.ndjson",
+      "rows": 152
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_01/2019/pr.ndjson",
+      "rows": 193
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_01/2019/sc.ndjson",
+      "rows": 11
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_01/2019/tr.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_01/2020/cr.ndjson",
+      "rows": 24
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_01/2020/cv.ndjson",
+      "rows": 76
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_01/2020/dm.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2019/cr.ndjson",
+      "rows": 1995
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2019/cv.ndjson",
+      "rows": 1260
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2019/dm.ndjson",
+      "rows": 777
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2019/pr.ndjson",
+      "rows": 221
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2019/sc.ndjson",
+      "rows": 91
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2019/tr.ndjson",
+      "rows": 49
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2020/cr.ndjson",
+      "rows": 183
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2020/cv.ndjson",
+      "rows": 151
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2020/dm.ndjson",
+      "rows": 44
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2020/pr.ndjson",
+      "rows": 167
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2020/sc.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2020/tr.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_02/2024/pr.ndjson",
+      "rows": 113
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_03/2019/cr.ndjson",
+      "rows": 720
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_03/2019/cv.ndjson",
+      "rows": 316
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_03/2019/dm.ndjson",
+      "rows": 182
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_03/2019/pr.ndjson",
+      "rows": 59
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_03/2019/sc.ndjson",
+      "rows": 16
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_03/2019/tr.ndjson",
+      "rows": 23
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_03/2020/cr.ndjson",
+      "rows": 46
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_03/2020/cv.ndjson",
+      "rows": 44
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_03/2020/dm.ndjson",
+      "rows": 92
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_03/2020/pr.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_03/2020/sc.ndjson",
+      "rows": 18
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_04/2019/cr.ndjson",
+      "rows": 63
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_04/2019/cv.ndjson",
+      "rows": 199
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_04/2019/pr.ndjson",
+      "rows": 48
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_04/2019/sc.ndjson",
+      "rows": 7
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_04/2019/tr.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_04/2020/cr.ndjson",
+      "rows": 21
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_04/2020/pr.ndjson",
+      "rows": 17
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_05/1988/p.ndjson",
+      "rows": 24
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_05/2019/cr.ndjson",
+      "rows": 740
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_05/2019/cv.ndjson",
+      "rows": 913
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_05/2019/dm.ndjson",
+      "rows": 193
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_05/2019/pr.ndjson",
+      "rows": 306
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_05/2019/sc.ndjson",
+      "rows": 42
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_05/2019/tr.ndjson",
+      "rows": 33
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_05/2020/cr.ndjson",
+      "rows": 102
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_05/2020/cv.ndjson",
+      "rows": 164
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_05/2020/pr.ndjson",
+      "rows": 30
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_05/2020/sc.ndjson",
+      "rows": 13
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_06/2019/cr.ndjson",
+      "rows": 202
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_06/2019/cv.ndjson",
+      "rows": 148
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_06/2019/dm.ndjson",
+      "rows": 143
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_06/2019/pr.ndjson",
+      "rows": 123
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_06/2019/tr.ndjson",
+      "rows": 17
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_06/2020/cr.ndjson",
+      "rows": 7
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_06/2020/cv.ndjson",
+      "rows": 300
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_06/2020/pr.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_06/2020/sc.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_06/2020/tr.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_07/2019/cr.ndjson",
+      "rows": 513
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_07/2019/cv.ndjson",
+      "rows": 297
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_07/2019/dm.ndjson",
+      "rows": 49
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_07/2019/pr.ndjson",
+      "rows": 190
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_07/2019/sc.ndjson",
+      "rows": 8
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_07/2019/tr.ndjson",
+      "rows": 19
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_07/2020/cr.ndjson",
+      "rows": 80
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_07/2020/cv.ndjson",
+      "rows": 34
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_07/2020/pr.ndjson",
+      "rows": 78
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/1990/c.ndjson",
+      "rows": 39
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2009/c.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2018/dm.ndjson",
+      "rows": 110
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2019/cr.ndjson",
+      "rows": 26933
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2019/cv.ndjson",
+      "rows": 14447
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2019/dm.ndjson",
+      "rows": 4955
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2019/pr.ndjson",
+      "rows": 1829
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2019/sc.ndjson",
+      "rows": 1049
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2019/tr.ndjson",
+      "rows": 81
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2020/cr.ndjson",
+      "rows": 3819
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2020/cv.ndjson",
+      "rows": 2281
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2020/dm.ndjson",
+      "rows": 1377
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2020/pr.ndjson",
+      "rows": 215
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2020/sc.ndjson",
+      "rows": 133
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2023/pr.ndjson",
+      "rows": 51
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_08/2026/dm.ndjson",
+      "rows": 65
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2019/cr.ndjson",
+      "rows": 20031
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2019/cv.ndjson",
+      "rows": 20918
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2019/dm.ndjson",
+      "rows": 7330
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2019/pr.ndjson",
+      "rows": 2338
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2019/sc.ndjson",
+      "rows": 1144
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2019/tr.ndjson",
+      "rows": 79
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2020/cr.ndjson",
+      "rows": 1650
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2020/cv.ndjson",
+      "rows": 4117
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2020/dm.ndjson",
+      "rows": 1578
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2020/pr.ndjson",
+      "rows": 315
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2020/sc.ndjson",
+      "rows": 205
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2020/tr.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2021/dm.ndjson",
+      "rows": 81
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2022/dm.ndjson",
+      "rows": 75
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2024/pr.ndjson",
+      "rows": 104
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_09/2025/dm.ndjson",
+      "rows": 56
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2019/cr.ndjson",
+      "rows": 185
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2019/cv.ndjson",
+      "rows": 388
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2019/dm.ndjson",
+      "rows": 43
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2019/pr.ndjson",
+      "rows": 128
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2019/sc.ndjson",
+      "rows": 90
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2019/tr.ndjson",
+      "rows": 37
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2020/cr.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2020/cv.ndjson",
+      "rows": 45
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2020/dm.ndjson",
+      "rows": 43
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2020/pr.ndjson",
+      "rows": 18
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2020/sc.ndjson",
+      "rows": 12
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_10/2020/tr.ndjson",
+      "rows": 7
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2019/cr.ndjson",
+      "rows": 467
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2019/cv.ndjson",
+      "rows": 406
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2019/dm.ndjson",
+      "rows": 124
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2019/pr.ndjson",
+      "rows": 45
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2019/sc.ndjson",
+      "rows": 60
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2019/tr.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2020/cr.ndjson",
+      "rows": 45
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2020/cv.ndjson",
+      "rows": 135
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2020/dm.ndjson",
+      "rows": 54
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2020/pr.ndjson",
+      "rows": 139
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2020/sc.ndjson",
+      "rows": 8
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2021/pr.ndjson",
+      "rows": 115
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_11/2025/pr.ndjson",
+      "rows": 82
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_12/2006/p.ndjson",
+      "rows": 20
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_12/2019/cr.ndjson",
+      "rows": 205
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_12/2019/cv.ndjson",
+      "rows": 300
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_12/2019/dm.ndjson",
+      "rows": 38
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_12/2019/pr.ndjson",
+      "rows": 169
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_12/2019/sc.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_12/2019/tr.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_12/2020/cr.ndjson",
+      "rows": 32
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_12/2020/cv.ndjson",
+      "rows": 87
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_12/2020/pr.ndjson",
+      "rows": 58
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_13/1993/p.ndjson",
+      "rows": 49
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_13/2019/cr.ndjson",
+      "rows": 1355
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_13/2019/cv.ndjson",
+      "rows": 783
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_13/2019/dm.ndjson",
+      "rows": 36
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_13/2019/pr.ndjson",
+      "rows": 138
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_13/2019/tr.ndjson",
+      "rows": 36
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_13/2020/cr.ndjson",
+      "rows": 178
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_13/2020/cv.ndjson",
+      "rows": 66
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_13/2020/pr.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_13/2020/sc.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_14/2019/cr.ndjson",
+      "rows": 506
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_14/2019/cv.ndjson",
+      "rows": 189
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_14/2019/pr.ndjson",
+      "rows": 55
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_14/2019/sc.ndjson",
+      "rows": 32
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_14/2019/tr.ndjson",
+      "rows": 8
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_14/2020/cr.ndjson",
+      "rows": 53
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_14/2020/cv.ndjson",
+      "rows": 44
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_14/2020/dm.ndjson",
+      "rows": 8
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_14/2020/pr.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_14/2020/tr.ndjson",
+      "rows": 7
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_15/2019/cr.ndjson",
+      "rows": 553
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_15/2019/cv.ndjson",
+      "rows": 184
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_15/2019/pr.ndjson",
+      "rows": 26
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_15/2019/sc.ndjson",
+      "rows": 15
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_15/2019/tr.ndjson",
+      "rows": 13
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_15/2020/cv.ndjson",
+      "rows": 86
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_15/2020/pr.ndjson",
+      "rows": 12
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_16/2019/cr.ndjson",
+      "rows": 490
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_16/2019/cv.ndjson",
+      "rows": 299
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_16/2019/dm.ndjson",
+      "rows": 70
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_16/2019/pr.ndjson",
+      "rows": 42
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_16/2019/sc.ndjson",
+      "rows": 13
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_16/2019/tr.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_16/2020/cr.ndjson",
+      "rows": 117
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_16/2020/cv.ndjson",
+      "rows": 67
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_16/2020/sc.ndjson",
+      "rows": 17
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_17/2019/cr.ndjson",
+      "rows": 68
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_17/2019/cv.ndjson",
+      "rows": 247
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_17/2019/dm.ndjson",
+      "rows": 34
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_17/2019/pr.ndjson",
+      "rows": 52
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_17/2019/sc.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_17/2019/tr.ndjson",
+      "rows": 14
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2019/cr.ndjson",
+      "rows": 16742
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2019/cv.ndjson",
+      "rows": 9186
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2019/dm.ndjson",
+      "rows": 2808
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2019/hl.ndjson",
+      "rows": 30
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2019/pr.ndjson",
+      "rows": 1130
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2019/sc.ndjson",
+      "rows": 1196
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2019/tr.ndjson",
+      "rows": 50
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2020/cr.ndjson",
+      "rows": 944
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2020/cv.ndjson",
+      "rows": 1733
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2020/dm.ndjson",
+      "rows": 179
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2020/pr.ndjson",
+      "rows": 160
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2020/sc.ndjson",
+      "rows": 203
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2020/tr.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2026/dm.ndjson",
+      "rows": 104
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_18/2069/pr.ndjson",
+      "rows": 43
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_19/2019/cr.ndjson",
+      "rows": 272
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_19/2019/cv.ndjson",
+      "rows": 242
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_19/2019/pr.ndjson",
+      "rows": 50
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_19/2019/tr.ndjson",
+      "rows": 14
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_19/2020/cr.ndjson",
+      "rows": 55
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_19/2020/cv.ndjson",
+      "rows": 73
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_19/2020/tr.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_20/2019/cr.ndjson",
+      "rows": 216
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_20/2019/cv.ndjson",
+      "rows": 217
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_20/2019/pr.ndjson",
+      "rows": 69
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_20/2019/tr.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_20/2020/cr.ndjson",
+      "rows": 29
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_20/2020/cv.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_20/2020/pr.ndjson",
+      "rows": 12
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_21/2019/cr.ndjson",
+      "rows": 90
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_21/2019/cv.ndjson",
+      "rows": 321
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_21/2019/pr.ndjson",
+      "rows": 72
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_21/2019/sc.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_21/2019/tr.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_21/2020/cr.ndjson",
+      "rows": 23
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_21/2020/cv.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_21/2020/dm.ndjson",
+      "rows": 105
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_21/2020/sc.ndjson",
+      "rows": 15
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_22/2019/cr.ndjson",
+      "rows": 74
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_22/2019/cv.ndjson",
+      "rows": 175
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_22/2019/pr.ndjson",
+      "rows": 34
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_22/2019/sc.ndjson",
+      "rows": 7
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_22/2019/tr.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_22/2020/cv.ndjson",
+      "rows": 35
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_23/2000/dm.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_23/2019/cr.ndjson",
+      "rows": 295
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_23/2019/cv.ndjson",
+      "rows": 209
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_23/2019/pr.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_23/2019/sc.ndjson",
+      "rows": 35
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_23/2019/tr.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_23/2020/cr.ndjson",
+      "rows": 23
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_23/2020/cv.ndjson",
+      "rows": 99
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_23/2020/dm.ndjson",
+      "rows": 92
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_23/2020/sc.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_24/2019/cr.ndjson",
+      "rows": 257
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_24/2019/cv.ndjson",
+      "rows": 20
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_24/2019/dm.ndjson",
+      "rows": 51
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_24/2019/pr.ndjson",
+      "rows": 23
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_24/2019/sc.ndjson",
+      "rows": 21
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_24/2020/cv.ndjson",
+      "rows": 28
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_24/2020/sc.ndjson",
+      "rows": 20
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_25/2019/cr.ndjson",
+      "rows": 777
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_25/2019/cv.ndjson",
+      "rows": 822
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_25/2019/dm.ndjson",
+      "rows": 43
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_25/2019/pr.ndjson",
+      "rows": 94
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_25/2019/sc.ndjson",
+      "rows": 17
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_25/2019/tr.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_25/2020/cr.ndjson",
+      "rows": 51
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_25/2020/cv.ndjson",
+      "rows": 22
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_25/2020/sc.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_26/2019/cr.ndjson",
+      "rows": 73
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_26/2019/cv.ndjson",
+      "rows": 106
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_26/2019/dm.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_26/2019/pr.ndjson",
+      "rows": 133
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_26/2019/sc.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_26/2019/tr.ndjson",
+      "rows": 28
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_26/2020/cr.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_26/2020/cv.ndjson",
+      "rows": 83
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_26/2020/dm.ndjson",
+      "rows": 34
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_26/2020/pr.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2019/cr.ndjson",
+      "rows": 5628
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2019/cv.ndjson",
+      "rows": 1564
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2019/dm.ndjson",
+      "rows": 307
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2019/pr.ndjson",
+      "rows": 454
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2019/sc.ndjson",
+      "rows": 57
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2019/tr.ndjson",
+      "rows": 113
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2020/cr.ndjson",
+      "rows": 556
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2020/cv.ndjson",
+      "rows": 433
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2020/dm.ndjson",
+      "rows": 35
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2020/pr.ndjson",
+      "rows": 193
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2020/sc.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_27/2020/tr.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_28/2019/cr.ndjson",
+      "rows": 1671
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_28/2019/cv.ndjson",
+      "rows": 435
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_28/2019/dm.ndjson",
+      "rows": 200
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_28/2019/pr.ndjson",
+      "rows": 54
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_28/2019/sc.ndjson",
+      "rows": 31
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_28/2019/tr.ndjson",
+      "rows": 22
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_28/2020/cr.ndjson",
+      "rows": 36
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_28/2020/cv.ndjson",
+      "rows": 38
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_28/2020/pr.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_28/2020/sc.ndjson",
+      "rows": 14
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_29/2019/cr.ndjson",
+      "rows": 1439
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_29/2019/cv.ndjson",
+      "rows": 771
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_29/2019/dm.ndjson",
+      "rows": 283
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_29/2019/pr.ndjson",
+      "rows": 91
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_29/2019/sc.ndjson",
+      "rows": 34
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_29/2019/tr.ndjson",
+      "rows": 17
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_29/2020/cr.ndjson",
+      "rows": 249
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_29/2020/cv.ndjson",
+      "rows": 69
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_29/2020/dm.ndjson",
+      "rows": 24
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_29/2020/sc.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_29/2020/tr.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2019/cr.ndjson",
+      "rows": 5634
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2019/cv.ndjson",
+      "rows": 3283
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2019/dm.ndjson",
+      "rows": 963
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2019/pr.ndjson",
+      "rows": 212
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2019/sc.ndjson",
+      "rows": 127
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2019/tr.ndjson",
+      "rows": 53
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2020/cr.ndjson",
+      "rows": 623
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2020/cv.ndjson",
+      "rows": 506
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2020/dm.ndjson",
+      "rows": 76
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2020/pr.ndjson",
+      "rows": 103
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2020/sc.ndjson",
+      "rows": 115
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2020/tr.ndjson",
+      "rows": 8
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_30/2025/dm.ndjson",
+      "rows": 48
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_31/2019/cr.ndjson",
+      "rows": 1644
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_31/2019/cv.ndjson",
+      "rows": 1436
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_31/2019/dm.ndjson",
+      "rows": 198
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_31/2019/pr.ndjson",
+      "rows": 453
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_31/2019/sc.ndjson",
+      "rows": 42
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_31/2019/tr.ndjson",
+      "rows": 40
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_31/2020/cr.ndjson",
+      "rows": 174
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_31/2020/cv.ndjson",
+      "rows": 63
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_31/2020/pr.ndjson",
+      "rows": 56
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_31/2020/sc.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_31/2020/tr.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_32/2019/cr.ndjson",
+      "rows": 351
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_32/2019/cv.ndjson",
+      "rows": 233
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_32/2019/dm.ndjson",
+      "rows": 79
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_32/2019/sc.ndjson",
+      "rows": 77
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_32/2019/tr.ndjson",
+      "rows": 30
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_32/2020/cr.ndjson",
+      "rows": 75
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_32/2020/cv.ndjson",
+      "rows": 98
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_32/2020/pr.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_33/2019/cr.ndjson",
+      "rows": 79
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_33/2019/cv.ndjson",
+      "rows": 89
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_33/2019/dm.ndjson",
+      "rows": 18
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_33/2019/tr.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_33/2020/cv.ndjson",
+      "rows": 86
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_33/2023/dm.ndjson",
+      "rows": 78
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/1986/cv.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/2019/cr.ndjson",
+      "rows": 1345
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/2019/cv.ndjson",
+      "rows": 508
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/2019/dm.ndjson",
+      "rows": 144
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/2019/pr.ndjson",
+      "rows": 150
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/2019/sc.ndjson",
+      "rows": 80
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/2019/tr.ndjson",
+      "rows": 33
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/2020/cr.ndjson",
+      "rows": 103
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/2020/cv.ndjson",
+      "rows": 122
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/2020/dm.ndjson",
+      "rows": 84
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/2020/pr.ndjson",
+      "rows": 28
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_34/2020/sc.ndjson",
+      "rows": 12
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2019/cr.ndjson",
+      "rows": 748
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2019/cv.ndjson",
+      "rows": 111
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2019/dm.ndjson",
+      "rows": 30
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2019/pr.ndjson",
+      "rows": 96
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2019/sc.ndjson",
+      "rows": 39
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2019/tr.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2020/cr.ndjson",
+      "rows": 27
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2020/cv.ndjson",
+      "rows": 35
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2020/dm.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2020/pr.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2020/sc.ndjson",
+      "rows": 16
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2020/tr.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_35/2021/dm.ndjson",
+      "rows": 58
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/1978/pr.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/1996/p.ndjson",
+      "rows": 7
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2019/cr.ndjson",
+      "rows": 1479
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2019/cv.ndjson",
+      "rows": 1005
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2019/dm.ndjson",
+      "rows": 209
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2019/pr.ndjson",
+      "rows": 95
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2019/sc.ndjson",
+      "rows": 116
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2019/tr.ndjson",
+      "rows": 47
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2020/cr.ndjson",
+      "rows": 176
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2020/cv.ndjson",
+      "rows": 253
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2020/dm.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2020/pr.ndjson",
+      "rows": 52
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2020/tr.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2026/dm.ndjson",
+      "rows": 52
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_36/2057/p.ndjson",
+      "rows": 8
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_37/2019/cr.ndjson",
+      "rows": 429
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_37/2019/cv.ndjson",
+      "rows": 262
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_37/2019/dm.ndjson",
+      "rows": 151
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_37/2019/pr.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_37/2019/sc.ndjson",
+      "rows": 42
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_37/2019/tr.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_37/2020/cr.ndjson",
+      "rows": 142
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_37/2020/cv.ndjson",
+      "rows": 102
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_37/2020/dm.ndjson",
+      "rows": 27
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_37/2020/pr.ndjson",
+      "rows": 28
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_37/2020/sc.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_38/2019/cr.ndjson",
+      "rows": 221
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_38/2019/cv.ndjson",
+      "rows": 176
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_38/2019/dm.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_38/2019/pr.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_38/2019/sc.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_38/2019/tr.ndjson",
+      "rows": 14
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_38/2020/cr.ndjson",
+      "rows": 13
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_38/2020/cv.ndjson",
+      "rows": 22
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_38/2020/pr.ndjson",
+      "rows": 11
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_38/2020/tr.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2019/cr.ndjson",
+      "rows": 1303
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2019/cv.ndjson",
+      "rows": 921
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2019/dm.ndjson",
+      "rows": 265
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2019/pr.ndjson",
+      "rows": 132
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2019/sc.ndjson",
+      "rows": 109
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2019/tr.ndjson",
+      "rows": 11
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2020/cr.ndjson",
+      "rows": 109
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2020/cv.ndjson",
+      "rows": 252
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2020/dm.ndjson",
+      "rows": 63
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2020/pr.ndjson",
+      "rows": 84
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2020/sc.ndjson",
+      "rows": 18
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_39/2020/tr.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_40/2019/cr.ndjson",
+      "rows": 402
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_40/2019/cv.ndjson",
+      "rows": 568
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_40/2019/dm.ndjson",
+      "rows": 179
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_40/2019/pr.ndjson",
+      "rows": 37
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_40/2019/sc.ndjson",
+      "rows": 38
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_40/2019/tr.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_40/2020/cr.ndjson",
+      "rows": 58
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_40/2020/cv.ndjson",
+      "rows": 87
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_40/2020/dm.ndjson",
+      "rows": 37
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_40/2020/sc.ndjson",
+      "rows": 28
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_41/2019/cr.ndjson",
+      "rows": 233
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_41/2019/cv.ndjson",
+      "rows": 206
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_41/2019/dm.ndjson",
+      "rows": 156
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_41/2019/sc.ndjson",
+      "rows": 54
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_41/2019/tr.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_41/2020/cv.ndjson",
+      "rows": 25
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_41/2020/pr.ndjson",
+      "rows": 7
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_41/2020/sc.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_42/2019/cr.ndjson",
+      "rows": 95
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_42/2019/cv.ndjson",
+      "rows": 14
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_42/2019/pr.ndjson",
+      "rows": 23
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_42/2019/sc.ndjson",
+      "rows": 16
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_42/2019/tr.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_42/2020/pr.ndjson",
+      "rows": 22
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_43/2019/cr.ndjson",
+      "rows": 293
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_43/2019/cv.ndjson",
+      "rows": 16
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_43/2019/dm.ndjson",
+      "rows": 37
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_43/2019/pr.ndjson",
+      "rows": 11
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_43/2020/cr.ndjson",
+      "rows": 16
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_44/2019/cr.ndjson",
+      "rows": 27
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_44/2019/cv.ndjson",
+      "rows": 12
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_44/2019/pr.ndjson",
+      "rows": 22
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_44/2020/cr.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_44/2020/pr.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_44/2020/tr.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/1989/p.ndjson",
+      "rows": 29
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2019/cr.ndjson",
+      "rows": 4503
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2019/cv.ndjson",
+      "rows": 3234
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2019/dm.ndjson",
+      "rows": 936
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2019/pr.ndjson",
+      "rows": 316
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2019/sc.ndjson",
+      "rows": 114
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2019/tr.ndjson",
+      "rows": 38
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2020/cr.ndjson",
+      "rows": 578
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2020/cv.ndjson",
+      "rows": 392
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2020/dm.ndjson",
+      "rows": 138
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2020/pr.ndjson",
+      "rows": 44
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2020/sc.ndjson",
+      "rows": 41
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_45/2021/pr.ndjson",
+      "rows": 121
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_46/2019/cr.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_46/2019/cv.ndjson",
+      "rows": 35
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_46/2019/pr.ndjson",
+      "rows": 35
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_46/2019/tr.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_46/2020/cv.ndjson",
+      "rows": 17
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_46/2020/sc.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2019/cr.ndjson",
+      "rows": 1812
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2019/cv.ndjson",
+      "rows": 3864
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2019/dm.ndjson",
+      "rows": 1316
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2019/pr.ndjson",
+      "rows": 287
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2019/sc.ndjson",
+      "rows": 204
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2019/tr.ndjson",
+      "rows": 22
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2020/cr.ndjson",
+      "rows": 157
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2020/cv.ndjson",
+      "rows": 226
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2020/dm.ndjson",
+      "rows": 84
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2020/pr.ndjson",
+      "rows": 25
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2020/sc.ndjson",
+      "rows": 29
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_47/2020/tr.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_48/2019/cr.ndjson",
+      "rows": 517
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_48/2019/cv.ndjson",
+      "rows": 166
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_48/2019/dm.ndjson",
+      "rows": 11
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_48/2019/pr.ndjson",
+      "rows": 55
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_48/2019/sc.ndjson",
+      "rows": 30
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_48/2019/tr.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_48/2020/cr.ndjson",
+      "rows": 45
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_48/2020/cv.ndjson",
+      "rows": 13
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_48/2020/dm.ndjson",
+      "rows": 40
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_49/2019/cr.ndjson",
+      "rows": 371
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_49/2019/cv.ndjson",
+      "rows": 425
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_49/2019/dm.ndjson",
+      "rows": 70
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_49/2019/pr.ndjson",
+      "rows": 107
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_49/2019/sc.ndjson",
+      "rows": 39
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_49/2019/tr.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_49/2020/cr.ndjson",
+      "rows": 22
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_49/2020/cv.ndjson",
+      "rows": 14
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_49/2020/pr.ndjson",
+      "rows": 21
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_49/2020/sc.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_49/2021/dm.ndjson",
+      "rows": 27
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_50/2019/cr.ndjson",
+      "rows": 1095
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_50/2019/cv.ndjson",
+      "rows": 839
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_50/2019/dm.ndjson",
+      "rows": 208
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_50/2019/pr.ndjson",
+      "rows": 112
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_50/2019/sc.ndjson",
+      "rows": 26
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_50/2019/tr.ndjson",
+      "rows": 26
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_50/2020/cr.ndjson",
+      "rows": 71
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_50/2020/cv.ndjson",
+      "rows": 168
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_50/2020/dm.ndjson",
+      "rows": 111
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_50/2020/tr.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2019/cr.ndjson",
+      "rows": 13569
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2019/cv.ndjson",
+      "rows": 5047
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2019/dm.ndjson",
+      "rows": 2593
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2019/pr.ndjson",
+      "rows": 564
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2019/sc.ndjson",
+      "rows": 440
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2019/tr.ndjson",
+      "rows": 31
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2020/cr.ndjson",
+      "rows": 1628
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2020/cv.ndjson",
+      "rows": 948
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2020/dm.ndjson",
+      "rows": 254
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2020/pr.ndjson",
+      "rows": 258
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2020/sc.ndjson",
+      "rows": 74
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2020/tr.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2021/cr.ndjson",
+      "rows": 48
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2021/dm.ndjson",
+      "rows": 79
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_51/2024/dm.ndjson",
+      "rows": 77
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_52/2019/cr.ndjson",
+      "rows": 340
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_52/2019/cv.ndjson",
+      "rows": 96
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_52/2019/dm.ndjson",
+      "rows": 50
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_52/2019/pr.ndjson",
+      "rows": 12
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_52/2019/tr.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_52/2020/cr.ndjson",
+      "rows": 85
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_52/2020/cv.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2019/cr.ndjson",
+      "rows": 7584
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2019/cv.ndjson",
+      "rows": 3723
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2019/dm.ndjson",
+      "rows": 1509
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2019/pr.ndjson",
+      "rows": 633
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2019/sc.ndjson",
+      "rows": 185
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2019/tr.ndjson",
+      "rows": 79
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2020/cr.ndjson",
+      "rows": 1811
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2020/cv.ndjson",
+      "rows": 578
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2020/dm.ndjson",
+      "rows": 32
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2020/pr.ndjson",
+      "rows": 91
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2020/sc.ndjson",
+      "rows": 32
+    },
+    {
+      "path": "data/common/shards/docket_entries/county_53/2020/tr.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/devils_lake_municipal/2019/administrative_traffic.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/devils_lake_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 7
+    },
+    {
+      "path": "data/common/shards/docket_entries/devils_lake_municipal/2019/infractions.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/devils_lake_municipal/2019/misdemeanor.ndjson",
+      "rows": 164
+    },
+    {
+      "path": "data/common/shards/docket_entries/devils_lake_municipal/2020/administrative_traffic_e_citation.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/devils_lake_municipal/2020/infractions.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/devils_lake_municipal/2020/misdemeanor.ndjson",
+      "rows": 15
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 21
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2019/city_transfer.ndjson",
+      "rows": 211
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2019/city_transfer_re_opened.ndjson",
+      "rows": 14
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2019/infractions.ndjson",
+      "rows": 40
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2019/infractions_closed_as_infraction.ndjson",
+      "rows": 15
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2019/misdemeanor.ndjson",
+      "rows": 276
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2019/misdemeanor_closed_as_infraction.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2019/misdemeanor_closed_as_non_criminal.ndjson",
+      "rows": 31
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2020/administrative_traffic.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2020/administrative_traffic_e_citation.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2020/city_transfer.ndjson",
+      "rows": 52
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2020/infractions.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2020/infractions_closed_as_infraction.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2020/misdemeanor.ndjson",
+      "rows": 57
+    },
+    {
+      "path": "data/common/shards/docket_entries/dickinson_municipal/2020/misdemeanor_closed_as_non_criminal.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2019/administrative_traffic.ndjson",
+      "rows": 90
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2019/administrative_traffic_closed_as_non_criminal.ndjson",
+      "rows": 12
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 18
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2019/administrative_traffic_traffic_notice_sent.ndjson",
+      "rows": 15
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2019/city_transfer.ndjson",
+      "rows": 50
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2019/infractions.ndjson",
+      "rows": 185
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2019/misdemeanor.ndjson",
+      "rows": 2993
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2019/misdemeanor_closed_as_infraction.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2019/misdemeanor_closed_as_non_criminal.ndjson",
+      "rows": 60
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2019/misdemeanor_closed_not_guilty.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2020/administrative_filing.ndjson",
+      "rows": 143
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2020/administrative_traffic.ndjson",
+      "rows": 14
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2020/administrative_traffic_e_citation.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2020/infractions.ndjson",
+      "rows": 67
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2020/misdemeanor.ndjson",
+      "rows": 409
+    },
+    {
+      "path": "data/common/shards/docket_entries/fargo_municipal/2020/municipal_appeal.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/grafton_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/grafton_municipal/2019/misdemeanor.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2019/administrative_traffic.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 15
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2019/administrative_traffic_e_citation_traffic_notice_sent.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2019/city_transfer.ndjson",
+      "rows": 140
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2019/city_transfer_closed_as_non_criminal.ndjson",
+      "rows": 21
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2019/infractions.ndjson",
+      "rows": 15
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2019/misdemeanor.ndjson",
+      "rows": 782
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2019/misdemeanor_closed_as_non_criminal.ndjson",
+      "rows": 76
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2019/non_criminal.ndjson",
+      "rows": 138
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2020/administrative_traffic.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2020/city_transfer.ndjson",
+      "rows": 51
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2020/infractions.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2020/misdemeanor.ndjson",
+      "rows": 112
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2020/misdemeanor_closed_as_non_criminal.ndjson",
+      "rows": 15
+    },
+    {
+      "path": "data/common/shards/docket_entries/grand_forks_municipal/2020/non_criminal.ndjson",
+      "rows": 12
+    },
+    {
+      "path": "data/common/shards/docket_entries/jamestown_municipal/2019/administrative_traffic.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/jamestown_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/jamestown_municipal/2019/city_transfer.ndjson",
+      "rows": 35
+    },
+    {
+      "path": "data/common/shards/docket_entries/jamestown_municipal/2019/infractions.ndjson",
+      "rows": 7
+    },
+    {
+      "path": "data/common/shards/docket_entries/jamestown_municipal/2019/infractions_closed_as_infraction.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/jamestown_municipal/2019/misdemeanor.ndjson",
+      "rows": 291
+    },
+    {
+      "path": "data/common/shards/docket_entries/jamestown_municipal/2020/misdemeanor.ndjson",
+      "rows": 37
+    },
+    {
+      "path": "data/common/shards/docket_entries/lincoln_municipal/2019/administrative_traffic.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/lincoln_municipal/2019/infractions.ndjson",
+      "rows": 55
+    },
+    {
+      "path": "data/common/shards/docket_entries/lincoln_municipal/2019/misdemeanor.ndjson",
+      "rows": 16
+    },
+    {
+      "path": "data/common/shards/docket_entries/lincoln_municipal/2020/misdemeanor.ndjson",
+      "rows": 35
+    },
+    {
+      "path": "data/common/shards/docket_entries/mandan_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/mandan_municipal/2019/infractions.ndjson",
+      "rows": 15
+    },
+    {
+      "path": "data/common/shards/docket_entries/mandan_municipal/2019/misdemeanor.ndjson",
+      "rows": 278
+    },
+    {
+      "path": "data/common/shards/docket_entries/mandan_municipal/2019/parking.ndjson",
+      "rows": 193
+    },
+    {
+      "path": "data/common/shards/docket_entries/mandan_municipal/2020/administrative_traffic_e_citation.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/mandan_municipal/2020/infractions.ndjson",
+      "rows": 17
+    },
+    {
+      "path": "data/common/shards/docket_entries/mandan_municipal/2020/misdemeanor.ndjson",
+      "rows": 88
+    },
+    {
+      "path": "data/common/shards/docket_entries/mandan_municipal/2020/parking.ndjson",
+      "rows": 28
+    },
+    {
+      "path": "data/common/shards/docket_entries/minot_municipal/2019/administrative_traffic.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/minot_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 13
+    },
+    {
+      "path": "data/common/shards/docket_entries/minot_municipal/2019/administrative_traffic_e_citation_traffic_notice_sent.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/minot_municipal/2019/administrative_traffic_traffic_notice_sent.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/minot_municipal/2019/city_transfer.ndjson",
+      "rows": 152
+    },
+    {
+      "path": "data/common/shards/docket_entries/minot_municipal/2019/infractions.ndjson",
+      "rows": 238
+    },
+    {
+      "path": "data/common/shards/docket_entries/minot_municipal/2019/misdemeanor.ndjson",
+      "rows": 1005
+    },
+    {
+      "path": "data/common/shards/docket_entries/minot_municipal/2020/administrative_traffic.ndjson",
+      "rows": 16
+    },
+    {
+      "path": "data/common/shards/docket_entries/minot_municipal/2020/infractions.ndjson",
+      "rows": 37
+    },
+    {
+      "path": "data/common/shards/docket_entries/minot_municipal/2020/misdemeanor.ndjson",
+      "rows": 213
+    },
+    {
+      "path": "data/common/shards/docket_entries/mountrail_county/2019/other_probate.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/unknown.ndjson",
+      "rows": 16
+    },
+    {
+      "path": "data/common/shards/docket_entries/valley_city_municipal/2019/city_transfer.ndjson",
+      "rows": 42
+    },
+    {
+      "path": "data/common/shards/docket_entries/valley_city_municipal/2019/infractions.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/valley_city_municipal/2019/misdemeanor.ndjson",
+      "rows": 112
+    },
+    {
+      "path": "data/common/shards/docket_entries/valley_city_municipal/2019/misdemeanor_closed_as_non_criminal.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/valley_city_municipal/2020/administrative_traffic_traffic_notice_sent.ndjson",
+      "rows": 4
+    },
+    {
+      "path": "data/common/shards/docket_entries/valley_city_municipal/2020/misdemeanor.ndjson",
+      "rows": 13
+    },
+    {
+      "path": "data/common/shards/docket_entries/valley_city_municipal/2020/misdemeanor_closed_as_non_criminal.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/wahpeton_municipal/2019/administrative_traffic_e_citation_traffic_notice_sent.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/wahpeton_municipal/2019/city_transfer.ndjson",
+      "rows": 8
+    },
+    {
+      "path": "data/common/shards/docket_entries/wahpeton_municipal/2019/misdemeanor.ndjson",
+      "rows": 77
+    },
+    {
+      "path": "data/common/shards/docket_entries/wahpeton_municipal/2020/administrative_traffic_e_citation.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/wahpeton_municipal/2020/misdemeanor.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 10
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2019/city_transfer.ndjson",
+      "rows": 144
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2019/infractions.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2019/infractions_closed_as_infraction.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2019/misdemeanor.ndjson",
+      "rows": 466
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2019/misdemeanor_closed_as_non_criminal.ndjson",
+      "rows": 23
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2020/administrative_traffic_e_citation.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2020/city_transfer.ndjson",
+      "rows": 15
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2020/infractions.ndjson",
+      "rows": 37
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2020/infractions_closed_as_infraction.ndjson",
+      "rows": 17
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2020/misdemeanor.ndjson",
+      "rows": 147
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2020/misdemeanor_closed_as_infraction.ndjson",
+      "rows": 2
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2020/misdemeanor_closed_as_non_criminal.ndjson",
+      "rows": 9
+    },
+    {
+      "path": "data/common/shards/docket_entries/west_fargo_municipal/2020/misdemeanor_closed_not_guilty.ndjson",
+      "rows": 5
+    },
+    {
+      "path": "data/common/shards/docket_entries/williston_municipal/2019/administrative_traffic_e_citation.ndjson",
+      "rows": 25
+    },
+    {
+      "path": "data/common/shards/docket_entries/williston_municipal/2019/infractions.ndjson",
+      "rows": 6
+    },
+    {
+      "path": "data/common/shards/docket_entries/williston_municipal/2019/misdemeanor.ndjson",
+      "rows": 957
+    },
+    {
+      "path": "data/common/shards/docket_entries/williston_municipal/2020/administrative_traffic_e_citation.ndjson",
+      "rows": 1
+    },
+    {
+      "path": "data/common/shards/docket_entries/williston_municipal/2020/administrative_traffic_traffic_notice_sent.ndjson",
+      "rows": 3
+    },
+    {
+      "path": "data/common/shards/docket_entries/williston_municipal/2020/city_transfer.ndjson",
+      "rows": 17
+    },
+    {
+      "path": "data/common/shards/docket_entries/williston_municipal/2020/infractions.ndjson",
+      "rows": 18
+    },
+    {
+      "path": "data/common/shards/docket_entries/williston_municipal/2020/misdemeanor.ndjson",
+      "rows": 328
+    }
+  ],
+  "strategy": "case_uid:county-year-type",
+  "table": "docket_entries"
+}

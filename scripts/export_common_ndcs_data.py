@@ -4,6 +4,7 @@ import argparse
 import hashlib
 import json
 import re
+import shutil
 import subprocess
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
@@ -20,8 +21,11 @@ SOURCE_SYSTEM = "ndcri"
 SOURCE_PROFILE = "ndcs_ndcri"
 IDENTIFIER_KIND = "case_number"
 IDENTIFIER_LABEL = "Case No."
-OMIT_NDJSON_TABLES = {
-    "docket_entries": "omitted because the current sidecar exceeds GitHub's normal per-file limit; use Parquet",
+SHARDED_NDJSON_TABLES = {
+    "cases": "case_uid:county-year-type",
+    "case_identifiers": "case_uid:county-year-type",
+    "docket_entries": "case_uid:county-year-type",
+    "raw_refs": "case_uid:county-year-type",
 }
 
 
@@ -391,6 +395,88 @@ def write_ndjson_if_changed(path: Path, rows: list[dict[str, Any]]) -> None:
     tmp_path.replace(path)
 
 
+def remove_if_exists(path: Path) -> None:
+    if path.exists():
+        if path.is_dir():
+            shutil.rmtree(path)
+        else:
+            path.unlink()
+
+
+def write_sharded_ndjson(
+    name: str,
+    rows: list[dict[str, Any]],
+    common_dir: Path,
+    data_repo: Path,
+    strategy: str,
+    case_shards: dict[str, tuple[str, ...]] | None = None,
+) -> Path:
+    root = common_dir / "shards" / name
+    remove_if_exists(root)
+    groups: dict[tuple[str, ...], list[dict[str, Any]]] = {}
+    for row in rows:
+        groups.setdefault(shard_parts(row, strategy, case_shards), []).append(row)
+    shards = []
+    for parts, shard_rows in sorted(groups.items()):
+        shard_path = root.joinpath(*parts).with_suffix(".ndjson")
+        write_ndjson_if_changed(shard_path, shard_rows)
+        shards.append({"path": shard_path.relative_to(data_repo).as_posix(), "rows": len(shard_rows)})
+    manifest_path = root / "manifest.json"
+    write_json_if_changed(
+        manifest_path,
+        {
+            "schema": "court-common-ndjson-shards/v1",
+            "table": name,
+            "strategy": strategy,
+            "rows": len(rows),
+            "shard_count": len(shards),
+            "shards": shards,
+        },
+    )
+    return manifest_path
+
+
+def shard_parts(
+    row: dict[str, Any],
+    strategy: str,
+    case_shards: dict[str, tuple[str, ...]] | None = None,
+) -> tuple[str, ...]:
+    if strategy == "case_uid:county-year-type":
+        uid = clean_text(row.get("case_uid"))
+        if case_shards and uid in case_shards:
+            return case_shards[uid]
+        number = uid.removeprefix("ndcs:ndcri:")
+        match = re.match(r"(?P<county>\d{2})-(?P<year>\d{4})-(?P<case_type>[A-Z]+)-", number)
+        if not match:
+            match = re.match(r"(?P<county>\d{2})-(?P<year2>\d{2})-?(?P<case_type>[A-Z]+)-", number)
+        if match:
+            year = match.groupdict().get("year") or expand_two_digit_year(match.group("year2"))
+            return (
+                f"county_{match.group('county')}",
+                year,
+                slug(match.group("case_type")),
+            )
+        match = re.match(r"(?P<county>\d{2})(?P<year>\d{4})(?P<case_type>[A-Z]+)", number)
+        if match:
+            return (
+                f"county_{match.group('county')}",
+                match.group("year"),
+                slug(match.group("case_type")),
+            )
+        court_id = slug(clean_text(row.get("court_id")))
+        filed_year = clean_text(row.get("filed_date"))[:4]
+        case_type = slug(clean_text(row.get("case_type")) or "unknown_type")
+        if court_id != "unknown" and re.fullmatch(r"\d{4}", filed_year):
+            return (court_id, filed_year, case_type)
+    return ("unknown",)
+
+
+def expand_two_digit_year(value: str) -> str:
+    year = int(value)
+    century = 1900 if year >= 70 else 2000
+    return str(century + year)
+
+
 def main() -> int:
     args = parse_args()
     data_repo = Path(args.data_repo).resolve()
@@ -675,6 +761,11 @@ def main() -> int:
 
     write_parquet = not args.no_parquet
     table_manifest = {}
+    case_shards = {
+        row["case_uid"]: shard_parts(row, "case_uid:county-year-type")
+        for row in tables["cases"]
+    }
+
     for name, columns in TABLE_COLUMNS.items():
         rows = [{column: row.get(column) for column in columns} for row in tables.get(name, [])]
         tables[name] = rows
@@ -684,12 +775,14 @@ def main() -> int:
             "rows": len(rows),
             "columns": columns,
         }
-        omitted_reason = OMIT_NDJSON_TABLES.get(name)
-        if omitted_reason:
-            if ndjson_path.exists():
-                ndjson_path.unlink()
-            table_manifest[name]["ndjson_omitted_reason"] = omitted_reason
+        shard_strategy = SHARDED_NDJSON_TABLES.get(name)
+        if shard_strategy:
+            remove_if_exists(ndjson_path)
+            shard_manifest = write_sharded_ndjson(name, rows, common_dir, data_repo, shard_strategy, case_shards)
+            table_manifest[name]["ndjson_shard_strategy"] = shard_strategy
+            table_manifest[name]["ndjson_shard_index_path"] = shard_manifest.relative_to(data_repo).as_posix()
         else:
+            remove_if_exists(common_dir / "shards" / name)
             write_ndjson_if_changed(ndjson_path, rows)
             table_manifest[name]["ndjson_path"] = ndjson_path.relative_to(data_repo).as_posix()
         if write_parquet:
