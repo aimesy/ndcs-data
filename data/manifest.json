@@ -1,68 +1,68 @@
 {
-  "generated_at_utc": "2026-06-24T12:26:20+00:00",
+  "generated_at_utc": "2026-06-24T12:32:09+00:00",
   "project": "ndcs-data",
   "promoted_runs": [
     {
-      "last_promoted_at_utc": "2026-06-24T12:26:20+00:00",
-      "last_promotion_manifest": "promotions/20260624T122620Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T12:32:09+00:00",
+      "last_promotion_manifest": "promotions/20260624T123209Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260623-vps-topup-2019",
       "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T12:26:20+00:00",
-      "last_promotion_manifest": "promotions/20260624T122620Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T12:32:09+00:00",
+      "last_promotion_manifest": "promotions/20260624T123209Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260623-vps-topup-2019-browser",
       "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-browser"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T12:26:20+00:00",
-      "last_promotion_manifest": "promotions/20260624T122620Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T12:32:09+00:00",
+      "last_promotion_manifest": "promotions/20260624T123209Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260623-vps-topup-2019-browser-341",
       "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-browser-341"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T12:26:20+00:00",
-      "last_promotion_manifest": "promotions/20260624T122620Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T12:32:09+00:00",
+      "last_promotion_manifest": "promotions/20260624T123209Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260623-vps-topup-2019-browser-details-341",
       "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-browser-details-341"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T12:26:20+00:00",
-      "last_promotion_manifest": "promotions/20260624T122620Z-vps-loop.json",
-      "promoted_bytes": 56611,
+      "last_promoted_at_utc": "2026-06-24T12:32:09+00:00",
+      "last_promotion_manifest": "promotions/20260624T123209Z-vps-loop.json",
+      "promoted_bytes": 58540,
       "promoted_file_count": 3,
       "run_id": "20260623-vps-topup-2019-mullvad-details-341",
       "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T12:26:20+00:00",
-      "last_promotion_manifest": "promotions/20260624T122620Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T12:32:09+00:00",
+      "last_promotion_manifest": "promotions/20260624T123209Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260624-retry-probe-002",
       "source_root": "/var/tmp/ndcs-runs/20260624-retry-probe-002"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T12:26:20+00:00",
-      "last_promotion_manifest": "promotions/20260624T122620Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T12:32:09+00:00",
+      "last_promotion_manifest": "promotions/20260624T123209Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260624-retry-probe-003",
       "source_root": "/var/tmp/ndcs-runs/20260624-retry-probe-003"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T12:26:20+00:00",
-      "last_promotion_manifest": "promotions/20260624T122620Z-vps-loop.json",
-      "promoted_bytes": 246385,
-      "promoted_file_count": 127,
+      "last_promoted_at_utc": "2026-06-24T12:32:09+00:00",
+      "last_promotion_manifest": "promotions/20260624T123209Z-vps-loop.json",
+      "promoted_bytes": 211477,
+      "promoted_file_count": 124,
       "run_id": "20260624-retry-probe-004",
       "source_root": "/var/tmp/ndcs-runs/20260624-retry-probe-004"
     }
