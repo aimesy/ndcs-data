@@ -1,0 +1,66 @@
+{"agent": "http://10.253.241.1:8795", "at_utc": "2026-06-24T04:44:02+00:00", "event": "started", "lane_id": "241", "worker": "browser"}
+{"at_utc": "2026-06-24T04:44:02+00:00", "chrome": "/usr/bin/google-chrome", "event": "chrome_starting", "port": 39241, "profile_dir": "/var/tmp/ndcs-browser-profiles/lane-241"}
+{"at_utc": "2026-06-24T04:44:02+00:00", "browser": "Chrome/149.0.7827.196", "event": "chrome_version_ready", "protocol_version": "1.3"}
+{"at_utc": "2026-06-24T04:44:02+00:00", "event": "chrome_tab_ready", "target_id": "2AB399B1D1C69550236AE2E4D5030EBE", "url": "about:blank"}
+{"at_utc": "2026-06-24T04:44:02+00:00", "event": "chrome_ws_open", "target_id": "2AB399B1D1C69550236AE2E4D5030EBE"}
+{"at_utc": "2026-06-24T04:44:02+00:00", "event": "chrome_ready", "target_id": "2AB399B1D1C69550236AE2E4D5030EBE"}
+{"at_utc": "2026-06-24T04:44:03+00:00", "event": "prepare", "job_id": "000548-200-20191001-20191001", "product_id": 200, "values": {"DateFiledOnAfter": "10/01/2019", "DateFiledOnBefore": "10/01/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T04:44:12+00:00", "bridge_challenge_id": "9e1e983bb85142468f522ee2ea722c27", "event": "challenge_posted", "job_id": "000548-200-20191001-20191001"}
+{"at_utc": "2026-06-24T04:45:11+00:00", "bridge_challenge_id": "9e1e983bb85142468f522ee2ea722c27", "event": "submitting", "job_id": "000548-200-20191001-20191001"}
+{"at_utc": "2026-06-24T04:45:14+00:00", "event": "details_background_spawned", "job_id": "000548-200-20191001-20191001", "log_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-241/20260624T044402Z/000548-200-20191001-20191001/details/detail-worker.log", "manifest_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-241/20260624T044402Z/000548-200-20191001-20191001/details/detail-manifest.json", "pid": 2742207, "session_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-241/20260624T044402Z/000548-200-20191001-20191001/detail-session.json"}
+{"at_utc": "2026-06-24T04:45:14+00:00", "capped": false, "detail_error_count": 0, "detail_page_ok_count": 0, "detail_status": "background_started", "event": "job_complete", "job_id": "000548-200-20191001-20191001", "row_count": 125}
+{"at_utc": "2026-06-24T04:45:14+00:00", "detail_concurrency": 2, "event": "details_background_start", "job_id": "000548-200-20191001-20191001", "total": 125}
+{"at_utc": "2026-06-24T04:45:15+00:00", "event": "prepare", "job_id": "000553-100-20191004-20191004", "product_id": 100, "values": {"DateFiledOnAfter": "10/04/2019", "DateFiledOnBefore": "10/04/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T04:45:26+00:00", "bridge_challenge_id": "0c990ec3cabc4b4ebd419197810c2d20", "event": "challenge_posted", "job_id": "000553-100-20191004-20191004"}
+{"at_utc": "2026-06-24T04:45:45+00:00", "bridge_challenge_id": "0c990ec3cabc4b4ebd419197810c2d20", "event": "submitting", "job_id": "000553-100-20191004-20191004"}
+{"at_utc": "2026-06-24T04:45:51+00:00", "event": "details_background_spawned", "job_id": "000553-100-20191004-20191004", "log_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-241/20260624T044402Z/000553-100-20191004-20191004/details/detail-worker.log", "manifest_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-241/20260624T044402Z/000553-100-20191004-20191004/details/detail-manifest.json", "pid": 2748326, "session_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-241/20260624T044402Z/000553-100-20191004-20191004/detail-session.json"}
+{"at_utc": "2026-06-24T04:45:51+00:00", "capped": true, "detail_error_count": 0, "detail_page_ok_count": 0, "detail_status": "background_started", "event": "job_complete", "job_id": "000553-100-20191004-20191004", "row_count": 200}
+{"at_utc": "2026-06-24T04:45:51+00:00", "detail_concurrency": 2, "event": "details_background_start", "job_id": "000553-100-20191004-20191004", "total": 200}
+{"at_utc": "2026-06-24T04:45:52+00:00", "event": "prepare", "job_id": "000560-200-20191007-20191007", "product_id": 200, "values": {"DateFiledOnAfter": "10/07/2019", "DateFiledOnBefore": "10/07/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T04:46:21+00:00", "attempt": 1, "error": "Error: Timed out waiting for CDP Runtime.evaluate", "event": "prepare_retry", "job_id": "000560-200-20191007-20191007"}
+{"at_utc": "2026-06-24T04:46:40+00:00", "attempt": 2, "error": "Error: Timed out waiting for CDP Runtime.evaluate", "event": "prepare_retry", "job_id": "000560-200-20191007-20191007"}
+{"at_utc": "2026-06-24T04:47:01+00:00", "bridge_challenge_id": "3ad4b41c45ec4afb8d56cdf2c927f8fb", "event": "challenge_posted", "job_id": "000560-200-20191007-20191007"}
+{"at_utc": "2026-06-24T04:47:46+00:00", "completed": 25, "event": "details_background_progress", "job_id": "000553-100-20191004-20191004", "total": 200}
+{"at_utc": "2026-06-24T04:49:09+00:00", "completed": 25, "event": "details_background_progress", "job_id": "000548-200-20191001-20191001", "total": 125}
+{"at_utc": "2026-06-24T04:49:35+00:00", "completed": 50, "event": "details_background_progress", "job_id": "000553-100-20191004-20191004", "total": 200}
+{"at_utc": "2026-06-24T04:53:55+00:00", "completed": 75, "event": "details_background_progress", "job_id": "000553-100-20191004-20191004", "total": 200}
+{"at_utc": "2026-06-24T04:56:27+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000553-100-20191004-20191004", "total": 200}
+{"at_utc": "2026-06-24T04:56:56+00:00", "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at async BridgeClient.request (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:169:22)\n    at async waitForSolve (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:655:23)\n    at async runOneJob (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:439:18)\n    at async run (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:372:24)", "event": "job_error", "job_id": "000560-200-20191007-20191007"}
+{"at_utc": "2026-06-24T04:56:58+00:00", "error": "TypeError: fetch failed", "event": "bridge_result_error", "job_id": "000560-200-20191007-20191007"}
+{"at_utc": "2026-06-24T04:57:00+00:00", "event": "prepare", "job_id": "000560-200-20191007-20191007", "product_id": 200, "values": {"DateFiledOnAfter": "10/07/2019", "DateFiledOnBefore": "10/07/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T04:57:10+00:00", "attempt": 1, "error": "Error: Timed out waiting for CDP Page.navigate", "event": "prepare_retry", "job_id": "000560-200-20191007-20191007"}
+{"at_utc": "2026-06-24T04:57:21+00:00", "attempt": 2, "error": "Error: Timed out waiting for CDP Page.navigate", "event": "prepare_retry", "job_id": "000560-200-20191007-20191007"}
+{"at_utc": "2026-06-24T04:57:31+00:00", "completed": 50, "event": "details_background_progress", "job_id": "000548-200-20191001-20191001", "total": 125}
+{"at_utc": "2026-06-24T04:57:51+00:00", "attempt": 3, "error": "Error: Search form blocked by upstream access challenge during search form url=https://publicsearch.ndcourts.gov/Search.aspx?ID=200 title=\"Just a moment...\"", "event": "prepare_retry", "job_id": "000560-200-20191007-20191007"}
+{"at_utc": "2026-06-24T04:57:52+00:00", "error": "Error: Search form blocked by upstream access challenge during search form url=https://publicsearch.ndcourts.gov/Search.aspx?ID=200 title=\"Just a moment...\"\n    at throwIfAccessChallenge (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:597:11)\n    at async openSearchForm (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:543:5)\n    at async runOneJob (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:413:18)\n    at async run (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:372:24)", "event": "job_error", "job_id": "000560-200-20191007-20191007"}
+{"at_utc": "2026-06-24T04:57:53+00:00", "event": "worker_stop_for_access_block", "job_id": "000560-200-20191007-20191007"}
+{"at_utc": "2026-06-24T04:59:32+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000553-100-20191004-20191004", "total": 200}
+{"at_utc": "2026-06-24T05:01:51+00:00", "completed": 150, "event": "details_background_progress", "job_id": "000553-100-20191004-20191004", "total": 200}
+{"at_utc": "2026-06-24T05:02:38+00:00", "completed": 75, "event": "details_background_progress", "job_id": "000548-200-20191001-20191001", "total": 125}
+{"at_utc": "2026-06-24T05:06:39+00:00", "completed": 175, "event": "details_background_progress", "job_id": "000553-100-20191004-20191004", "total": 200}
+{"at_utc": "2026-06-24T05:12:06+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000548-200-20191001-20191001", "total": 125}
+{"at_utc": "2026-06-24T05:13:56+00:00", "completed": 200, "event": "details_background_progress", "job_id": "000553-100-20191004-20191004", "total": 200}
+{"at_utc": "2026-06-24T05:13:56+00:00", "event": "details_background_retry_start", "failed_count": 69, "job_id": "000553-100-20191004-20191004", "total": 200}
+{"at_utc": "2026-06-24T05:20:55+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000548-200-20191001-20191001", "total": 125}
+{"at_utc": "2026-06-24T05:20:55+00:00", "event": "details_background_retry_start", "failed_count": 111, "job_id": "000548-200-20191001-20191001", "total": 125}
+{"at_utc": "2026-06-24T05:23:18+00:00", "completed": 10, "event": "details_background_retry_progress", "job_id": "000553-100-20191004-20191004", "total": 69}
+{"at_utc": "2026-06-24T05:24:00+00:00", "completed": 10, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:28:22+00:00", "completed": 20, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:29:26+00:00", "completed": 20, "event": "details_background_retry_progress", "job_id": "000553-100-20191004-20191004", "total": 69}
+{"at_utc": "2026-06-24T05:34:15+00:00", "completed": 30, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:35:04+00:00", "completed": 30, "event": "details_background_retry_progress", "job_id": "000553-100-20191004-20191004", "total": 69}
+{"at_utc": "2026-06-24T05:36:37+00:00", "completed": 40, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:39:47+00:00", "completed": 40, "event": "details_background_retry_progress", "job_id": "000553-100-20191004-20191004", "total": 69}
+{"at_utc": "2026-06-24T05:40:32+00:00", "completed": 50, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:41:08+00:00", "completed": 50, "event": "details_background_retry_progress", "job_id": "000553-100-20191004-20191004", "total": 69}
+{"at_utc": "2026-06-24T05:42:30+00:00", "completed": 60, "event": "details_background_retry_progress", "job_id": "000553-100-20191004-20191004", "total": 69}
+{"at_utc": "2026-06-24T05:43:48+00:00", "completed": 60, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:44:01+00:00", "completed": 69, "event": "details_background_retry_progress", "job_id": "000553-100-20191004-20191004", "total": 69}
+{"at_utc": "2026-06-24T05:44:01+00:00", "detail_error_count": 69, "detail_page_count": 200, "detail_page_ok_count": 131, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000553-100-20191004-20191004"}
+{"at_utc": "2026-06-24T05:46:56+00:00", "completed": 70, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:49:37+00:00", "completed": 80, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:51:39+00:00", "completed": 90, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:53:27+00:00", "completed": 100, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:55:17+00:00", "completed": 110, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:55:28+00:00", "completed": 111, "event": "details_background_retry_progress", "job_id": "000548-200-20191001-20191001", "total": 111}
+{"at_utc": "2026-06-24T05:55:28+00:00", "detail_error_count": 111, "detail_page_count": 125, "detail_page_ok_count": 14, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000548-200-20191001-20191001"}

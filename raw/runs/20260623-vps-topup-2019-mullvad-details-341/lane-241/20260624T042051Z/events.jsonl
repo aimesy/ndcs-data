@@ -1,0 +1,6 @@
+{"agent": "http://10.253.241.1:8795", "at_utc": "2026-06-24T04:20:51+00:00", "event": "started", "lane_id": "241", "worker": "browser"}
+{"at_utc": "2026-06-24T04:20:51+00:00", "chrome": "/usr/bin/google-chrome", "event": "chrome_starting", "port": 39241, "profile_dir": "/var/tmp/ndcs-browser-profiles/lane-241"}
+{"at_utc": "2026-06-24T04:20:52+00:00", "browser": "Chrome/149.0.7827.196", "event": "chrome_version_ready", "protocol_version": "1.3"}
+{"at_utc": "2026-06-24T04:20:52+00:00", "event": "chrome_tab_ready", "target_id": "427D0BC86715BE01FB38A5E80A905753", "url": "about:blank"}
+{"at_utc": "2026-06-24T04:20:52+00:00", "event": "chrome_ws_open", "target_id": "427D0BC86715BE01FB38A5E80A905753"}
+{"at_utc": "2026-06-24T04:20:52+00:00", "event": "chrome_ready", "target_id": "427D0BC86715BE01FB38A5E80A905753"}

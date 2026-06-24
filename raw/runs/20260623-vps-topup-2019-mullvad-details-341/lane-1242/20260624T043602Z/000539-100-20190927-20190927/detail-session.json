@@ -1,0 +1,69 @@
+{
+  "cookies": [
+    {
+      "domain": "publicsearch.ndcourts.gov",
+      "expires": -1,
+      "httpOnly": true,
+      "name": "ASP.NET_SessionId",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": true,
+      "size": 41,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "uxcxa155e5wez345afri1mf3"
+    },
+    {
+      "domain": "publicsearch.ndcourts.gov",
+      "expires": 1782277043.967863,
+      "httpOnly": false,
+      "name": ".ASPXFORMSPUBLICACCESS",
+      "path": "/",
+      "priority": "Medium",
+      "secure": false,
+      "session": false,
+      "size": 318,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "45A6C66FAFD31428057877EBDD6C83557A61800FAA5393439D91BB3EF2E50E037CAC7C1C92B1866F1886100097BEA60D1742D95DFF32DAE241659CE2BCB5A0C8FA7D569BD63DC4C7E9A7AD624A25AB809AB147F5B629168C9CAFDD0B972526FCB60D4C8FE7C78ACBB23C1E6884B64333DF33C875BD7AE2F279923F8EEF8E4AD1AC8C689BDF8FBE2975427A3D2E75D7516478B1CF"
+    },
+    {
+      "domain": ".ndcourts.gov",
+      "expires": 1813812207.106261,
+      "httpOnly": true,
+      "name": "cf_clearance",
+      "partitionKey": {
+        "hasCrossSiteAncestor": false,
+        "topLevelSite": "https://ndcourts.gov"
+      },
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 417,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "96Trm5RiqB_FTyXSn_H6TJA3RNKEA.1kabgyGe.rBpM-1782276207-1.2.1.1-ba4p9E2MnrNHr3aIg3cUGwWzlYU26F5E_EFERUiLjk.FdR.RdFym8GiyIeBZWOw_fChbkMFrlsnwj0MZHKgt9JZyCQO7qnTU7DvaVmWoVWdDuHKf8njEijMIL8yV4MQIhp3GYSJ1uc_C0iV47lWVugZ7JlV7nprlJS2z9.99HH6fh0U9kHOmR2JUR_LJjDTm7QY0PsgajKjg_sju_qvPSchwpAtZP5ZPFmkUDKTGDI310ohYTOTYxwvcz2OXaHoBVsbv5Zx1Fm.i1MeNQCpfF6cj.t5JD2SDTX8feDiQdMiIOTfrmPjS3eBy1YHtOBl6XlXK1n2.09rs5aLl0Gbtpg"
+    },
+    {
+      "domain": ".ndcourts.gov",
+      "expires": 1782278007.106446,
+      "httpOnly": true,
+      "name": "__cf_bm",
+      "path": "/",
+      "priority": "Medium",
+      "sameSite": "None",
+      "secure": true,
+      "session": false,
+      "size": 206,
+      "sourcePort": 443,
+      "sourceScheme": "Secure",
+      "value": "DpQUZnnEPWKygkXuCPxsyxSClypHLPPv3EdFKZHSWoQ-1782276207.0424335-1.0.1.1-YE_uvaYOi6MK_f_ICQ3FnxJJfz0NgjxzvZMJk64mfuGZntUWRn1kDg7R8x_._5Jc2SsJJZteYG29173_2TzID_WRcxdSzHpKeiKn7L7v5tGi4AprNLPYrUZ6lfEIHlI6"
+    }
+  ],
+  "created_at_utc": "2026-06-24T04:43:47+00:00",
+  "result_url": "https://publicsearch.ndcourts.gov/Search.aspx?ID=100",
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+}

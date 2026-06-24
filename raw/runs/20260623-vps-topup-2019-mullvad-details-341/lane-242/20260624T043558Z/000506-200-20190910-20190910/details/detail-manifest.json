@@ -1,0 +1,1432 @@
+[
+  {
+    "attempts": 3,
+    "case_number": "02-2019-CV-00202",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317294",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 1,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/02-2019-CV-00202/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "06-2019-PR-00024",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317727",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 2,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/06-2019-PR-00024/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "07-2019-PR-00042",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4318237",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 3,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/07-2019-PR-00042/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02809",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317300",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 4,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02809/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02810",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317302",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 5,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02810/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02811",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317365",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 6,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02811/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02812",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317375",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 7,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02812/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02813",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317404",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 8,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02813/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02814",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317414",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 9,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02814/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02815",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317428",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 10,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02815/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02816",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317461",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 11,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02816/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02817",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317523",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 12,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02817/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02818",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317543",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 13,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02818/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02819",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317553",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 14,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02819/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02820",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317669",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 15,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02820/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-CV-02821",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317728",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 16,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-CV-02821/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-PR-00208",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317635",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 17,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-PR-00208/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-PR-00209",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317709",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 18,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-PR-00209/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "08-2019-SC-00296",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317434",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 19,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/08-2019-SC-00296/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03125",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317296",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 20,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03125/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03126",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317298",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 21,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03126/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03129",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317384",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 22,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03129/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03130",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317419",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 23,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03130/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03131",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317427",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 24,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03131/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03132",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317430",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 25,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03132/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03133",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317439",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 26,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03133/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03134",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317467",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 27,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03134/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03135",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317548",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 28,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03135/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03136",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317570",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 29,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03136/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03137",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317599",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 30,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03137/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03138",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317612",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 31,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03138/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03139",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317646",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 32,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03139/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03140",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317655",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 33,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03140/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03141",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317656",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 34,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03141/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03142",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317661",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 35,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03142/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03143",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317691",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 36,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03143/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-CV-03144",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317810",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 37,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-CV-03144/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-DM-00986",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317693",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 38,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-DM-00986/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-DM-00987",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317695",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 39,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-DM-00987/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-DM-00988",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317723",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 40,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-DM-00988/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-PR-00292",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317410",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 41,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-PR-00292/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-PR-00293",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317621",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 42,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-PR-00293/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-PR-00294",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317651",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 43,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-PR-00294/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-PR-00295",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317653",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 44,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-PR-00295/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-PR-00296",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317724",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 45,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-PR-00296/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "09-2019-SC-00719",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317707",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 46,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/09-2019-SC-00719/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "12-2019-PR-00080",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317807",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 47,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/12-2019-PR-00080/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "13-2019-CV-00082",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317662",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 48,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/13-2019-CV-00082/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "13-2019-PR-00052",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317733",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 49,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/13-2019-PR-00052/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "17-2019-DM-00009",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317712",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 50,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/17-2019-DM-00009/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02189",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317216",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 51,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02189/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02190",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317281",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 52,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02190/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02191",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317283",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 53,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02191/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02192",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317284",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 54,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02192/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02193",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317318",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 55,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02193/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02194",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317358",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 56,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02194/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02195",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317394",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 57,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02195/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02196",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317425",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 58,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02196/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02197",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317468",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 59,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02197/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02198",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317469",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 60,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02198/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02199",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317584",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 61,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02199/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02200",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317607",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 62,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02200/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-CV-02201",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317642",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 63,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-CV-02201/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-DM-00469",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317466",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 64,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-DM-00469/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-HL-00045",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317317",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 65,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-HL-00045/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-HL-00046",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317319",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 66,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-HL-00046/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "18-2019-SC-00452",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317482",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 67,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/18-2019-SC-00452/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "21-2019-CV-00057",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317297",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 68,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/21-2019-CV-00057/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "23-2019-CV-00055",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317676",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 69,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/23-2019-CV-00055/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "25-2019-CV-00095",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317509",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 70,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/25-2019-CV-00095/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "27-2019-CV-00391",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317537",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 71,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/27-2019-CV-00391/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "27-2019-CV-00392",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317689",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 72,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/27-2019-CV-00392/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "27-2019-CV-00393",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317721",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 73,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/27-2019-CV-00393/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "27-2019-DM-00131",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317354",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 74,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/27-2019-DM-00131/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "27-2019-PR-00173",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317813",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 75,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/27-2019-PR-00173/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "27-2019-SC-00028",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317649",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 76,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/27-2019-SC-00028/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "28-2019-CV-00193",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317179",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 77,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/28-2019-CV-00193/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "28-2019-CV-00194",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317290",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 78,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/28-2019-CV-00194/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "29-2019-CV-00206",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317436",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 79,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/29-2019-CV-00206/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "29-2019-PR-00027",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317498",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 80,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/29-2019-PR-00027/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-01195",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317370",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 81,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/30-2019-CV-01195/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-01196",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317374",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 82,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/30-2019-CV-01196/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-01197",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317379",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 83,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/30-2019-CV-01197/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-CV-01198",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317567",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 84,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/30-2019-CV-01198/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-SC-00116",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317448",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 85,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/30-2019-SC-00116/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "30-2019-SC-00117",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317483",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 86,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/30-2019-SC-00117/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "31-2019-CV-00161",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317308",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 87,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/31-2019-CV-00161/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "31-2019-CV-00162",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317416",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 88,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/31-2019-CV-00162/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "31-2019-PR-00120",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317359",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 89,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/31-2019-PR-00120/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "34-2019-CV-00145",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317376",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 90,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/34-2019-CV-00145/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "34-2019-CV-00146",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317647",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 91,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/34-2019-CV-00146/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "36-2019-DM-00136",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317580",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 92,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/36-2019-DM-00136/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "37-2019-CV-00083",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317452",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 93,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/37-2019-CV-00083/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "37-2019-CV-00084",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317513",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 94,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/37-2019-CV-00084/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "37-2019-CV-00085",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317719",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 95,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/37-2019-CV-00085/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "39-2019-CV-00196",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317361",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 96,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/39-2019-CV-00196/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "39-2019-CV-00197",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317385",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 97,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/39-2019-CV-00197/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "39-2019-CV-00198",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317730",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 98,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/39-2019-CV-00198/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "39-2019-DM-00065",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317536",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 99,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/39-2019-DM-00065/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "39-2019-PR-00050",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317422",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 100,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/39-2019-PR-00050/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "40-2019-CV-00159",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317288",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 101,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/40-2019-CV-00159/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-CV-00741",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317371",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 102,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/45-2019-CV-00741/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-CV-00742",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317464",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 103,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/45-2019-CV-00742/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-CV-00743",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317555",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 104,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/45-2019-CV-00743/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-CV-00744",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317636",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 105,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/45-2019-CV-00744/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-DM-00197",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317675",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 106,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/45-2019-DM-00197/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "45-2019-SC-00057",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317643",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 107,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/45-2019-SC-00057/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "47-2019-CV-00560",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317076",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 108,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/47-2019-CV-00560/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "47-2019-CV-00561",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317340",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 109,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/47-2019-CV-00561/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "47-2019-CV-00562",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317418",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 110,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/47-2019-CV-00562/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "47-2019-CV-00563",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317437",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 111,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/47-2019-CV-00563/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "47-2019-DM-00119",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317660",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 112,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/47-2019-DM-00119/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "49-2019-CV-00104",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317497",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 113,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/49-2019-CV-00104/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01540",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317307",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 114,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/51-2019-CV-01540/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01541",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317343",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 115,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/51-2019-CV-01541/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01542",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317389",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 116,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/51-2019-CV-01542/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01543",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317449",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 117,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/51-2019-CV-01543/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01544",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317450",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 118,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/51-2019-CV-01544/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01545",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317516",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 119,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/51-2019-CV-01545/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01546",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317557",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 120,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/51-2019-CV-01546/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-CV-01547",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317699",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 121,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/51-2019-CV-01547/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "51-2019-DM-00559",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317652",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 122,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/51-2019-DM-00559/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01339",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317484",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 123,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01339/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01341",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317512",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 124,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01341/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01342",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317539",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 125,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01342/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01343",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317547",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 126,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01343/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01344",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317554",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 127,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01344/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01345",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317627",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 128,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01345/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01346",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317630",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 129,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01346/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01347",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317632",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 130,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01347/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01348",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317637",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 131,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01348/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01349",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317667",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 132,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01349/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01350",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317672",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 133,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01350/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01351",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317674",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 134,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01351/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01352",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317682",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 135,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01352/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-CV-01353",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317696",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 136,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-CV-01353/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-DM-00378",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317816",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 137,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-DM-00378/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-DM-00379",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317817",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 138,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-DM-00379/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-PR-00268",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317593",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 139,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-PR-00268/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-PR-00269",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317613",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 140,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-PR-00269/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-PR-00270",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317634",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 141,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-PR-00270/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-PR-00271",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4317814",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 142,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-PR-00271/detail.html",
+    "retryable": false
+  },
+  {
+    "attempts": 3,
+    "case_number": "53-2019-PR-00272",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4318005",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async directFetchText (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:139:20)\n    at async captureOneDetail (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:236:24)\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:209:28\n    at async file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:330:7\n    at async Promise.all (index 0)\n    at async asyncPool (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:333:3)\n    at async captureDetails (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:208:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:396:45)",
+    "index": 143,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-242/20260624T043558Z/000506-200-20190910-20190910/details/53-2019-PR-00272/detail.html",
+    "retryable": false
+  }
+]

@@ -1,0 +1,9 @@
+{"agent": "http://10.253.242.1:8795", "at_utc": "2026-06-24T11:16:49+00:00", "event": "started", "lane_id": "1242", "worker": "browser"}
+{"at_utc": "2026-06-24T11:16:49+00:00", "chrome": "/usr/bin/google-chrome", "event": "chrome_starting", "port": 40242, "profile_dir": "/var/tmp/ndcs-browser-profiles/lane-1242"}
+{"at_utc": "2026-06-24T11:16:49+00:00", "browser": "Chrome/149.0.7827.196", "event": "chrome_version_ready", "protocol_version": "1.3"}
+{"at_utc": "2026-06-24T11:16:49+00:00", "event": "chrome_tab_ready", "target_id": "EFE0404A19DE5C1D3D5D03ED39270CCD", "url": "about:blank"}
+{"at_utc": "2026-06-24T11:16:49+00:00", "event": "chrome_ws_open", "target_id": "EFE0404A19DE5C1D3D5D03ED39270CCD"}
+{"at_utc": "2026-06-24T11:16:49+00:00", "event": "chrome_ready", "target_id": "EFE0404A19DE5C1D3D5D03ED39270CCD"}
+{"at_utc": "2026-06-24T11:16:50+00:00", "event": "no_job", "idle_polls": 1}
+{"at_utc": "2026-06-24T11:16:50+00:00", "attempted": 0, "completed": 0, "event": "finished"}
+{"at_utc": "2026-06-24T11:16:50+00:00", "code": 0, "event": "chrome_exit", "signal": null, "stderr_tail": "\nDevTools listening on ws://127.0.0.1:40242/devtools/browser/c1db36e0-8bc2-4201-a305-7b6acf9f57b0\n[1863843:1863843:0624/111649.851183:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files\n"}

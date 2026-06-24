@@ -1,0 +1,81 @@
+{"agent": "http://10.253.242.1:8795", "at_utc": "2026-06-24T02:47:29+00:00", "event": "started", "lane_id": "1242", "worker": "browser"}
+{"at_utc": "2026-06-24T02:47:29+00:00", "chrome": "/usr/bin/google-chrome", "event": "chrome_starting", "port": 40242, "profile_dir": "/var/tmp/ndcs-browser-profiles/lane-1242"}
+{"at_utc": "2026-06-24T02:47:29+00:00", "browser": "Chrome/149.0.7827.196", "event": "chrome_version_ready", "protocol_version": "1.3"}
+{"at_utc": "2026-06-24T02:47:30+00:00", "event": "chrome_tab_ready", "target_id": "D707C66EDD981290231A531F25ED0F9B", "url": "about:blank"}
+{"at_utc": "2026-06-24T02:47:30+00:00", "event": "chrome_ws_open", "target_id": "D707C66EDD981290231A531F25ED0F9B"}
+{"at_utc": "2026-06-24T02:47:30+00:00", "event": "chrome_ready", "target_id": "D707C66EDD981290231A531F25ED0F9B"}
+{"at_utc": "2026-06-24T02:47:30+00:00", "event": "prepare", "job_id": "000381-100-20190710-20190710", "product_id": 100, "values": {"DateFiledOnAfter": "07/10/2019", "DateFiledOnBefore": "07/10/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T02:47:38+00:00", "bridge_challenge_id": "188ad8ba3def42ca91f6cc4bdefc5cc6", "event": "challenge_posted", "job_id": "000381-100-20190710-20190710"}
+{"at_utc": "2026-06-24T02:47:49+00:00", "bridge_challenge_id": "188ad8ba3def42ca91f6cc4bdefc5cc6", "event": "submitting", "job_id": "000381-100-20190710-20190710"}
+{"at_utc": "2026-06-24T02:47:52+00:00", "event": "details_background_spawned", "job_id": "000381-100-20190710-20190710", "log_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-1242/20260624T024729Z/000381-100-20190710-20190710/details/detail-worker.log", "manifest_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-1242/20260624T024729Z/000381-100-20190710-20190710/details/detail-manifest.json", "pid": 1094188, "session_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-1242/20260624T024729Z/000381-100-20190710-20190710/detail-session.json"}
+{"at_utc": "2026-06-24T02:47:52+00:00", "capped": true, "detail_error_count": 0, "detail_page_ok_count": 0, "detail_status": "background_started", "event": "job_complete", "job_id": "000381-100-20190710-20190710", "row_count": 200}
+{"at_utc": "2026-06-24T02:47:52+00:00", "detail_concurrency": 2, "event": "details_background_start", "job_id": "000381-100-20190710-20190710", "total": 200}
+{"at_utc": "2026-06-24T02:47:52+00:00", "event": "prepare", "job_id": "000387-100-20190713-20190713", "product_id": 100, "values": {"DateFiledOnAfter": "07/13/2019", "DateFiledOnBefore": "07/13/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T02:48:08+00:00", "bridge_challenge_id": "1e5964e3f9f04371a14be4a2c675f9d5", "event": "challenge_posted", "job_id": "000387-100-20190713-20190713"}
+{"at_utc": "2026-06-24T02:48:32+00:00", "completed": 25, "event": "details_background_progress", "job_id": "000381-100-20190710-20190710", "total": 200}
+{"at_utc": "2026-06-24T02:49:01+00:00", "bridge_challenge_id": "1e5964e3f9f04371a14be4a2c675f9d5", "event": "submitting", "job_id": "000387-100-20190713-20190713"}
+{"at_utc": "2026-06-24T02:49:11+00:00", "completed": 50, "event": "details_background_progress", "job_id": "000381-100-20190710-20190710", "total": 200}
+{"at_utc": "2026-06-24T02:49:11+00:00", "error": "Error: Timed out waiting for CDP Runtime.evaluate\n    at Timeout._onTimeout (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:295:16)\n    at listOnTimeout (node:internal/timers:585:17)\n    at process.processTimers (node:internal/timers:521:7)", "event": "job_error", "job_id": "000387-100-20190713-20190713"}
+{"at_utc": "2026-06-24T02:49:11+00:00", "event": "prepare", "job_id": "000392-200-20190715-20190715", "product_id": 200, "values": {"DateFiledOnAfter": "07/15/2019", "DateFiledOnBefore": "07/15/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T02:49:40+00:00", "attempt": 1, "error": "Error: Timed out waiting for document.forms.SearchParameters && document.documentElement.outerHTML.includes('LanapCaptcha.aspx')", "event": "prepare_retry", "job_id": "000392-200-20190715-20190715"}
+{"at_utc": "2026-06-24T02:49:50+00:00", "bridge_challenge_id": "709e85dd821d453f9636a5abf4a77a27", "event": "challenge_posted", "job_id": "000392-200-20190715-20190715"}
+{"at_utc": "2026-06-24T02:52:38+00:00", "completed": 75, "event": "details_background_progress", "job_id": "000381-100-20190710-20190710", "total": 200}
+{"at_utc": "2026-06-24T02:53:12+00:00", "bridge_challenge_id": "709e85dd821d453f9636a5abf4a77a27", "event": "submitting", "job_id": "000392-200-20190715-20190715"}
+{"at_utc": "2026-06-24T02:53:16+00:00", "event": "details_background_spawned", "job_id": "000392-200-20190715-20190715", "log_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-1242/20260624T024729Z/000392-200-20190715-20190715/details/detail-worker.log", "manifest_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-1242/20260624T024729Z/000392-200-20190715-20190715/details/detail-manifest.json", "pid": 1142304, "session_path": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341/lane-1242/20260624T024729Z/000392-200-20190715-20190715/detail-session.json"}
+{"at_utc": "2026-06-24T02:53:16+00:00", "capped": false, "detail_error_count": 0, "detail_page_ok_count": 0, "detail_status": "background_started", "event": "job_complete", "job_id": "000392-200-20190715-20190715", "row_count": 185}
+{"at_utc": "2026-06-24T02:53:16+00:00", "detail_concurrency": 2, "event": "details_background_start", "job_id": "000392-200-20190715-20190715", "total": 185}
+{"at_utc": "2026-06-24T02:53:16+00:00", "event": "prepare", "job_id": "000402-200-20190720-20190720", "product_id": 200, "values": {"DateFiledOnAfter": "07/20/2019", "DateFiledOnBefore": "07/20/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T02:53:40+00:00", "attempt": 1, "error": "Error: Timed out waiting for (() => {\n        const img = document.querySelector('img[src*=\"LanapCaptcha.aspx\"]');\n        return Boolean(img && img.complete && img.naturalWidth > 0 && img.naturalHeight > 0);\n      })()", "event": "prepare_retry", "job_id": "000402-200-20190720-20190720"}
+{"at_utc": "2026-06-24T02:53:50+00:00", "bridge_challenge_id": "a3c47691be744938bbd9e54eb1e686f0", "event": "challenge_posted", "job_id": "000402-200-20190720-20190720"}
+{"at_utc": "2026-06-24T02:58:04+00:00", "completed": 25, "event": "details_background_progress", "job_id": "000392-200-20190715-20190715", "total": 185}
+{"at_utc": "2026-06-24T02:58:58+00:00", "completed": 50, "event": "details_background_progress", "job_id": "000392-200-20190715-20190715", "total": 185}
+{"at_utc": "2026-06-24T02:58:58+00:00", "bridge_challenge_id": "a3c47691be744938bbd9e54eb1e686f0", "event": "submitting", "job_id": "000402-200-20190720-20190720"}
+{"at_utc": "2026-06-24T02:59:06+00:00", "error": "Error: CAPTCHA rejected\n    at runOneJob (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:455:11)\n    at async run (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:372:24)", "event": "job_error", "job_id": "000402-200-20190720-20190720"}
+{"at_utc": "2026-06-24T02:59:06+00:00", "event": "prepare", "job_id": "000412-200-20190725-20190725", "product_id": 200, "values": {"DateFiledOnAfter": "07/25/2019", "DateFiledOnBefore": "07/25/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T02:59:18+00:00", "bridge_challenge_id": "f6cdf08a9e3b41018b2fce526ad7fda8", "event": "challenge_posted", "job_id": "000412-200-20190725-20190725"}
+{"at_utc": "2026-06-24T03:00:47+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000381-100-20190710-20190710", "total": 200}
+{"at_utc": "2026-06-24T03:02:35+00:00", "completed": 75, "event": "details_background_progress", "job_id": "000392-200-20190715-20190715", "total": 185}
+{"at_utc": "2026-06-24T03:03:31+00:00", "bridge_challenge_id": "f6cdf08a9e3b41018b2fce526ad7fda8", "event": "submitting", "job_id": "000412-200-20190725-20190725"}
+{"at_utc": "2026-06-24T03:03:41+00:00", "error": "Error: Timed out waiting for CDP Runtime.evaluate\n    at Timeout._onTimeout (file:///opt/ndcs/scripts/ndcs_vps_browser_lane_worker.mjs:295:16)\n    at listOnTimeout (node:internal/timers:585:17)\n    at process.processTimers (node:internal/timers:521:7)", "event": "job_error", "job_id": "000412-200-20190725-20190725"}
+{"at_utc": "2026-06-24T03:03:41+00:00", "attempted": 5, "completed": 2, "event": "finished"}
+{"at_utc": "2026-06-24T03:03:41+00:00", "code": 0, "event": "chrome_exit", "signal": null, "stderr_tail": " the supported limit (8192).\n - While validating maxTextureDimension2D\n - While validating required limits\n\n[1090145:1090145:0624/025029.906377:ERROR:services/on_device_model/public/cpp/service_client.cc:37] Unexpected on_device_model service disconnect; reason: 0, description: \n[1090145:1090214:0624/025336.980782:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2\n[1090145:1090214:0624/025402.869553:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT\n[1090145:1090214:0624/025511.150739:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2\n[1090145:1090214:0624/025949.685700:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2\n[1090145:1090214:0624/030146.864670:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED\n"}
+{"at_utc": "2026-06-24T03:06:53+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000392-200-20190715-20190715", "total": 185}
+{"at_utc": "2026-06-24T03:07:10+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000381-100-20190710-20190710", "total": 200}
+{"at_utc": "2026-06-24T03:16:02+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000392-200-20190715-20190715", "total": 185}
+{"at_utc": "2026-06-24T03:21:15+00:00", "completed": 150, "event": "details_background_progress", "job_id": "000381-100-20190710-20190710", "total": 200}
+{"at_utc": "2026-06-24T03:35:23+00:00", "completed": 150, "event": "details_background_progress", "job_id": "000392-200-20190715-20190715", "total": 185}
+{"at_utc": "2026-06-24T03:40:39+00:00", "completed": 175, "event": "details_background_progress", "job_id": "000381-100-20190710-20190710", "total": 200}
+{"at_utc": "2026-06-24T03:57:02+00:00", "completed": 175, "event": "details_background_progress", "job_id": "000392-200-20190715-20190715", "total": 185}
+{"at_utc": "2026-06-24T03:58:19+00:00", "completed": 200, "event": "details_background_progress", "job_id": "000381-100-20190710-20190710", "total": 200}
+{"at_utc": "2026-06-24T03:59:06+00:00", "event": "details_background_retry_start", "failed_count": 151, "job_id": "000381-100-20190710-20190710", "total": 200}
+{"at_utc": "2026-06-24T04:05:43+00:00", "completed": 185, "event": "details_background_progress", "job_id": "000392-200-20190715-20190715", "total": 185}
+{"at_utc": "2026-06-24T04:05:43+00:00", "event": "details_background_retry_start", "failed_count": 104, "job_id": "000392-200-20190715-20190715", "total": 185}
+{"at_utc": "2026-06-24T04:21:42+00:00", "completed": 10, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T04:27:55+00:00", "completed": 10, "event": "details_background_retry_progress", "job_id": "000392-200-20190715-20190715", "total": 104}
+{"at_utc": "2026-06-24T04:35:34+00:00", "completed": 20, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T04:38:57+00:00", "completed": 20, "event": "details_background_retry_progress", "job_id": "000392-200-20190715-20190715", "total": 104}
+{"at_utc": "2026-06-24T04:44:39+00:00", "completed": 30, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T04:44:56+00:00", "completed": 30, "event": "details_background_retry_progress", "job_id": "000392-200-20190715-20190715", "total": 104}
+{"at_utc": "2026-06-24T04:49:31+00:00", "completed": 40, "event": "details_background_retry_progress", "job_id": "000392-200-20190715-20190715", "total": 104}
+{"at_utc": "2026-06-24T04:51:22+00:00", "completed": 40, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T04:55:40+00:00", "completed": 50, "event": "details_background_retry_progress", "job_id": "000392-200-20190715-20190715", "total": 104}
+{"at_utc": "2026-06-24T04:58:16+00:00", "completed": 50, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:03:35+00:00", "completed": 60, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:03:47+00:00", "completed": 60, "event": "details_background_retry_progress", "job_id": "000392-200-20190715-20190715", "total": 104}
+{"at_utc": "2026-06-24T05:09:12+00:00", "completed": 70, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:09:42+00:00", "completed": 70, "event": "details_background_retry_progress", "job_id": "000392-200-20190715-20190715", "total": 104}
+{"at_utc": "2026-06-24T05:13:12+00:00", "completed": 80, "event": "details_background_retry_progress", "job_id": "000392-200-20190715-20190715", "total": 104}
+{"at_utc": "2026-06-24T05:13:41+00:00", "completed": 80, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:19:28+00:00", "completed": 90, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:19:44+00:00", "completed": 90, "event": "details_background_retry_progress", "job_id": "000392-200-20190715-20190715", "total": 104}
+{"at_utc": "2026-06-24T05:23:23+00:00", "completed": 100, "event": "details_background_retry_progress", "job_id": "000392-200-20190715-20190715", "total": 104}
+{"at_utc": "2026-06-24T05:24:50+00:00", "completed": 104, "event": "details_background_retry_progress", "job_id": "000392-200-20190715-20190715", "total": 104}
+{"at_utc": "2026-06-24T05:24:50+00:00", "detail_error_count": 104, "detail_page_count": 185, "detail_page_ok_count": 81, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000392-200-20190715-20190715"}
+{"at_utc": "2026-06-24T05:25:41+00:00", "completed": 100, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:30:34+00:00", "completed": 110, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:35:20+00:00", "completed": 120, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:37:00+00:00", "completed": 130, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:38:41+00:00", "completed": 140, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:40:30+00:00", "completed": 150, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:40:48+00:00", "completed": 151, "event": "details_background_retry_progress", "job_id": "000381-100-20190710-20190710", "total": 151}
+{"at_utc": "2026-06-24T05:40:48+00:00", "detail_error_count": 151, "detail_page_count": 200, "detail_page_ok_count": 49, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000381-100-20190710-20190710"}

@@ -1,0 +1,42 @@
+[
+  {
+    "attempts": 1,
+    "bytes": 13264,
+    "case_number": "GF-2019-CR-01156",
+    "case_number_on_page": "GF-2019-CR-01156",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4265178",
+    "document_link_count": 0,
+    "documents": [],
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4265178",
+    "has_document_links": false,
+    "has_register_of_actions": true,
+    "index": 1,
+    "indexed_entries": [
+      {
+        "date": "07/01/2019",
+        "description": "CANCELED",
+        "index_number": "1",
+        "title": "Citation"
+      },
+      {
+        "date": "07/01/2019",
+        "description": "",
+        "index_number": "3",
+        "title": "Criminal Judgment"
+      },
+      {
+        "date": "07/01/2019",
+        "description": "",
+        "index_number": "4",
+        "title": "Notification of Rights and Acknowledgement"
+      }
+    ],
+    "indexed_entry_count": 3,
+    "ok": true,
+    "path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104105Z/probe-0014-100-20190630-20190630-exact_error_retry-000361-100-20190630-20190630/details/GF-2019-CR-01156/detail.html",
+    "retryable": false,
+    "status_code": 200,
+    "summary_path": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104105Z/probe-0014-100-20190630-20190630-exact_error_retry-000361-100-20190630-20190630/details/GF-2019-CR-01156/detail-summary.json"
+  }
+]

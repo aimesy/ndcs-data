@@ -1,0 +1,6 @@
+{"agent": "http://10.252.18.1:8795", "at_utc": "2026-06-24T00:52:46+00:00", "event": "started", "http_impersonate": "chrome120", "lane_id": "18"}
+{"at_utc": "2026-06-24T00:52:47+00:00", "event": "prepare", "job_id": "000340-200-20190619-20190619", "product_id": 200, "values": {"DateFiledOnAfter": "06/19/2019", "DateFiledOnBefore": "06/19/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T00:52:48+00:00", "bridge_challenge_id": "3aea694c60cd41b8af7e4db41f1f2ffe", "event": "challenge_posted", "job_id": "000340-200-20190619-20190619"}
+{"at_utc": "2026-06-24T00:53:19+00:00", "bridge_challenge_id": "3aea694c60cd41b8af7e4db41f1f2ffe", "event": "submitting", "job_id": "000340-200-20190619-20190619"}
+{"at_utc": "2026-06-24T00:53:19+00:00", "error": "HTTPError('HTTP Error 403: ')", "event": "job_error", "job_id": "000340-200-20190619-20190619"}
+{"at_utc": "2026-06-24T00:53:19+00:00", "attempted": 1, "completed": 0, "event": "finished"}
