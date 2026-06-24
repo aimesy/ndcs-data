@@ -95,3 +95,5 @@
 {"at_utc": "2026-06-24T11:50:19+00:00", "error": "Error: detail-result post failed 401: {\"error\": \"unauthorized\"}\n    at postDetailResult (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:389:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:406:7)", "event": "details_background_bridge_result_error", "job_id": "000736-200-20200103-20200103"}
 {"at_utc": "2026-06-24T11:50:34+00:00", "completed": 60, "event": "details_background_retry_progress", "job_id": "000758-200-20200114-20200114", "total": 137}
 {"at_utc": "2026-06-24T11:52:12+00:00", "completed": 70, "event": "details_background_retry_progress", "job_id": "000758-200-20200114-20200114", "total": 137}
+{"at_utc": "2026-06-24T11:53:54+00:00", "completed": 80, "event": "details_background_retry_progress", "job_id": "000758-200-20200114-20200114", "total": 137}
+{"at_utc": "2026-06-24T11:55:33+00:00", "completed": 90, "event": "details_background_retry_progress", "job_id": "000758-200-20200114-20200114", "total": 137}

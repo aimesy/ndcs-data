@@ -55,3 +55,7 @@
 {"at_utc": "2026-06-24T11:31:49+00:00", "completed": 125, "event": "details_background_progress", "job_id": "probe-0009-100-20190626-20190626-exact_error_retry-000353-100-20190626-20190626", "total": 157}
 {"at_utc": "2026-06-24T11:42:18+00:00", "completed": 175, "event": "details_background_progress", "job_id": "probe-0011-100-20190627-20190627-exact_error_retry-000355-100-20190627-20190627", "total": 196}
 {"at_utc": "2026-06-24T11:51:04+00:00", "completed": 150, "event": "details_background_progress", "job_id": "probe-0009-100-20190626-20190626-exact_error_retry-000353-100-20190626-20190626", "total": 157}
+{"at_utc": "2026-06-24T11:55:44+00:00", "completed": 157, "event": "details_background_progress", "job_id": "probe-0009-100-20190626-20190626-exact_error_retry-000353-100-20190626-20190626", "total": 157}
+{"at_utc": "2026-06-24T11:55:44+00:00", "event": "details_background_retry_start", "failed_count": 141, "job_id": "probe-0009-100-20190626-20190626-exact_error_retry-000353-100-20190626-20190626", "total": 157}
+{"at_utc": "2026-06-24T11:57:09+00:00", "completed": 196, "event": "details_background_progress", "job_id": "probe-0011-100-20190627-20190627-exact_error_retry-000355-100-20190627-20190627", "total": 196}
+{"at_utc": "2026-06-24T11:57:09+00:00", "event": "details_background_retry_start", "failed_count": 146, "job_id": "probe-0011-100-20190627-20190627-exact_error_retry-000355-100-20190627-20190627", "total": 196}
