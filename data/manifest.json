@@ -1,86 +1,94 @@
 {
-  "generated_at_utc": "2026-06-24T17:52:57+00:00",
+  "generated_at_utc": "2026-06-24T17:58:50+00:00",
   "project": "ndcs-data",
   "promoted_runs": [
     {
-      "last_promoted_at_utc": "2026-06-24T17:52:57+00:00",
-      "last_promotion_manifest": "promotions/20260624T175257Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T17:58:50+00:00",
+      "last_promotion_manifest": "promotions/20260624T175850Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260623-vps-topup-2019",
       "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T17:52:57+00:00",
-      "last_promotion_manifest": "promotions/20260624T175257Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T17:58:50+00:00",
+      "last_promotion_manifest": "promotions/20260624T175850Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260623-vps-topup-2019-browser",
       "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-browser"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T17:52:57+00:00",
-      "last_promotion_manifest": "promotions/20260624T175257Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T17:58:50+00:00",
+      "last_promotion_manifest": "promotions/20260624T175850Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260623-vps-topup-2019-browser-341",
       "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-browser-341"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T17:52:57+00:00",
-      "last_promotion_manifest": "promotions/20260624T175257Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T17:58:50+00:00",
+      "last_promotion_manifest": "promotions/20260624T175850Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260623-vps-topup-2019-browser-details-341",
       "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-browser-details-341"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T17:52:57+00:00",
-      "last_promotion_manifest": "promotions/20260624T175257Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T17:58:50+00:00",
+      "last_promotion_manifest": "promotions/20260624T175850Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260623-vps-topup-2019-mullvad-details-341",
       "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T17:52:57+00:00",
-      "last_promotion_manifest": "promotions/20260624T175257Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T17:58:50+00:00",
+      "last_promotion_manifest": "promotions/20260624T175850Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260624-retry-probe-002",
       "source_root": "/var/tmp/ndcs-runs/20260624-retry-probe-002"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T17:52:57+00:00",
-      "last_promotion_manifest": "promotions/20260624T175257Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T17:58:50+00:00",
+      "last_promotion_manifest": "promotions/20260624T175850Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "20260624-retry-probe-003",
       "source_root": "/var/tmp/ndcs-runs/20260624-retry-probe-003"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T17:52:57+00:00",
-      "last_promotion_manifest": "promotions/20260624T175257Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T17:58:50+00:00",
+      "last_promotion_manifest": "promotions/20260624T175850Z-vps-loop.json",
       "promoted_bytes": 16988,
       "promoted_file_count": 124,
       "run_id": "20260624-retry-probe-004",
       "source_root": "/var/tmp/ndcs-runs/20260624-retry-probe-004"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T17:52:57+00:00",
-      "last_promotion_manifest": "promotions/20260624T175257Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T17:58:50+00:00",
+      "last_promotion_manifest": "promotions/20260624T175850Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "ndcs-60-lane-20260624T150128Z",
       "source_root": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T150128Z"
     },
     {
-      "last_promoted_at_utc": "2026-06-24T17:52:57+00:00",
-      "last_promotion_manifest": "promotions/20260624T175257Z-vps-loop.json",
+      "last_promoted_at_utc": "2026-06-24T17:58:50+00:00",
+      "last_promotion_manifest": "promotions/20260624T175850Z-vps-loop.json",
       "promoted_bytes": 0,
       "promoted_file_count": 0,
       "run_id": "ndcs-60-lane-20260624T165716Z",
       "source_root": "/var/tmp/ndcs-runs/ndcs-60-lane-20260624T165716Z"
+    },
+    {
+      "last_promoted_at_utc": "2026-06-24T17:58:50+00:00",
+      "last_promotion_manifest": "promotions/20260624T175850Z-vps-loop.json",
+      "promoted_bytes": 4499,
+      "promoted_file_count": 1,
+      "run_id": "ndcs-one-per-lane-20260624T175326Z",
+      "source_root": "/var/tmp/ndcs-runs/ndcs-one-per-lane-20260624T175326Z"
     }
   ],
   "schema": "ndcs-data-manifest/v1"
