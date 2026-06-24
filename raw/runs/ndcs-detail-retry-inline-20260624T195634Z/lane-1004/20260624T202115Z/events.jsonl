@@ -1,0 +1,9 @@
+{"agent": "http://10.253.4.1:8795", "at_utc": "2026-06-24T20:21:15+00:00", "event": "started", "lane_id": "1004", "worker": "browser"}
+{"at_utc": "2026-06-24T20:21:16+00:00", "chrome": "/usr/bin/google-chrome", "event": "chrome_starting", "port": 40004, "profile_dir": "/var/tmp/ndcs-browser-profiles/lane-1004"}
+{"at_utc": "2026-06-24T20:21:16+00:00", "browser": "Chrome/149.0.7827.196", "event": "chrome_version_ready", "protocol_version": "1.3"}
+{"at_utc": "2026-06-24T20:21:16+00:00", "event": "chrome_tab_ready", "target_id": "B7C507E9E23A800E2754E899A11238D7", "url": "about:blank"}
+{"at_utc": "2026-06-24T20:21:16+00:00", "event": "chrome_ws_open", "target_id": "B7C507E9E23A800E2754E899A11238D7"}
+{"at_utc": "2026-06-24T20:21:16+00:00", "event": "chrome_ready", "target_id": "B7C507E9E23A800E2754E899A11238D7"}
+{"at_utc": "2026-06-24T20:21:16+00:00", "event": "prepare", "job_id": "probe-0002-100-20190625-20190625-detail_error_retry-000351-100-20190625-20190625", "product_id": 100, "values": {"DateFiledOnAfter": "06/25/2019", "DateFiledOnBefore": "06/25/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T20:21:35+00:00", "attempt": 1, "error": "Error: Timed out waiting for (() => {\n        const img = document.querySelector('img[src*=\"LanapCaptcha.aspx\"]');\n        return Boolean(img && img.complete && img.naturalWidth > 0 && img.naturalHeight > 0);\n      })()", "event": "prepare_retry", "job_id": "probe-0002-100-20190625-20190625-detail_error_retry-000351-100-20190625-20190625"}
+{"at_utc": "2026-06-24T20:21:56+00:00", "attempt": 2, "error": "Error: Timed out waiting for (() => {\n        const img = document.querySelector('img[src*=\"LanapCaptcha.aspx\"]');\n        return Boolean(img && img.complete && img.naturalWidth > 0 && img.naturalHeight > 0);\n      })()", "event": "prepare_retry", "job_id": "probe-0002-100-20190625-20190625-detail_error_retry-000351-100-20190625-20190625"}
