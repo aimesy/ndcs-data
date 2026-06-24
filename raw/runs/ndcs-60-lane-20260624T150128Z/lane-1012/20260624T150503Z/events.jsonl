@@ -51,3 +51,6 @@
 {"at_utc": "2026-06-24T15:33:39+00:00", "completed": 75, "event": "details_background_progress", "job_id": "000017-100-20190109-20190109", "total": 142}
 {"at_utc": "2026-06-24T15:45:25+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000017-100-20190109-20190109", "total": 142}
 {"at_utc": "2026-06-24T15:52:25+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000017-100-20190109-20190109", "total": 142}
+{"at_utc": "2026-06-24T15:53:53+00:00", "completed": 142, "event": "details_background_progress", "job_id": "000017-100-20190109-20190109", "total": 142}
+{"at_utc": "2026-06-24T15:53:53+00:00", "event": "details_background_retry_start", "failed_count": 141, "job_id": "000017-100-20190109-20190109", "total": 142}
+{"at_utc": "2026-06-24T15:54:18+00:00", "detail_concurrency": 1, "event": "details_background_start", "job_id": "000017-100-20190109-20190109", "total": 142}
