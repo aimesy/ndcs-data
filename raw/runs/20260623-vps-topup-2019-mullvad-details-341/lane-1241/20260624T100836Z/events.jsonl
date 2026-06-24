@@ -101,3 +101,6 @@
 {"at_utc": "2026-06-24T11:58:52+00:00", "completed": 110, "event": "details_background_retry_progress", "job_id": "000758-200-20200114-20200114", "total": 137}
 {"at_utc": "2026-06-24T12:00:30+00:00", "completed": 120, "event": "details_background_retry_progress", "job_id": "000758-200-20200114-20200114", "total": 137}
 {"at_utc": "2026-06-24T12:02:11+00:00", "completed": 130, "event": "details_background_retry_progress", "job_id": "000758-200-20200114-20200114", "total": 137}
+{"at_utc": "2026-06-24T12:03:21+00:00", "completed": 137, "event": "details_background_retry_progress", "job_id": "000758-200-20200114-20200114", "total": 137}
+{"at_utc": "2026-06-24T12:03:21+00:00", "detail_error_count": 137, "detail_page_count": 141, "detail_page_ok_count": 4, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000758-200-20200114-20200114"}
+{"at_utc": "2026-06-24T12:03:21+00:00", "error": "Error: detail-result post failed 401: {\"error\": \"unauthorized\"}\n    at postDetailResult (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:389:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:406:7)", "event": "details_background_bridge_result_error", "job_id": "000758-200-20200114-20200114"}
