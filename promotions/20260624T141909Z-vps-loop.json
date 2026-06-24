@@ -1,0 +1,856 @@
+{
+  "data_repo": "/opt/ndcs-data",
+  "files": [
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 27027,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T104859Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141345Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141345Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141354Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141354Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141403Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141403Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141412Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141412Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141420Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141420Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141429Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141429Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141438Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141438Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141447Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141447Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141456Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141456Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141505Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141505Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141513Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141513Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141522Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141522Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141531Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141531Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141540Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141540Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141549Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141549Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141558Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141558Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141607Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141607Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141615Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141615Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141624Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141624Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141633Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141633Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141642Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141642Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141651Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141651Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141700Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141700Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141709Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141709Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141717Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141717Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141726Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141726Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141735Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141735Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141744Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141744Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141753Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141753Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141802Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141802Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141811Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141811Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141819Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141819Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141828Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141828Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141837Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141837Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141846Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141846Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1242/20260624T141855Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1242/20260624T141855Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 22296,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T104813Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T104813Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 23241,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T105701Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T105701Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141342Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141342Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141351Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141351Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141400Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141400Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141409Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141409Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141418Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141418Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141427Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141427Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141435Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141435Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141444Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141444Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141453Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141453Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141502Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141502Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141511Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141511Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141520Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141520Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141529Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141529Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141538Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141538Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141546Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141546Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141555Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141555Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141604Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141604Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141613Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141613Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141622Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141622Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141631Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141631Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141640Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141640Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141649Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141649Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141657Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141657Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141706Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141706Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141715Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141715Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141724Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141724Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141733Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141733Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141742Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141742Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141751Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141751Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141800Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141800Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141809Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141809Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141818Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141818Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141826Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141826Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141835Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141835Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141844Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141844Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141853Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141853Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1244/20260624T141902Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1244/20260624T141902Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141344Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141344Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141353Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141353Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141402Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141402Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141411Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141411Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141420Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141420Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141428Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141428Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141437Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141437Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141446Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141446Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141455Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141455Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141504Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141504Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141513Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141513Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141521Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141521Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141530Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141530Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141539Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141539Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141548Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141548Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141557Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141557Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141606Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141606Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141614Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141614Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141623Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141623Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141632Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141632Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141641Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141641Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141650Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141650Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141658Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141658Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141707Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141707Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141716Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141716Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141725Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141725Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141734Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141734Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141743Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141743Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141752Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141752Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141800Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141800Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141809Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141809Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141818Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141818Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141827Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141827Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141836Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141836Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141844Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141844Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141853Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141853Z/events.jsonl"
+    },
+    {
+      "action": "sanitized-jsonl",
+      "bytes": 821,
+      "destination": "raw/runs/20260624-retry-probe-004/lane-1245/20260624T141902Z/events.jsonl",
+      "run_id": "20260624-retry-probe-004",
+      "source": "/var/tmp/ndcs-runs/20260624-retry-probe-004/lane-1245/20260624T141902Z/events.jsonl"
+    }
+  ],
+  "generated_at_utc": "2026-06-24T14:19:09+00:00",
+  "promoted_file_count": 113,
+  "runs": [
+    {
+      "promoted_bytes": 0,
+      "promoted_file_count": 0,
+      "run_id": "20260623-vps-topup-2019",
+      "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019"
+    },
+    {
+      "promoted_bytes": 0,
+      "promoted_file_count": 0,
+      "run_id": "20260623-vps-topup-2019-browser",
+      "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-browser"
+    },
+    {
+      "promoted_bytes": 0,
+      "promoted_file_count": 0,
+      "run_id": "20260623-vps-topup-2019-browser-341",
+      "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-browser-341"
+    },
+    {
+      "promoted_bytes": 0,
+      "promoted_file_count": 0,
+      "run_id": "20260623-vps-topup-2019-browser-details-341",
+      "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-browser-details-341"
+    },
+    {
+      "promoted_bytes": 0,
+      "promoted_file_count": 0,
+      "run_id": "20260623-vps-topup-2019-mullvad-details-341",
+      "source_root": "/var/tmp/ndcs-runs/20260623-vps-topup-2019-mullvad-details-341"
+    },
+    {
+      "promoted_bytes": 0,
+      "promoted_file_count": 0,
+      "run_id": "20260624-retry-probe-002",
+      "source_root": "/var/tmp/ndcs-runs/20260624-retry-probe-002"
+    },
+    {
+      "promoted_bytes": 0,
+      "promoted_file_count": 0,
+      "run_id": "20260624-retry-probe-003",
+      "source_root": "/var/tmp/ndcs-runs/20260624-retry-probe-003"
+    },
+    {
+      "promoted_bytes": 162874,
+      "promoted_file_count": 113,
+      "run_id": "20260624-retry-probe-004",
+      "source_root": "/var/tmp/ndcs-runs/20260624-retry-probe-004"
+    }
+  ],
+  "schema": "ndcs-data-promotion/v1",
+  "skipped": {
+    "operational-name": 480,
+    "operational-path": 2,
+    "unsupported-suffix": 255
+  },
+  "source_root": "/var/tmp/ndcs-runs",
+  "unchanged_file_count": 47146
+}
