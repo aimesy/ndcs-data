@@ -40,3 +40,11 @@
 {"at_utc": "2026-06-24T15:22:43+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000187-100-20190404-20190404", "total": 171}
 {"at_utc": "2026-06-24T15:23:15+00:00", "completed": 50, "event": "details_background_progress", "job_id": "000230-200-20190425-20190425", "total": 166}
 {"at_utc": "2026-06-24T15:24:22+00:00", "completed": 75, "event": "details_background_progress", "job_id": "000230-200-20190425-20190425", "total": 166}
+{"at_utc": "2026-06-24T15:25:13+00:00", "completed": 100, "event": "details_background_progress", "job_id": "000230-200-20190425-20190425", "total": 166}
+{"at_utc": "2026-06-24T15:26:14+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000230-200-20190425-20190425", "total": 166}
+{"at_utc": "2026-06-24T15:27:08+00:00", "completed": 150, "event": "details_background_progress", "job_id": "000230-200-20190425-20190425", "total": 166}
+{"at_utc": "2026-06-24T15:27:47+00:00", "completed": 166, "event": "details_background_progress", "job_id": "000230-200-20190425-20190425", "total": 166}
+{"at_utc": "2026-06-24T15:27:47+00:00", "event": "details_background_retry_start", "failed_count": 1, "job_id": "000230-200-20190425-20190425", "total": 166}
+{"at_utc": "2026-06-24T15:27:48+00:00", "completed": 1, "event": "details_background_retry_progress", "job_id": "000230-200-20190425-20190425", "total": 1}
+{"at_utc": "2026-06-24T15:27:48+00:00", "detail_error_count": 0, "detail_page_count": 166, "detail_page_ok_count": 166, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000230-200-20190425-20190425"}
+{"at_utc": "2026-06-24T15:29:00+00:00", "completed": 125, "event": "details_background_progress", "job_id": "000187-100-20190404-20190404", "total": 171}
