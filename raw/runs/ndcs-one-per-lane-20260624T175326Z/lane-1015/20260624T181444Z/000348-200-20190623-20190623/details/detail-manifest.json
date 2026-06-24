@@ -1,0 +1,47 @@
+[
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "40-2019-PR-00013",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4261973",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4261973",
+    "index": 1,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-one-per-lane-20260624T175326Z/lane-1015/20260624T181444Z/000348-200-20190623-20190623/details/40-2019-PR-00013/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4261973&CaseID=4261973",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "45-2019-CV-00480",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262022",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262022",
+    "index": 2,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-one-per-lane-20260624T175326Z/lane-1015/20260624T181444Z/000348-200-20190623-20190623/details/45-2019-CV-00480/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4262022&CaseID=4262022",
+    "retryable": false,
+    "status_code": 302
+  },
+  {
+    "attempts": 1,
+    "bytes": 207,
+    "case_number": "53-2019-PR-00201",
+    "content_type": "text/html; charset=utf-8",
+    "detail_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262366",
+    "error": "detail session redirected to login/default page; session likely expired",
+    "final_url": "https://publicsearch.ndcourts.gov/CaseDetail.aspx?CaseID=4262366",
+    "index": 3,
+    "ok": false,
+    "path": "/var/tmp/ndcs-runs/ndcs-one-per-lane-20260624T175326Z/lane-1015/20260624T181444Z/000348-200-20190623-20190623/details/53-2019-PR-00201/detail.html",
+    "redirect_location": "/Login.aspx?ReturnUrl=%2fCaseDetail.aspx%3fCaseID%3d4262366&CaseID=4262366",
+    "retryable": false,
+    "status_code": 302
+  }
+]
