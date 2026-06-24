@@ -1,0 +1,6 @@
+*.json diff
+*.jsonl diff
+*.ndjson diff
+*.html -diff
+*.parquet -diff
+

@@ -1,0 +1,13 @@
+# Local runtime state
+.env
+.env.*
+.tmp/
+.promoter-state/
+__pycache__/
+*.py[cod]
+
+# Never commit operational secrets or CAPTCHA assist artifacts.
+*token*
+*secret*
+*captcha-attempts*
+
