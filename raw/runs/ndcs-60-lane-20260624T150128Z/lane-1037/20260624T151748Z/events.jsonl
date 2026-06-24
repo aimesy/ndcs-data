@@ -1,0 +1,8 @@
+{"agent": "http://10.253.37.1:8795", "at_utc": "2026-06-24T15:17:48+00:00", "event": "started", "lane_id": "1037", "worker": "browser"}
+{"at_utc": "2026-06-24T15:17:48+00:00", "chrome": "/usr/bin/google-chrome", "event": "chrome_starting", "port": 40037, "profile_dir": "/var/tmp/ndcs-browser-profiles/lane-1037"}
+{"at_utc": "2026-06-24T15:17:51+00:00", "browser": "Chrome/149.0.7827.196", "event": "chrome_version_ready", "protocol_version": "1.3"}
+{"at_utc": "2026-06-24T15:17:51+00:00", "event": "chrome_tab_ready", "target_id": "D97D03E05D07E4528A31694DD64B7E42", "url": "about:blank"}
+{"at_utc": "2026-06-24T15:17:51+00:00", "event": "chrome_ws_open", "target_id": "D97D03E05D07E4528A31694DD64B7E42"}
+{"at_utc": "2026-06-24T15:17:51+00:00", "event": "chrome_ready", "target_id": "D97D03E05D07E4528A31694DD64B7E42"}
+{"at_utc": "2026-06-24T15:17:51+00:00", "event": "prepare", "job_id": "000253-100-20190507-20190507", "product_id": 100, "values": {"DateFiledOnAfter": "05/07/2019", "DateFiledOnBefore": "05/07/2019", "SortBy": "fileddate"}}
+{"at_utc": "2026-06-24T15:18:12+00:00", "bridge_challenge_id": "5efa98a3a2894e89942e169883c5da46", "event": "challenge_posted", "job_id": "000253-100-20190507-20190507"}
