@@ -57,3 +57,10 @@
 {"at_utc": "2026-06-24T17:22:14+00:00", "completed": 80, "event": "details_background_retry_progress", "job_id": "000343-100-20190621-20190621", "total": 145}
 {"at_utc": "2026-06-24T17:22:53+00:00", "completed": 90, "event": "details_background_retry_progress", "job_id": "000343-100-20190621-20190621", "total": 145}
 {"at_utc": "2026-06-24T17:23:30+00:00", "completed": 100, "event": "details_background_retry_progress", "job_id": "000343-100-20190621-20190621", "total": 145}
+{"at_utc": "2026-06-24T17:24:07+00:00", "completed": 110, "event": "details_background_retry_progress", "job_id": "000343-100-20190621-20190621", "total": 145}
+{"at_utc": "2026-06-24T17:24:43+00:00", "completed": 120, "event": "details_background_retry_progress", "job_id": "000343-100-20190621-20190621", "total": 145}
+{"at_utc": "2026-06-24T17:25:24+00:00", "completed": 130, "event": "details_background_retry_progress", "job_id": "000343-100-20190621-20190621", "total": 145}
+{"at_utc": "2026-06-24T17:26:05+00:00", "completed": 140, "event": "details_background_retry_progress", "job_id": "000343-100-20190621-20190621", "total": 145}
+{"at_utc": "2026-06-24T17:26:25+00:00", "completed": 145, "event": "details_background_retry_progress", "job_id": "000343-100-20190621-20190621", "total": 145}
+{"at_utc": "2026-06-24T17:26:25+00:00", "detail_error_count": 156, "detail_page_count": 189, "detail_page_ok_count": 33, "document_link_count": 0, "document_saved_count": 0, "event": "details_background_complete", "job_id": "000343-100-20190621-20190621"}
+{"at_utc": "2026-06-24T17:26:27+00:00", "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:15141:13\n    at async timedFetch (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:147:12)\n    at async postDetailResult (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:604:20)\n    at async run (file:///opt/ndcs/scripts/ndcs_detail_capture_worker.mjs:630:7)", "event": "details_background_bridge_result_error", "job_id": "000343-100-20190621-20190621"}
